@@ -43,7 +43,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
 
 <hr>
 
-# **Students**
+# **Members**
 {% for person in site.data.LabMembers %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
@@ -64,12 +64,6 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
         {% endif %}
         {% if person.orcid %}
           <a href= "https://orcid.org/{{person.orcid}}"><span class="fa fa-book" aria-hidden="true"></span> ORCID </a> <br>
-        {% endif %}
-        {% if person.twitter %}
-          <a href= "http://twitter.com/{{person.twitter}}"><span class="fab fa-twitter" aria-hidden="true"></span> @{{person.twitter}} </a> <br>
-        {% endif %}
-        {% if person.website %}
-          <a href= "{{person.website}}"><span class="fa fa-rss" aria-hidden="true"></span> {{person.website}} </a> <br>
         {% endif %}
     </div>
     <div class="col-sm-8" style="text-align: justify">
