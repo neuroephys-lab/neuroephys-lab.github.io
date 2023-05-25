@@ -90,9 +90,8 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
     <td>{{alumni.name}}</td>
     <td>{{alumni.years}}</td>
     <td>{{alumni.position}}</td>
-    <td>{{alumni.nextPosition}}</td>
   </tr>
-    
+      {% endfor %}
     
   <tr>
     <th>Alumni</th>
