@@ -9,7 +9,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Contact
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
-    	<img src="/img/publications/SOMstressNatCom.png" alt="FMUP" width="100%" height="100%">
+    	<img src="/img/FMUPbuilding.jpg" alt="FMUP" width="100%" height="100%">
     </div>
     <div class="col-sm-8">
         <p class="text-justify">The <b>Neurophysiolog and Neuroengineering Lab</b> is located at the Center for Medical Research (CIM) building of the Faculty of Medicine of the University of Porto (FMUP).</p>
