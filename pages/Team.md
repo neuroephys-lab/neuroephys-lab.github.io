@@ -9,7 +9,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
 # **Principal Investigators**
 
 # **Students**
-{% for person in site.data.LabMembers %}
+{% for person in site.data.PIs %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{person.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
