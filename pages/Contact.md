@@ -9,7 +9,7 @@ subtitle: Corces Lab Contact
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
-    	<img src="/img/FMUPbuilding.jpg" alt="FMUP" width="100%" height="100%">
+    	<img src="/img/FMUPbuilding.jpg" alt="FMUP" width="200%" height="200%">
     </div>
     <div class="col-sm-8">
         <p class="text-justify">The <b>Neurophysiolog and Neuroengineering Lab</b> is located on the Center for Medical Research (CIM) building at the Faculty of Medicine of the University of Porto (FMUP).</p>
