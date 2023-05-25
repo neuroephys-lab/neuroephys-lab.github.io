@@ -6,7 +6,9 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
 
 <div class="clear"></div>
 
-# **Lab Members**
+# **Principal Investigators**
+
+# **Students**
 {% for person in site.data.LabMembers %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
