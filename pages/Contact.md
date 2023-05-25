@@ -1,7 +1,7 @@
 ---
 layout: gridlay
 title: Contact Us
-subtitle: Corces Lab Contact
+subtitle: Neurophysiology and Neuroengineering Lab Contact
 ---
 
 # **Contact Us**
