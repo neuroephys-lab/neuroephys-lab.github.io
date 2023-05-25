@@ -1,12 +1,12 @@
 ---
 layout: gridlay
 title: Research
-subtitle: Corces Lab Research
+subtitle: Neurophysiology and Neuroengineering Lab Research
 ---
 
 <div align="center">
 	<h1>
-		<strong>Research in the Corces Lab</strong>
+		<strong>Research in the Neurophysiology and Neuroengineering Lab</strong>
 	</h1>
 </div>
 <hr>
@@ -22,7 +22,7 @@ subtitle: Corces Lab Research
 <hr>
 
 <div id="Alzheimer's Disease" class="col-sm-12">
-		<h3>Alzheimer's Disease</h3>
+		<h3>NEUROPHYSIOLOGY</h3>
 		<p>
 			Alzheimer’s disease (AD) manifests as a devastating age-related progressive neurodegeneration and has become the third most common cause of mortality in the United States. The concomitant loss of cognitive function plagues more than 44 million individuals worldwide, marking AD as a looming public health crisis. To date, no approved therapies exist for the prevention or cure of AD, highlighting a crucial unmet clinical need. In the Corces lab, we aim to identify novel aspects of AD pathogenesis and nominate candidate avenues for therapeutic intervention through an in-depth understanding of cell type- and disease-specific biology.
 		</p>
@@ -70,7 +70,7 @@ subtitle: Corces Lab Research
 <hr>
 
 <div id="Parkinson’s Disease" class="col-sm-12">
-		<h3>Parkinson’s Disease</h3>
+		<h3>NEUROENGINEERING</h3>
 		<p>
 			The Corces Lab is also broadly interested in other neurodegenerative diseases including Parkinson’s disease (PD). PD is a progressive long-term neurodegenerative disorder that is classically associated with effects on the motor system (tremors, muscle rigidity, bradykinesia etc.). The primary cellular cause of these symptoms is the loss of dopamine-secreting neurons in the substantia nigra. Similar to the pathologic accumulations in AD, PD is characterized by the accumulation of alpha-synuclein protein in Lewy bodies. Many of the same questions and techniques that we apply to AD are also being applied to PD. We are particularly interested in the inherited genetic contributions to PD as our understanding of this remains much less mature.
 		</p>
