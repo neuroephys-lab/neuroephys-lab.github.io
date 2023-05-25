@@ -74,11 +74,28 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
 
 <hr>
 
-# **Alumni**
+# **Undergrads & Alumni**
 <hr>
 <table>
+    
   <tr>
-    <th>Name</th>
+    <th>Undergrad</th>
+    <th>Years in Lab</th>
+    <th>Degree</th>
+  </tr>
+
+  {% for alumni in site.data.Alumni %}
+
+  <tr>
+    <td>{{alumni.name}}</td>
+    <td>{{alumni.years}}</td>
+    <td>{{alumni.position}}</td>
+    <td>{{alumni.nextPosition}}</td>
+  </tr>
+    
+    
+  <tr>
+    <th>Alumni</th>
     <th>Years in Lab</th>
     <th>Position in Lab</th>
     <th>Subsequent Position</th>
