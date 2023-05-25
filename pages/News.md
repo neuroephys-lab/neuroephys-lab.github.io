@@ -1,11 +1,11 @@
 ---
 layout: gridlay
-title: Resources
-subtitle: Corces Lab Resources
+title: News
+subtitle: Neurophysiology and Neuroengineering Lab News
 ---
 
 # **Resources**
-{% for item in site.data.Resources %}
+{% for item in site.data.News %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{item.title}}" class="row" style="padding-top: 60px; margin-top: -60px;">
