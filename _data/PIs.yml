@@ -1,0 +1,278 @@
+- name: Ryan Corces, PhD
+  image: /img/members/RyanCorces.jpg
+  altimage: /img/members/RyanCorces.jpg
+  pronouns: he/him/his
+  position: Principal Investigator
+  email: ryan.corces (at) gladstone.ucsf.edu
+  scholar: GUctBkkAAAAJ
+  twitter: "doctorcorces"
+  orcid: "0000-0001-7465-7652"
+  description: "I graduated from Princeton University in 2008 with a major in Molecular Biology and a minor in Computer Science. While at Princeton,
+  I worked under the mentorship of [Coleen Murphy](https://murphylab.princeton.edu/), studying *C. elegans* aging. During the summers I had relatively foundational scientific experiences
+  studying learning and memory (with [Cristina Alberini](http://alberinilab.org/)), and epigenetics (with [Or Gozani](https://gozani-lab-website.github.io/website/index.html)).
+
+
+  After graduation, I spent a year living with family in Spain and teaching science to bilingual elementary schools students. In 2009, I started my Ph.D. in the Cancer Biology
+  program at Stanford University under the mentorship of [Ravi Majeti](http://med.stanford.edu/majetilab.html). Together with Max Jan and Thomas Snyder, we provided the first genetic and cellular proof that AML evolves from
+  sequential acquisition of mutations in a hematopoietic stem cell. We went on to identify patterns to this mutational evolution, with mutations in epigenetic modifiers such as
+  DNMT3A or TET2 occurring universally during the early \"pre-leukemic\" phase of the disease.
+
+
+  These findings led me to pursue postdoctoral training in epigenetics with [Howard Chang](http://med.stanford.edu/changlab.html) at Stanford University. With Jason Buenrostro,
+  we applied the assay for transposase-accessible chromatin using sequencing (ATAC-seq) to understand normal hematopoietic differentiation and leukemic transformation. This
+  highlighted the utility of this technology for understanding complex cellular processes and we subsequently applied ATAC-seq to a cohort of 410 different tumor samples
+  spanning 23 cancer types in collaboration with The Cancer Genome Atlas.
+
+
+  At about the half-way point of my postdoctoral work, I switched gears to study the genetic and epigenetic underpinnings of neurodegenerative diseases. Co-mentored by
+  [Thomas Montine](https://www.montinelab.com/index.html), I used multi-omic epigenetic approaches to dissect the role of inherited variation in Alzheimer's and Parkinson's
+  disease. This work serves as the launching point of the lab, driving our interest in using the epigenome to better understand neurological disease."
+
+- name: Heather Chang
+  image: /img/members/HeatherChang.jpg
+  altimage: /img/members/HeatherChang.jpg
+#  pronouns: 
+  position: Staff Research Associate
+  email: heather.chang (at) gladstone.ucsf.edu
+#  scholar: 
+#  orcid: "0000-0002-2621-3042"
+  twitter: "_heatherchang_"
+  description: "I was born in Taiwan and moved to the Bay Area when I was twelve to study piano performance at the San Francisco Conservatory of Music Pre-College. My
+  love for music then took me to Columbia University in NYC, where I could be challenged intellectually while still being a part of the classical music scene. At Columbia,
+  soaking up everything like a sponge, I quickly discovered the elegance and beauty of biology, especially how neuronal patterns of activity give rise to sensory and behavioral responses.
+  From there, I decided to pursue a bachelor's in Neuroscience and Behavior and began my research journey in the lab of Richard Axel, studying the functional architecture
+  of innate olfactory avoidance in Drosophila Melanogaster. I focused on the V glomerulus and the DA2 glomerulus, which are glomeruli that detect CO2 and geosmin, to
+  understand how aversive channels elicit aversive behaviors. Through the experience, I gained a deep appreciation for brain systems and the intricacies of systems biology.
+  I also yearn to see how basic science findings can transform into applied therapeutics in a precision context. Now at the Corces Lab, I am working towards that goal by
+  delving into the underpinnings of neuronal dysfunction in neurodegenerative diseases through a gene-regulatory and cell type-mechanistic lens. I am interested in using
+  single-cell epigenomics and transcriptomics, alongside massively parallel reporter assays, to prioritize noncoding SNPs that are associated with the disease."
+
+- name: Serena Chang
+  image: /img/members/SerenaChang.jpg
+  altimage: /img/members/SerenaChang.jpg
+#  pronouns: 
+  position: Staff Research Associate
+  email: Serena.chang (at) gladstone.ucsf.edu
+#  scholar: 
+#  orcid: "0000-0002-2621-3042"
+#  twitter: 
+  description: "I grew up in the Bay Area and studied Biochemistry and General Biology as an undergraduate at the University of California, San Diego. During my time there,
+  I joined Dr. Derek Welsbie's ophthalmology lab focusing on the development of gene therapies/small molecules to mitigate degeneration in retinal ganglion cells (RGCs) with
+  hopes for vision restoration in glaucoma patients. I had the opportunity to design plasmid constructs for CRISPR-Cas9 gene editing and to work on optimizing the
+  differentiation of human STEM cells into RGCs. In my final quarter as an undergraduate, I was introduced to and amazed by the field of epigenetics which led me to join the
+  Corces Lab where I could dive further into epigenomic profiling of major neurodegenerative diseases. When I'm not in lab, I like crocheting tiny plushies and trying new coffee places."
+
+
+- name: Iris Chin
+  image: /img/members/IrisChin.jpg
+  altimage: /img/members/IrisChin.jpg
+#  pronouns: 
+  position: UCSF PhD Student (BMS)
+  email: iris.chin (at) gladstone.ucsf.edu
+#  scholar: 
+  orcid: "0000-0002-2621-3042"
+  twitter: "irischin9"
+  description: "I grew up in the Bay Area, then moved to the midwest to study Neuroscience and Psychological & Brain Sciences at Washington
+  University in St. Louis. There, I joined the lab of Yehuda Ben-Shahar to study how homologs of genes that cause Williams Syndrome, a
+  human developmental condition characterized by hypersociability, affect social behavior in Drosophila melanogaster. I graduated in 2019, 
+  and after continuing on as lab manager for a year, I joined the Biomedical Sciences Graduate Program at UCSF. Now, as part of the Corces
+  Lab, I am pivoting to study human patient data directly, and using cellular models to understand the etiology of neurodegenerative and
+  neuropsychiatric diseases at genomic and epigenetic levels."
+
+- name: Zach Gardell
+  image: /img/members/ZachGardell.jpg
+  altimage: /img/members/ZachGardell.jpg
+  pronouns: he/him/his
+  position: UCSF PhD Student (BMS)
+  email: zach.gardell (at) gladstone.ucsf.edu
+#  scholar: 
+  orcid: "0000-0002-0189-9658"
+  twitter: "ZachGardell "
+  description: "Growing up in rural Rhode Island, I was raised in the outdoors and turned this into a passion for biology with the help
+  of dedicated early educators. Deciding to make a career out of this, I made the trek to Providence to study Biochemistry and Molecular
+  Biology at Brown University. There, I began my journey in research in the lab of Ashley Webb, investigating how the Forkhead Box O family
+  of transcription factors (FOXOs) regulate stem cell homeostasis in the brain. I concurrently examined this functionality under
+  physiological and pathological conditions, focusing the majority of my efforts on investigating a role for FOXOs in the maintenance of
+  cancer stem cell quiescence in the context of high-grade brain cancer. Wanting to continue research on human disease, I switched coasts
+  after graduation to pursue my PhD in the Biomedical Sciences Program at UCSF. Here, as a member of the Corces Lab, I aim to pair
+  multi-omics with organoid and iPSC-based model systems to pinpoint and validate the epigenetic underpinnings driving AD and PD.
+  In particular, I am interested in the interplay between such drivers and their contextual relationships in a cell-type and cell-state
+  specific manner. Outside of lab, you'll find me working with UCSF's Science Education Partnership, exploring new ways to consume coffee,
+  or making my way to a beach or a mountain."
+
+- name: Alia Johnson
+  image: /img/members/AliaJohnson.jpg
+  altimage: /img/members/AliaJohnson.jpg
+#  pronouns: 
+  position: Staff Research Associate
+  email: alia.johnson (at) gladstone.ucsf.edu
+#  scholar:
+#  twitter: ""
+  description: "I grew up in the Bay Area, and went to the University of Washington in Seattle to pursue a degree in Molecular, Cellular, and Developmental
+  Biology. While there, I developed an interest in disease mechanisms and drug development. Under the mentorship of Dr. Daniel Promislow, I joined a project
+  working with the model organism Drosophila to study how tau protein affects the transcriptome of individual brain cells. Additionally, I started my own
+  project focused on the aging drug, rapamycin, and its affect on development within Drosophila larvae of different genotypes. My work concluded with the
+  production of single-nuclei transcriptome data of whole larvae raised on rapamycin. After graduating in 2022, I joined the Corces lab to continue working
+  with single-cell technologies and neurodegenerative disease, now focused on understanding how genetic variants contribute to Parkison's Disease. Outside
+  of lab, I enjoy playing volleyball, hiking, reading, and making art. "
+  
+- name: Lucas Kampman
+  image: /img/members/LucasKampman.jpg
+  altimage: /img/members/LucasKampman.jpg
+  pronouns: he/him/his
+  position: Staff Research Associate
+  email: lucas.kampman (at) gladstone.ucsf.edu
+#  scholar:
+#  twitter: ""
+  description: "I grew up in the Bay Area and studied Molecular & Cell Biology and German at the University of California, Berkeley. My introduction
+  to biology research was in Oskar Hallatschek's lab, where I worked with Dr. Jona Kayser on recombination-based tools for studying mechanical effects
+  in microbial evolution. Since then, I'e studied transcriptional regulation in mammalian development, the role of evolution in tumor metastasis, and
+  the ecology of benthic cyanobacterial mats. I'm broadly interested in the way evolutionary processes have shaped mechanisms for gene regulation."
+#  years: "2020-2022"
+#  nextPosition: "UW, PhD Program in Microbiology"
+
+- name: Dayoung Kim
+  image: /img/members/DayoungKim.jpg
+  altimage: /img/members/DayoungKim.jpg
+#  pronouns: 
+  position: Visiting PhD Student
+  advisor: Primary Advisor - Seung Woo Cho
+  email: dayoung.kim (at) gladstone.ucsf.edu
+#  scholar: 
+  twitter: dayoungkimbio
+  orcid: "0000-0002-7221-2446"
+  description: "Bridging the gap between science and human diseases requires cutting-edge tools such as epigenetics and CRISPR! I was born and raised
+  in Korea and went to Ulsan National Institute of Science and Technology (UNIST) to study biomedical engineering. During my first internship under
+  Dr. Jong Bhak, studying the GWAS data of the Ulsan population, I discovered the beauty of genomic research and its ability to uncover hidden gems
+  in our DNA. I pursued additional internships at Seoul National University (SNU), ranging from epidemiology with Dr. Sue-kyung Park at SNU to
+  genomics with Dr. Jong-il Kim at SNU, where I learned about finding disease-related mutations and validating them using organoids. Working in such
+  a complex and exciting field of science has given me a deep appreciation for the power of genomic research. Currently, I am pursuing a Ph.D. degree
+  under the advisory of Seung Woo Cho, studying changes in epigenetic patterns in human diseases using ATAC-seq and validating the results with
+  CRISPR/Cas9. I’m excited to have a great opportunity to improve my research skills and perform bulk ATAC data analysis to investigate drug response
+  during my year-long visit to the Corces lab."
+
+
+- name: Soumya Kundu
+  image: /img/members/SoumyaKundu.jpg
+  altimage: /img/members/SoumyaKundu.jpg
+  pronouns: he/him/his
+  position: Stanford PhD Student (CS)
+  advisor: Primary Advisor - Anshul Kundaje
+  email: soumya.kundu (at) stanford.edu
+  scholar: Pgy1uHcAAAAJ
+  twitter: "soumyakundu_"
+  description: "I was born in India and moved to Connecticut when I was eleven years old. During my undergrad at the University of Connecticut, I got
+  interested in computational biology when I joined Mukul Bansal's lab, where I worked on developing methods for simulating the evolution of gene
+  families in the presence of horizontal gene transfer. While working at the lab during the summer, I got an opportunity to volunteer as a computer
+  science teacher at Camp Promise, a summer camp for people with muscular dystrophy, which sparked my interest in disease genomics. After graduating
+  in 2018, I started my PhD in computer science at Stanford, where I am advised by Anshul Kundaje. Currently, I am working on using machine learning
+  to identify cell type-specific functional non-coding variants that impact neurodegenerative diseases, and I am collaborating with the Corces Lab to
+  validate our findings using high-throughput experiments."
+
+- name: Alex Lan
+  image: /img/members/AlexLan.jpg
+  altimage: /img/members/AlexLan.jpg
+  #pronouns: he/him/his
+  position: High School Student
+  email: alex.lan (at) gladstone.ucsf.edu
+  #scholar: 
+  #twitter: 
+  description: "I am a high school student at The Harker School in San Jose, California. Growing up in the Bay Area, I was exposed to computer science
+  at an early age through competitions, courses, and events all around me. My introduction to neurodegenerative diseases came later at the start of
+  high school, when I wrote an essay with Dr. Peter Tass on vibrotactile coordinated reset neuromodulation, his novel, non-intrusive treatment for
+  Parkinson's Disease. Following that experience, I spent two years researching and developing an audiovisual emotion classification platform powered
+  by deep neural networks to help individuals with autism. Now, as part of the Corces Lab, I'm combining my interests in machine learning and
+  neurological diseases to predict the effect of non-coding variants in Alzheimer's Disease and create a tool for researchers to test their own
+  variants of interest. Outside of the lab, I enjoy filmmaking, graphics design, hip-hop dance, and debate."
+
+- name: Shreya Menon
+  image: /img/members/ShreyaMenon.jpg
+  altimage: /img/members/ShreyaMenon.jpg
+#  pronouns: 
+  position: UCSF MSTP Student (BMI)
+  email: shreya.menon (at) gladstone.ucsf.edu
+#  scholar: 
+#  twitter: "paulinapaiz02"
+#  website: "http://pau-paiz.com/"
+  description: "I grew up in Ann Arbor, MI and moved to the East Coast to pursue my undergraduate degree from Harvard College, concentrating in mathematics.
+  While there, under the mentorship of Dr. Wesley Cain, I studied dynamical systems, specifically in surveying approaches for analyzing delay-induced stability
+  and instability. I also had the opportunity to do clinical cytogenetics research in Dr. Cynthia Morton's lab where we sought to better understand position
+  effects and balanced chromosomal abnormalities. In 2020, I moved across the country to start in the Medical Scientist Training Program at UCSF. In graduate
+  school, I hope to bring together my background in mathematics with my interest in genetics to use and develop analytical techniques to help better
+  understand how the epigenome influences disease pathology. Outside of the lab, I enjoy trying new foods, going for long walks, and baking."
+
+- name: Paulina Paiz
+  image: /img/members/PaulinaPaiz.jpg
+  altimage: /img/members/PaulinaPaiz.jpg
+#  pronouns: 
+  position: PROPEL Scholar and Staff Research Associate
+  email: paulina.paiz (at) gladstone.ucsf.edu
+#  scholar: 
+  twitter: "paulinapaiz02"
+  website: "http://pau-paiz.com/"
+  description: "I grew up in Central America and studied Computational Neuroscience at the University of Pennsylvania. There, I conducted research on
+  memory retention and network science. After graduating, I grew brain and lung organoids to study SARS-CoV-2 infection patterns at Rockefeller
+  University. Most recently, I was an Aging R&D intern at Loyal and a data analyst at Octant Bio. At the Corces Lab, I will be uncovering allelic
+  imbalance in single-cell chromatin accessibility data and facilitating analysis and sharing of snATAC-seq data through development of ArchR and creation
+  of flexible online data portals. Outside of lab, I enjoy playing tennis, road biking, and practicing French."
+
+- name: Cathrine Petersen
+  image: /img/members/CathrinePetersen.jpg
+  altimage: /img/members/CathrinePetersen.jpg
+  pronouns: she/her/hers
+  position: UCSF PhD Student (Neuroscience)
+  advisor: Primary Advisor - Lennart Mucke
+  email: cathrine.petersen (at) gladstone.ucsf.edu
+  scholar: EtTtF5wAAAAJ
+  twitter: "cathrinepet"
+  description: "I was born in Denmark and moved to the U.S. when I was seven, growing up in the Bay Area. I studied Statistics and Molecular & Cell Biology
+  at the University of California, Berkeley. While an undergraduate, I commuted across the bay to work at the UCSF Memory and Aging Center under the
+  mentorship of Lea T. Grinberg, studying neuropathological alterations in atypical clinical variants of Alzheimer's disease using postmortem human tissue.
+  There, I developed a lasting interest in the factors that influence the clinical progression of neurodegenerative diseases. After graduation, I spent half
+  a year traveling before starting my PhD in the Neuroscience Program at UCSF in 2019, where I am now using single-cell data to study the etiology of
+  cognitive decline and neural network dysfunction in Alzheimer's disease, co-advised by Lennart Mucke and Ryan Corces."
+
+- name: Adam Turner
+  image: /img/members/AdamTurner.jpg
+  altimage: /img/members/AdamTurner.jpg
+ # pronouns: he/him/his
+  position: Project Manager
+  email: adam.turner (at) gladstone.ucsf.edu
+ # scholar: EtTtF5wAAAAJ
+  twitter: "adamturner_01"
+  description: "I was born and raised in Ottawa, Canada and studied Biochemistry at the University of Ottawa in undergrad. During undergrad I developed
+  an interest in DNA sequencing and cardiovascular disease from various research internships. I went on to do a PhD in the lab of Dr. Ruth McPherson at
+  the University of Ottawa Heart Institute in Biochemistry/Human and Molecular Genetics where I worked on functional genomics of coronary artery disease.
+  Following graduate school, I was a postdoctoral fellow in Dr. Clint Miller's lab at the University of Virginia. There I performed bulk and single-cell
+  ATAC-seq on human coronary artery samples and had the opportunity to learn various bioinformatic tools. I am now excited to join the Corces lab to
+  perform single-cell multi-omic experiments in the context of PD and AD. Outside the lab I enjoy playing hockey, baseball, hiking, and video games."
+
+- name: Erica Delin
+  image: /img/members/EricaDelin.jpg
+  altimage: /img/members/EricaDelin.jpg
+  pronouns: she/her/hers
+  position: Administrative Specialist
+  email: erica.delin (at) gladstone.ucsf.edu
+ # scholar: EtTtF5wAAAAJ
+ # twitter: "adamturner_01"
+ # description: ""
+
+- name: We are recruiting!
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
+  position: Research Technician / Graduate Student / Postdoctoral Fellow
+  email: your.email (at) ucsf.edu
+#  scholar:
+  description: "Interested postdoctoral fellows should e-mail Ryan at ryan.corces (at) gladstone.ucsf.edu with the following information:
+  (i) a summary of their current and past research experiences, 
+  (ii) a short statement on the types of projects that they are interested in pursuing in the Corces Lab, 
+  and (iii) contact information for 3 references.
+
+
+  Interested and motivated Graduate and Undergraduate students should contact Ryan to talk about potential projects.
+
+
+  For Research Associates, the lab has a tradition of recruiting post-bac trainees seeking additional training prior to applying to
+  graduate or medical school. These experiences are nearly always for at least two years and recruiting happens on a yearly cycle in the Spring
+  for entrance into the lab in the summer. Contact Ryan for more information on availability of positions or search the
+  [Gladstone Institutes Career Portal](https://gladstone.wd5.myworkdayjobs.com/en-US/careers)."
