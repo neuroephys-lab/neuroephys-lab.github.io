@@ -11,7 +11,7 @@
   description: 'Chronic stress (CS) is associated with a number of neuropsychiatric disorders, and it may also contribute to or exacerbate motor function. However, the mechanisms by which stress triggers motor symptoms are not fully understood. Here, we report that CS functionally alters dorsomedial striatum (DMS) circuits in male mice, by affecting GABAergic interneuron populations and somatostatin positive (SOM) interneurons in particular. Specifically, we show that CS impairs communication between SOM interneurons and medium spiny neurons, promoting striatal overactivation/disinhibition and increased motor output. Using probabilistic machine learning to analyze animal behavior, we demonstrate that in vivo chemogenetic manipulation of SOM interneurons in DMS modulates motor phenotypes in stressed mice. Altogether, we propose a causal link between dysfunction of striatal SOM interneurons and motor symptoms in models of chronic stress.'
 
 - title: Ultrasensitive dopamine detection with graphene aptasensor multitransistor arrays
-  image: /img/publications/2021_NatGen_ArchR.jpg
+  image: /img/publications/DopamineGrapheneJNanobiotech.png
   short: dopamine detection with graphene multitransistor arrays
   year: 2022
   authors: 'Abrantes M, Rodrigues D, Domingues T, Nemala SS, Monteiro P, Borme J, Alpuim P, ___Jacinto L*___'
