@@ -4,7 +4,7 @@
   year: 2022
   authors: 'Rodrigues D, Jacinto L, Falcão M, Castro AC, Cruz A, Santa C, Manadas B, Marques F, Sousa N, ___Monteiro P*___'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/36446783/
-  pdf: /pdfs/2022_Grandi_NatureProtocols_All.zip
+  pdf: /pdf/2022RodriguesChronicStressSOMStriatalDisinhibition.pdf
   journal: Nature Communications
   journalShort: Nature Communications
   journalLink: https://www.nature.com/articles/s41467-022-35028-4/
@@ -16,31 +16,31 @@
   year: 2022
   authors: 'Abrantes M, Rodrigues D, Domingues T, Nemala SS, Monteiro P, Borme J, Alpuim P, ___Jacinto L*___'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/36424623/
-  pdf: /pdfs/210320_NG_ArchR.pdf
+  pdf: /pdf/2022AbrantesDopamineGrapheneMultitransistorArrays.pdf
   journal: Journal of Nanobiotechnology
   journalShort: Journal of Nanobiotechnology
   journalLink: https://jnanobiotechnology.biomedcentral.com/articles/10.1186/s12951-022-01695-0/
   description: 'Detecting physiological levels of neurotransmitters in biological samples can advance our understanding of brain disorders and lead to improved diagnostics and therapeutics. However, neurotransmitter sensors for real-world applications must reliably detect low concentrations of target analytes from small volume working samples. Herein, a platform for robust and ultrasensitive detection of dopamine, an essential neurotransmitter that underlies several brain disorders, based on graphene multitransistor arrays (gMTAs) functionalized with a selective DNA aptamer is presented. High-yield scalable methodologies optimized at the wafer level were employed to integrate multiple graphene transistors on small-size chips (4.5 × 4.5 mm). The multiple sensor array configuration permits independent and simultaneous replicate measurements of the same sample that produce robust average data, reducing sources of measurement variability. This procedure allowed sensitive and reproducible dopamine detection in ultra-low concentrations from small volume samples across physiological buffers and high ionic strength complex biological samples. The obtained limit-of-detection was 1 aM (10–18) with dynamic detection ranges spanning 10 orders of magnitude up to 100 µM (10–8), and a 22 mV/decade peak sensitivity in artificial cerebral spinal fluid. Dopamine detection in dopamine-depleted brain homogenates spiked with dopamine was also possible with a LOD of 1 aM, overcoming sensitivity losses typically observed in ion-sensitive sensors in complex biological samples. Furthermore, we show that our gMTAs platform can detect minimal changes in dopamine concentrations in small working volume samples (2 µL) of cerebral spinal fluid samples obtained from a mouse model of Parkinson’s Disease. The platform presented in this work can lead the way to graphene-based neurotransmitter sensors suitable for real-world academic and pre-clinical pharmaceutical research as well as clinical diagnosis.'
 
 - title: Auditory dysfunction in animal models of Autism Spectrum Disorder
-  image: /img/publications/2020_NatGen_ADPD-GWAS.jpg
+  image: /img/publications/2022CastroAuditoryMouseModelsASDReview.png
   short: Auditory dysfunction in animal models of ASD
   year: 2022
   authors: 'Castro AC, ___Monteiro P*___,'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/35493332/
-  pdf: /pdfs/210320_NG_ADPD.pdf
+  pdf: /pdf/2022CastroAuditoryModelsASD.pdf
   journal: Frontiers in Molecular Neuroscience
   journalShort: Frontiers in Molecular Neuroscience
   journalLink: https://www.frontiersin.org/articles/10.3389/fnmol.2022.845155/full
   description: 'Autism spectrum disorder (ASD) is a neurodevelopmental disorder mainly characterized by social-communication impairments, repetitive behaviors and altered sensory perception. Auditory hypersensitivity is the most common sensory-perceptual abnormality in ASD, however, its underlying neurobiological mechanisms remain elusive. Consistently with reports in ASD patients, animal models for ASD present sensory-perception alterations, including auditory processing impairments. Here we review the current knowledge regarding auditory dysfunction in rodent models of ASD, exploring both shared and distinct features among them, mechanistic and molecular underpinnings, and potential therapeutic approaches. Overall, auditory dysfunction in ASD models seems to arise from impaired central processing. Depending on the model, impairments may arise at different steps along the auditory pathway, from auditory brainstem up to the auditory cortex. Common defects found across models encompass atypical tonotopicity in different regions of the auditory pathway, temporal and spectral processing impairments and histological differences. Imbalance between excitation and inhibition (E/I imbalance) is one of the most well-supported mechanisms explaining the auditory phenotype in the ASD models studied so far and seems to be linked to alterations in GABAergic signaling. Such E/I imbalance may have a large impact on the development of the auditory pathway, influencing the establishment of connections responsible for normal sound processing.'
 
 - title: Double-Layer flexible neural probe with closely spaced electrodes for high-density in vivo brain recordings
-  image: /img/publications/2018_TCGA_ATAC.jpg
+  image: /img/publications/2021PimentaFlexibleProbe.png
   short: Double-layer flexible neural probe
   year: 2018
   authors: 'Pimenta S, Rodrigues JA, Machado f; Ribeiro JF, Maciel MJ, Bondarchuk O, Monteiro P, Gaspar J, Correia JH,___Jacinto L___*'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/34211364/
-  pdf: /pdfs/2018_Science_TCGA-ATAC.pdf
+  pdf: /pdf/2021PimentaDoubleLayerFlexibleProbe.pdf
   journal: Frontiers in Neuroscience - Neural Technology
   journalShort: Frontiers in Neuroscience - Neural Technology
   journalLink: https://www.frontiersin.org/articles/10.3389/fnins.2021.663174/full
@@ -52,7 +52,7 @@
   year: 2017
   authors: '___Corces MR___, Trevino AE, Hamilton EG, Greenside PG, Sinnott-Armstrong NA, Vesuna S, Satpathy AT, Rubin AJ, Montine KS, Wu B, Kathiria A, Cho SW, Mumbach MR, Carter AC, Kasowski M, Orloff LA, Risca VI, Kundaje A, Khavari PA, Montine TJ, Greenleaf WJ†, Chang HY†'
   pubmed: https://www.ncbi.nlm.nih.gov/pubmed/28846090
-  pdf: /pdfs/2017_NatMethods_Omni-ATAC.pdf
+  pdf: 
   journal: Nature Methods
   journalShort: Nature Methods
   journalLink: https://www.nature.com/articles/nmeth.4396
@@ -68,7 +68,7 @@
   year: 2016
   authors: '___Corces MR___\*, Buenrostro JD\*, Wu B, Greenside PG, Chan SM, Koenig JL, Snyder MP, Pritchard JK, Kundaje A, Greenleaf WJ,  Majeti R†, Chang HY†'
   pubmed: https://www.ncbi.nlm.nih.gov/pubmed/27526324
-  pdf: /pdfs/2016_NatGen_Heme-AML.pdf
+  pdf: 
   journal: Nature Genetics
   journalShort: Nature Genetics
   journalLink: https://www.nature.com/articles/ng.3646
