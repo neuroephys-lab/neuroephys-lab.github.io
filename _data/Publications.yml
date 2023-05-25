@@ -1,19 +1,17 @@
-- title: Chromatin accessibility profiling by ATAC-seq
+- title: Chronic stress causes striatal disinhibition mediated by SOM-interneurons in male mice
   image: /img/publications/2022_NatProt_ATACseq2.jpg
-  short: A step-by-step guide to bulk ATAC-seq
+  short: Chronic stress causes striatal disinhibition
   year: 2022
-  authors: 'Grandi FC, Modi H, Kampman L, ___Corces MR*___'
+  authors: 'Rodrigues D, Jacinto L, Falcão M, Castro AC, Cruz A, Santa C, Manadas B, Marques F, Sousa N, ___Monteiro P*___'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/35478247/
   pdf: /pdfs/2022_Grandi_NatureProtocols_All.zip
-  journal: Nature Protocols
-  journalShort: Nature Protocols
-  journalLink: https://www.nature.com/articles/s41596-022-00692-9
-  description: 'The Assay for Transposase-accessible Chromatin using sequencing (ATAC-seq) has become a mainstay in genomics
-  reseach. In this protocol manuscript, we describe in detail how to perform all aspects of bulk ATAC-seq and provide considerations
-  for how to best prepare your input cells/nuclei. We highlight considerations for when and when not to use ATAC-seq and provide
-  recommendations for analytical best practices. As part of this publication, we have also released scripts to perform [the
-  iterative overlap peak merging procedure](https://github.com/corceslab/ATAC_IterativeOverlapPeakMerging) that we recommend
-  for creating a robust bulk ATAC-seq peak set.'
+  journal: Nature Communications
+  journalShort: Nature Communications
+  journalLink: https://www.nature.com/articles/s41467-022-35028-4
+  description: 'Chronic stress (CS) is associated with a number of neuropsychiatric disorders, and it may also contribute to or exacerbate motor function. However, the mechanisms by which stress triggers motor symptoms are not fully understood. Here, we report that CS functionally alters dorsomedial striatum (DMS) circuits in male mice, by affecting GABAergic interneuron populations and somatostatin positive (SOM) interneurons in particular. Specifically, we show that CS impairs communication between SOM interneurons and medium spiny neurons, promoting striatal overactivation/disinhibition and increased motor output. Using probabilistic machine learning to analyze animal behavior, we demonstrate that in vivo chemogenetic manipulation of SOM interneurons in DMS modulates motor phenotypes in stressed mice. Altogether, we propose a causal link between dysfunction of striatal SOM interneurons and motor symptoms in models of chronic stress.'
+
+    Diana Rodrigues, Luis Jacinto, Margarida Falcão, Ana Carolina Castro, Alexandra Cruz, Cátia Santa, Bruno Manadas, Fernanda Marques, Nuno Sousa & Patricia Monteiro 
+
 
 - title: ArchR is a scalable software package for integrative single-cell chromatin accessibility analysis
   image: /img/publications/2021_NatGen_ArchR.jpg
