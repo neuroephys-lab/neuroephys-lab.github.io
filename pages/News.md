@@ -4,7 +4,7 @@ title: News
 subtitle: Neurophysiology and Neuroengineering Lab News
 ---
 
-# **Resources**
+# **News**
 {% for item in site.data.News %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
