@@ -6,6 +6,14 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
 
 <div class="clear"></div>
 
+<div class="container">
+  <div class="jumbotron jumbotron-correct">
+      <p>
+        Understanding complex neural systems at the functional level often requires novel advanced tools which can only be created with a profound grasp of neurophysiology. A multidisciplinary effort is needed, and our research team brings together researchers from biological and engineering sciences to solve complex problems in systems neuroscience. By intersecting the fields of neurobiology, electrophysiology, device engineering, machine learning, and brain-computer interfacing, we study the neurophysiology of brain circuits involved in neuropsychiatric and neurodevelopmental disorders. Simultaneously, we develop novel neuroengineering approaches to probe, modulate and understand the brain.
+      </p>
+  </div>
+</div>
+
 # **Principal Investigators**
 {% for person in site.data.PIs %}
 <hr>
