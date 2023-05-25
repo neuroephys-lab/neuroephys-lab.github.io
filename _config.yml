@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: The Corces Lab
+title: Neurophysiology and Neuroengineering Lab
 
 # Short description of your site
-description: The Corces Lab @ The Gladstone Institutes / UCSF
+description: The Neurophysiology and Neuroengineering Lab @ FMUP - University of Porto
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Ryan Corces
+  name: LJ
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
