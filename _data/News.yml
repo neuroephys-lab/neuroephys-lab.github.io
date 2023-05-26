@@ -1,32 +1,29 @@
-- title: ArchR
-  image: /img/resources/ArchR.jpg
-  imageLink: https://www.archrproject.com/
-  description: 'ArchR is a full-featured R package for processing and analyzing single-cell ATAC-seq data.
-  ArchR provides the most extensive suite of scATAC-seq analysis tools of any software available. Additionally,
-  ArchR excels in both speed and resource usage, making it possible to analyze 1 million cells in 8 hours on a MacBook Pro laptop.
-  ArchR is currently in beta. You can find everything you need on our [website](https://www.archrproject.com/)
-  or in the [publication](https://www.nature.com/articles/s41588-021-00790-6).'
+- title: FENS Regional Meeting 2023
+  image: /img/resources/2023_FEBS.png
+  imageLink: 
+  description: 'MAY 2023 – FENS regional meeting in beautiful Algarve! From left to right: Margarida, Patrícia, and Carolina. These three in a row will tickle your brain.'
 
-- title: Omni-ATAC
-  image: /img/resources/OmniATAC.jpg
-  imageLink: https://www.ncbi.nlm.nih.gov/pubmed/28846090
-  description: 'Omni-ATAC is a carefully optimized ATAC-seq method that provides improvements on data quality, cost, and generalizability.
-  It works on every cell type that we have tested, from cell lines to flash frozen tissues. The original protocol can be found as
-  [Supplementary Protocol 1](/pdfs/OmniATAC_Protocol.pdf) of Corces et al. Nature Methods 2017 and an __updated protocol for nuclei
-  isolation from frozen tissue__ can be found [on protocols.io](https://www.protocols.io/view/isolation-of-nuclei-from-frozen-tissue-for-atac-se-6t8herw).'
+- title: Diana Rodrigues PhD defense
+  image: /img/resources/2023_DianaDefense.png
+  imageLink: 
+  description: 'MAY 2023 – We have a new Doctor! Diana successfully defended her thesis entitled "Corticostriatal circuitry dysfunction in neuropsychiatric disorders". Congratulations Dr. Rodrigues.'
 
-- title: Human Brain scATAC-seq
-  image: /img/resources/Brain-scATAC.jpg
-  imageLink: https://www.biorxiv.org/content/10.1101/2020.01.06.896159v1.full
-  description: 'Data from our 2020 publication on human brain scATAC-seq, HiChIP, and bulk ATAC-seq is publicly available through
-  [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147672). This data comes from cognitively healthy individuals. We have also set up a
-  WashU Epigenome Browser [track hub of cell type-specific chromatin accessibility](http://epigenomegateway.wustl.edu/legacy/?genome=hg38&session=drS3o1n4kJ)
-  as well as a HiGlass [track hub of all bulk ATAC-seq datasets from the publication](http://vayu.stanford.edu:8989/l/?d=GuWhrMOrQoaDHs_u1D-QIg).'
+- title: New neurotechnology from our lab
+  image: /img/resources/2023_dopamineSensor.png
+  imageLink: 
+  description: 'MARCH 2023 - Our team has developed the most-sensitive dopamine sensor to date: 1aM (10^-18M) sensitivity using aptamer-functionalized graphene transistors. The sensor was developed in collaboration with the International Iberian Institute of Nanotechnology (INL). Read more [here] (https://tinyurl.com/newbiosensor).'
 
-- title: TCGA ATAC-seq
-  image: /img/resources/TCGA-ATAC.jpg
-  imageLink: https://www.ncbi.nlm.nih.gov/pubmed/30361341
-  description: 'Data in the form of aligned hg38 BAM files from our 2018 collaboration with The Cancer Genome Atlas are available through the
-  [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov/) with approved access requested through
-  [dbGaP](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v11.p8). Select processed files including bigwigs,
-  counts matrices, and cancer type-specific peak calls are available through the [TCGA publication page](https://gdc.cancer.gov/about-data/publications/ATACseq-AWG).'
+- title: Science week
+  image: /img/resources/2023_secondaryschooltalk.jpg
+  imageLink: 
+  description: 'APRIL 2023 – Luis went to “Irmãos Passos” School at Guifões to talk about the brain and neuroscience research. Sometimes the best ideas come from thinking like a child.'
+
+- title: Interview with FEBS
+  image: /img/resources/2022_FEBS.interview.png
+  imageLink: 
+  description: 'NOVEMBER 2022 - FEBS Excellence Awardee spotlight. Patricia gave a short Q&A interview for FEBS. Read more [here] (https://network.febs.org/posts/febs-excellence-awardee-spotlight-patricia-monteiro).'
+
+- title: Our lab has moved to University of Porto
+  image: /img/resources/2022_LabatUPorto.jpg
+  imageLink: 
+  description: 'OCTOBER 2022 – Our lab has officially moved to the Faculty of Medicine of the University of Porto (FMUP). We are excited to meet our new neighbors and get everything unpacked.'
