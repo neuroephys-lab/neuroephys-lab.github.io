@@ -1,11 +1,11 @@
-- title: <i>Chronic stress causes striatal disinhibition mediated by SOM-interneurons in male mice</i>
+- title: <i>Chronic stress causes striatal disinhibition mediated by SOM-interneurons in male mice
   image: /img/publications/SOMstressNatCom.png
   short: Chronic stress causes striatal disinhibition
   year: 2022
   authors: 'Rodrigues D, Jacinto L, Falcão M, Castro AC, Cruz A, Santa C, Manadas B, Marques F, Sousa N, Monteiro P'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/36446783/
   pdf: /pdf/2022RodriguesChronicStressSOMStriatalDisinhibition.pdf
-  journal: Nature Communications
+  journal: <i>Nature Communications</i>
   journalShort: Nature Communications
   journalLink: https://www.nature.com/articles/s41467-022-35028-4/
   description: 'Chronic stress (CS) is associated with a number of neuropsychiatric disorders, and it may also contribute to or exacerbate motor function. However, the mechanisms by which stress triggers motor symptoms are not fully understood. Here, we report that CS functionally alters dorsomedial striatum (DMS) circuits in male mice, by affecting GABAergic interneuron populations and somatostatin positive (SOM) interneurons in particular. Specifically, we show that CS impairs communication between SOM interneurons and medium spiny neurons, promoting striatal overactivation/disinhibition and increased motor output. Using probabilistic machine learning to analyze animal behavior, we demonstrate that in vivo chemogenetic manipulation of SOM interneurons in DMS modulates motor phenotypes in stressed mice. Altogether, we propose a causal link between dysfunction of striatal SOM interneurons and motor symptoms in models of chronic stress.'
@@ -17,8 +17,8 @@
   authors: 'Abrantes M, Rodrigues D, Domingues T, Nemala SS, Monteiro P, Borme J, Alpuim P, Jacinto L'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/36424623/
   pdf: /pdf/2022AbrantesDopamineGrapheneMultitransistorArrays.pdf
-  journal: Journal of Nanobiotechnology
-  journalShort: Journal of Nanobiotechnology
+  journal: Journal of Nanobiotechnology</i>
+  journalShort: <i>Journal of Nanobiotechnology
   journalLink: https://jnanobiotechnology.biomedcentral.com/articles/10.1186/s12951-022-01695-0/
   description: 'Detecting physiological levels of neurotransmitters in biological samples can advance our understanding of brain disorders and lead to improved diagnostics and therapeutics. However, neurotransmitter sensors for real-world applications must reliably detect low concentrations of target analytes from small volume working samples. Herein, a platform for robust and ultrasensitive detection of dopamine, an essential neurotransmitter that underlies several brain disorders, based on graphene multitransistor arrays (gMTAs) functionalized with a selective DNA aptamer is presented. High-yield scalable methodologies optimized at the wafer level were employed to integrate multiple graphene transistors on small-size chips (4.5 × 4.5 mm). The multiple sensor array configuration permits independent and simultaneous replicate measurements of the same sample that produce robust average data, reducing sources of measurement variability. This procedure allowed sensitive and reproducible dopamine detection in ultra-low concentrations from small volume samples across physiological buffers and high ionic strength complex biological samples. The obtained limit-of-detection was 1 aM (10–18) with dynamic detection ranges spanning 10 orders of magnitude up to 100 µM (10–8), and a 22 mV/decade peak sensitivity in artificial cerebral spinal fluid. Dopamine detection in dopamine-depleted brain homogenates spiked with dopamine was also possible with a LOD of 1 aM, overcoming sensitivity losses typically observed in ion-sensitive sensors in complex biological samples. Furthermore, we show that our gMTAs platform can detect minimal changes in dopamine concentrations in small working volume samples (2 µL) of cerebral spinal fluid samples obtained from a mouse model of Parkinson’s Disease. The platform presented in this work can lead the way to graphene-based neurotransmitter sensors suitable for real-world academic and pre-clinical pharmaceutical research as well as clinical diagnosis.'
 
@@ -26,10 +26,10 @@
   image: /img/publications/2022CastroAuditoryMouseModelsASDReview.png
   short: Auditory dysfunction in animal models of ASD
   year: 2022
-  authors: 'Castro AC, ___Monteiro P*___,'
+  authors: 'Castro AC, Monteiro P,'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/35493332/
   pdf: /pdf/2022CastroAuditoryModelsASD.pdf
-  journal: Frontiers in Molecular Neuroscience
+  journal: <i>Frontiers in Molecular Neuroscience</i>
   journalShort: Frontiers in Molecular Neuroscience
   journalLink: https://www.frontiersin.org/articles/10.3389/fnmol.2022.845155/full
   description: 'Autism spectrum disorder (ASD) is a neurodevelopmental disorder mainly characterized by social-communication impairments, repetitive behaviors and altered sensory perception. Auditory hypersensitivity is the most common sensory-perceptual abnormality in ASD, however, its underlying neurobiological mechanisms remain elusive. Consistently with reports in ASD patients, animal models for ASD present sensory-perception alterations, including auditory processing impairments. Here we review the current knowledge regarding auditory dysfunction in rodent models of ASD, exploring both shared and distinct features among them, mechanistic and molecular underpinnings, and potential therapeutic approaches. Overall, auditory dysfunction in ASD models seems to arise from impaired central processing. Depending on the model, impairments may arise at different steps along the auditory pathway, from auditory brainstem up to the auditory cortex. Common defects found across models encompass atypical tonotopicity in different regions of the auditory pathway, temporal and spectral processing impairments and histological differences. Imbalance between excitation and inhibition (E/I imbalance) is one of the most well-supported mechanisms explaining the auditory phenotype in the ASD models studied so far and seems to be linked to alterations in GABAergic signaling. Such E/I imbalance may have a large impact on the development of the auditory pathway, influencing the establishment of connections responsible for normal sound processing.'
@@ -38,29 +38,30 @@
   image: /img/publications/2021PimentaFlexibleProbe.png
   short: Double-layer flexible neural probe
   year: 2018
-  authors: 'Pimenta S, Rodrigues JA, Machado f; Ribeiro JF, Maciel MJ, Bondarchuk O, Monteiro P, Gaspar J, Correia JH, ___Jacinto L___*'
+  authors: 'Pimenta S, Rodrigues JA, Machado f; Ribeiro JF, Maciel MJ, Bondarchuk O, Monteiro P, Gaspar J, Correia JH, Jacinto L'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/34211364/
   pdf: /pdf/2021PimentaDoubleLayerFlexibleProbe.pdf
-  journal: Frontiers in Neuroscience - Neural Technology
+  journal: <i>Frontiers in Neuroscience - Neural Technology</i>
   journalShort: Frontiers in Neuroscience - Neural Technology
   journalLink: https://www.frontiersin.org/articles/10.3389/fnins.2021.663174/full
   description: 'Flexible polymer neural probes are an attractive emerging approach for invasive brain recordings, given that they can minimize the risks of brain damage or glial scaring. However, densely packed electrode sites, which can facilitate neuronal data analysis, are not widely available in flexible probes. Here, we present a new flexible polyimide neural probe, based on standard and low-cost lithography processes, which has 32 closely spaced 10 μm diameter gold electrode sites at two different depths from the probe surface arranged in a matrix, with inter-site distances of only 5 μm. The double-layer design and fabrication approach implemented also provides additional stiffening just sufficient to prevent probe buckling during brain insertion. This approach avoids typical laborious augmentation strategies used to increase flexible probes’ mechanical rigidity while allowing a small brain insertion footprint. Chemical composition analysis and metrology of structural, mechanical, and electrical properties demonstrated the viability of this fabrication approach. Finally, in vivo functional assessment tests in the mouse cortex were performed as well as histological assessment of the insertion footprint, validating the biological applicability of this flexible neural probe for acquiring high quality neuronal recordings with high signal to noise ratio (SNR) and reduced acute trauma.'
 
-- title: An improved ATAC-seq protocol reduces background and enables interrogation of frozen tissues
-  image: /img/publications/2017_NatMethods_Omni-ATAC.jpg
-  short: Improved ATAC-seq with Omni-ATAC
-  year: 2017
-  authors: '___Corces MR___, Trevino AE, Hamilton EG, Greenside PG, Sinnott-Armstrong NA, Vesuna S, Satpathy AT, Rubin AJ, Montine KS, Wu B, Kathiria A, Cho SW, Mumbach MR, Carter AC, Kasowski M, Orloff LA, Risca VI, Kundaje A, Khavari PA, Montine TJ, Greenleaf WJ†, Chang HY†'
-  pubmed: https://www.ncbi.nlm.nih.gov/pubmed/28846090
-  pdf: 
-  journal: Nature Methods
-  journalShort: Nature Methods
-  journalLink: https://www.nature.com/articles/nmeth.4396
-  description: 'We present Omni-ATAC, an improved ATAC-seq protocol for chromatin accessibility profiling that works across multiple
-  applications with substantial improvement of signal-to-background ratio and information content. The Omni-ATAC
-  protocol generates high-quality chromatin accessibility profiles from almost any starting material, from cell lines to archival
-  frozen tissue samples and 50-µm sections. Moreover, Omni-ATAC saves money through fraction of reads in peaks and lower fraction
-  of reads mapping to the mitochondrial chromosome.'
+- title: A versatile and modular tetrode-based device for single-unit recordings in rodent ex vivo and in vivo acute preparations
+  image: /img/publications/TetrodeDeviceJNeuroscMeth.png
+  short: A versatile and modular tetrode-based device
+  year: 2020
+  authors: 'Machado F, Sousa N, Monteiro P* and Jacinto L*'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/32417534/
+  pdf: /pdf/2020MachadoTetrodeDevice.pdf
+  journal: <i>Journal of Neuroscience Methods</i>
+  journalShort: J Neurosci Methods
+  journalLink: https://www.sciencedirect.com/science/article/pii/S0165027020301783/
+  description: 'Background: The demand for affordable tools for recording extracellular activity and successfully isolating single units from different brain preparations has pushed researchers and companies to invest in developing and fabricating new recording devices. However, depending on the brain region of interest, experimental question or type of preparation, different devices are required thus adding substantial financial burden to laboratories.
+  New method: We have developed a simple and affordable tetrode-based device that allows interchangeable extracellular recordings of neuronal activity between in vivo and ex vivo preparations and can be easily implemented in all wet-bench laboratories.
+  Results: Spontaneous activity from several putative single neurons could be easily recorded and isolated by lowering the device into ex vivo cerebellum brain slices. The same device was also used in vivo, lowered into primary auditory cortex of adult anesthetized transgenic mice expressing channelrhodopsin in cortical neurons.
+  Acoustic stimulation of the contralateral ear or direct laser optogenetic stimulation successfully evoked cortical activity at the recording site. Several isolated putative single neurons presented time-locked activity response to the different stimuli.
+  Comparison with existing methods: Besides low fabrication cost, our device uses an omnetics connector compatible with the majority of headstages already available at most electrophysiology laboratories. The device allows custom tetrode configuration arrays and extensions for optogenetics and pharmacology, providing experimental flexibility not available in commercial off-the-shelf microelectrode arrays and silicon probes.
+  Conclusions: We developed an affordable, versatile and modular device to facilitate tetrode extracellular recordings interchangeably between in vivo anaesthetized animals and ex vivo brain.'
 
 - title: Lineage-specific and single cell chromatin accessibility charts human hematopoiesis and leukemia evolution
   image: /img/publications/2016_NatGen_Heme-AML.jpg
