@@ -1,32 +1,66 @@
 
-- name: Serena Chang
+- name: Alexandra Cruz
   image: /img/members/SerenaChang.jpg
   altimage: /img/members/SerenaChang.jpg
 #  pronouns: 
-  position: Staff Research Associate
-  email: Serena.chang (at) gladstone.ucsf.edu
+  position: PhD student
+  email: 
 #  scholar: 
 #  orcid: "0000-0002-2621-3042"
 #  twitter: 
-  description: "I grew up in the Bay Area and studied Biochemistry and General Biology as an undergraduate at the University of California, San Diego. During my time there,
-  I joined Dr. Derek Welsbie's ophthalmology lab focusing on the development of gene therapies/small molecules to mitigate degeneration in retinal ganglion cells (RGCs) with
-  hopes for vision restoration in glaucoma patients. I had the opportunity to design plasmid constructs for CRISPR-Cas9 gene editing and to work on optimizing the
-  differentiation of human STEM cells into RGCs. In my final quarter as an undergraduate, I was introduced to and amazed by the field of epigenetics which led me to join the
-  Corces Lab where I could dive further into epigenomic profiling of major neurodegenerative diseases. When I'm not in lab, I like crocheting tiny plushies and trying new coffee places."
+  description: "XXX"
 
-
-- name: Iris Chin
-  image: /img/members/IrisChin.jpg
-  altimage: /img/members/IrisChin.jpg
+  - name: Mafalda Abrantes
+  image: /img/members/SerenaChang.jpg
+  altimage: /img/members/SerenaChang.jpg
 #  pronouns: 
-  position: UCSF PhD Student (BMS)
-  email: iris.chin (at) gladstone.ucsf.edu
+  position: PhD student
+  email: 
 #  scholar: 
-  orcid: "0000-0002-2621-3042"
-  twitter: "irischin9"
-  description: "I grew up in the Bay Area, then moved to the midwest to study Neuroscience and Psychological & Brain Sciences at Washington
-  University in St. Louis. There, I joined the lab of Yehuda Ben-Shahar to study how homologs of genes that cause Williams Syndrome, a
-  human developmental condition characterized by hypersociability, affect social behavior in Drosophila melanogaster. I graduated in 2019, 
-  and after continuing on as lab manager for a year, I joined the Biomedical Sciences Graduate Program at UCSF. Now, as part of the Corces
-  Lab, I am pivoting to study human patient data directly, and using cellular models to understand the etiology of neurodegenerative and
-  neuropsychiatric diseases at genomic and epigenetic levels."
+#  orcid: "0000-0002-2621-3042"
+#  twitter: 
+  description: "Mafalda has a background in Engineering Physics but was drawn to Neuroscience during her master’s thesis where she explored graphene biosensors for neurotransmitters’ detection in the brain. Her interest in brain physiology and 2D materials led her to pursue a PhD in graphene nanobioelectronics. As a PhD student, she is currently developing new graphene devices for neural interfacing."
+
+- name: Ana Carolina Castro
+  image: /img/members/SerenaChang.jpg
+  altimage: /img/members/SerenaChang.jpg
+#  pronouns: 
+  position: PhD student
+  email: 
+#  scholar: 
+#  orcid: "0000-0002-2621-3042"
+#  twitter: 
+  description: "Carolina has a background in Biochemistry from University of Minho, School of Sciences. During her bachelor, she was interested in the relationship between serotoninergic signaling and protein homeostasis of the central nervous system. Carolina joined the lab in 2020 as a master student. She is interested in studying the neurobiological mechanisms underlying auditory sensitivity in a mouse model of autism spectrum disorder."
+
+- name: Margarida Falcão
+  image: /img/members/SerenaChang.jpg
+  altimage: /img/members/SerenaChang.jpg
+#  pronouns: 
+  position: PhD student
+  email: 
+#  scholar: 
+#  orcid: "0000-0002-2621-3042"
+#  twitter: 
+  description: "Margarida has a background in Applied Biology from University of Minho, School of Sciences. As an undergraduate student, she was interested in the application of electrical epidural stimulation post spinal cord injuries. Margarida joined the lab in 2020 as a master student and her current project involves in vivo brain recordings, thalamo-cortical communication and sensory processing in a mouse model of autism."
+
+- name: Patrícia Silva
+  image: /img/members/SerenaChang.jpg
+  altimage: /img/members/SerenaChang.jpg
+#  pronouns: 
+  position: PhD student
+  email: 
+#  scholar: 
+#  orcid: "0000-0002-2621-3042"
+#  twitter: 
+  description: "XXX"
+
+  - name: Tiago Pereira
+  image: /img/members/SerenaChang.jpg
+  altimage: /img/members/SerenaChang.jpg
+#  pronouns: 
+  position: Master student
+  email: 
+#  scholar: 
+#  orcid: "0000-0002-2621-3042"
+#  twitter: 
+  description: "XXX"
