@@ -20,6 +20,18 @@
 #  orcid: 
   description: "XXX"
 
+
+- name: Alexandra Cruz
+  image: /img/members/SerenaChang.jpg
+  altimage: /img/members/SerenaChang.jpg
+#  pronouns: 
+  position: PhD student
+  email: 
+#  scholar: 
+#  orcid: 
+  description: "XXX"
+  
+
 - name: Alexandra Cruz
   image: /img/members/SerenaChang.jpg
   altimage: /img/members/SerenaChang.jpg
@@ -30,7 +42,8 @@
 #  orcid: 
   description: "XXX"
 
-  - name: Alexandra Cruz
+
+- name: Alexandra Cruz
   image: /img/members/SerenaChang.jpg
   altimage: /img/members/SerenaChang.jpg
 #  pronouns: 
@@ -40,7 +53,8 @@
 #  orcid: 
   description: "XXX"
 
-  - name: Alexandra Cruz
+  
+- name: Alexandra Cruz
   image: /img/members/SerenaChang.jpg
   altimage: /img/members/SerenaChang.jpg
 #  pronouns: 
@@ -50,7 +64,8 @@
 #  orcid: 
   description: "XXX"
 
-  - name: Alexandra Cruz
+
+- name: Alexandra Cruz
   image: /img/members/SerenaChang.jpg
   altimage: /img/members/SerenaChang.jpg
 #  pronouns: 
@@ -58,4 +73,4 @@
   email: 
 #  scholar: 
 #  orcid: 
-  description: "XXX"
+  description: "XXX"      
