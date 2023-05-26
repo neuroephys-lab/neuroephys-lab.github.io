@@ -1,7 +1,7 @@
 
 - name: Alexandra Cruz
-  image: /img/members/SerenaChang.jpg
-  altimage: /img/members/SerenaChang.jpg
+  image: 
+  altimage: 
 #  pronouns: 
   position: PhD student
   email: 
@@ -11,8 +11,8 @@
   description: "XXX"
 
   - name: Mafalda Abrantes
-  image: /img/members/SerenaChang.jpg
-  altimage: /img/members/SerenaChang.jpg
+  image: 
+  altimage: 
 #  pronouns: 
   position: PhD student
   email: 
@@ -22,8 +22,8 @@
   description: "Mafalda has a background in Engineering Physics but was drawn to Neuroscience during her master’s thesis where she explored graphene biosensors for neurotransmitters’ detection in the brain. Her interest in brain physiology and 2D materials led her to pursue a PhD in graphene nanobioelectronics. As a PhD student, she is currently developing new graphene devices for neural interfacing."
 
 - name: Ana Carolina Castro
-  image: /img/members/SerenaChang.jpg
-  altimage: /img/members/SerenaChang.jpg
+  image: 
+  altimage: 
 #  pronouns: 
   position: PhD student
   email: 
@@ -33,8 +33,8 @@
   description: "Carolina has a background in Biochemistry from University of Minho, School of Sciences. During her bachelor, she was interested in the relationship between serotoninergic signaling and protein homeostasis of the central nervous system. Carolina joined the lab in 2020 as a master student. She is interested in studying the neurobiological mechanisms underlying auditory sensitivity in a mouse model of autism spectrum disorder."
 
 - name: Margarida Falcão
-  image: /img/members/SerenaChang.jpg
-  altimage: /img/members/SerenaChang.jpg
+  image: 
+  altimage: 
 #  pronouns: 
   position: PhD student
   email: 
@@ -44,8 +44,8 @@
   description: "Margarida has a background in Applied Biology from University of Minho, School of Sciences. As an undergraduate student, she was interested in the application of electrical epidural stimulation post spinal cord injuries. Margarida joined the lab in 2020 as a master student and her current project involves in vivo brain recordings, thalamo-cortical communication and sensory processing in a mouse model of autism."
 
 - name: Patrícia Silva
-  image: /img/members/SerenaChang.jpg
-  altimage: /img/members/SerenaChang.jpg
+  image: 
+  altimage: 
 #  pronouns: 
   position: PhD student
   email: 
@@ -55,8 +55,8 @@
   description: "XXX"
 
   - name: Tiago Pereira
-  image: /img/members/SerenaChang.jpg
-  altimage: /img/members/SerenaChang.jpg
+  image: 
+  altimage: 
 #  pronouns: 
   position: Master student
   email: 
