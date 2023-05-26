@@ -28,10 +28,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Contact
     <div class="col-sm-8">
         <p class="text-justify"><strong>Join the Lab</strong> 
         <br>
-        We are always looking for talented scientists and students to join the lab. <br>
-        If you are interested in joining the lab for your Master or PhD degress, send us an email to discuss potential projects. <br>
-        If you are a postdoctoral fellow interested in interviewing, send us an email including (i) a summary of your current and past research experiences, (ii) a short statement on the types of projects that you would be interested in pursuing in the our Lab, and (iii) contact information for 2 references.<br>
-        If you are graduate student interested in rotating, or a motivated undergraduate student looking to have an in-depth research experience, send Ryan an email to set up a time to talk about potential projects. <br>
+        We are always looking for talented scientists and enthusiastic students to join our Lab. If you want to know more about ongoing opportunities and projects, send us your CV and a short motivation letter. <br>
         </p>
     </div>
 </div>
