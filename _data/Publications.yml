@@ -6,7 +6,7 @@
   pubmed: https://pubmed.ncbi.nlm.nih.gov/36446783/
   pdf: /pdf/2022RodriguesChronicStressSOMStriatalDisinhibition.pdf
   journal: <i>Nature Communications</i>
-  journalShort: Nature Communications
+  journalShort: Nat Comm
   journalLink: https://www.nature.com/articles/s41467-022-35028-4/
   description: 'Chronic stress (CS) is associated with a number of neuropsychiatric disorders, and it may also contribute to or exacerbate motor function. However, the mechanisms by which stress triggers motor symptoms are not fully understood. Here, we report that CS functionally alters dorsomedial striatum (DMS) circuits in male mice, by affecting GABAergic interneuron populations and somatostatin positive (SOM) interneurons in particular. Specifically, we show that CS impairs communication between SOM interneurons and medium spiny neurons, promoting striatal overactivation/disinhibition and increased motor output. Using probabilistic machine learning to analyze animal behavior, we demonstrate that in vivo chemogenetic manipulation of SOM interneurons in DMS modulates motor phenotypes in stressed mice. Altogether, we propose a causal link between dysfunction of striatal SOM interneurons and motor symptoms in models of chronic stress.'
 
@@ -18,7 +18,7 @@
   pubmed: https://pubmed.ncbi.nlm.nih.gov/36424623/
   pdf: /pdf/2022AbrantesDopamineGrapheneMultitransistorArrays.pdf
   journal: <i>Journal of Nanobiotechnology</i>
-  journalShort: Journal of Nanobiotechnology
+  journalShort: J Nanobiotech
   journalLink: https://jnanobiotechnology.biomedcentral.com/articles/10.1186/s12951-022-01695-0/
   description: 'Detecting physiological levels of neurotransmitters in biological samples can advance our understanding of brain disorders and lead to improved diagnostics and therapeutics. However, neurotransmitter sensors for real-world applications must reliably detect low concentrations of target analytes from small volume working samples. Herein, a platform for robust and ultrasensitive detection of dopamine, an essential neurotransmitter that underlies several brain disorders, based on graphene multitransistor arrays (gMTAs) functionalized with a selective DNA aptamer is presented. High-yield scalable methodologies optimized at the wafer level were employed to integrate multiple graphene transistors on small-size chips (4.5 × 4.5 mm). The multiple sensor array configuration permits independent and simultaneous replicate measurements of the same sample that produce robust average data, reducing sources of measurement variability. This procedure allowed sensitive and reproducible dopamine detection in ultra-low concentrations from small volume samples across physiological buffers and high ionic strength complex biological samples. The obtained limit-of-detection was 1 aM (10–18) with dynamic detection ranges spanning 10 orders of magnitude up to 100 µM (10–8), and a 22 mV/decade peak sensitivity in artificial cerebral spinal fluid. Dopamine detection in dopamine-depleted brain homogenates spiked with dopamine was also possible with a LOD of 1 aM, overcoming sensitivity losses typically observed in ion-sensitive sensors in complex biological samples. Furthermore, we show that our gMTAs platform can detect minimal changes in dopamine concentrations in small working volume samples (2 µL) of cerebral spinal fluid samples obtained from a mouse model of Parkinson’s Disease. The platform presented in this work can lead the way to graphene-based neurotransmitter sensors suitable for real-world academic and pre-clinical pharmaceutical research as well as clinical diagnosis.'
 
@@ -30,7 +30,7 @@
   pubmed: https://pubmed.ncbi.nlm.nih.gov/35493332/
   pdf: /pdf/2022CastroAuditoryModelsASD.pdf
   journal: <i>Frontiers in Molecular Neuroscience</i>
-  journalShort: Frontiers in Molecular Neuroscience
+  journalShort: Front Mol Neurosci
   journalLink: https://www.frontiersin.org/articles/10.3389/fnmol.2022.845155/full
   description: 'Autism spectrum disorder (ASD) is a neurodevelopmental disorder mainly characterized by social-communication impairments, repetitive behaviors and altered sensory perception. Auditory hypersensitivity is the most common sensory-perceptual abnormality in ASD, however, its underlying neurobiological mechanisms remain elusive. Consistently with reports in ASD patients, animal models for ASD present sensory-perception alterations, including auditory processing impairments. Here we review the current knowledge regarding auditory dysfunction in rodent models of ASD, exploring both shared and distinct features among them, mechanistic and molecular underpinnings, and potential therapeutic approaches. Overall, auditory dysfunction in ASD models seems to arise from impaired central processing. Depending on the model, impairments may arise at different steps along the auditory pathway, from auditory brainstem up to the auditory cortex. Common defects found across models encompass atypical tonotopicity in different regions of the auditory pathway, temporal and spectral processing impairments and histological differences. Imbalance between excitation and inhibition (E/I imbalance) is one of the most well-supported mechanisms explaining the auditory phenotype in the ASD models studied so far and seems to be linked to alterations in GABAergic signaling. Such E/I imbalance may have a large impact on the development of the auditory pathway, influencing the establishment of connections responsible for normal sound processing.'
 
@@ -42,7 +42,7 @@
   pubmed: https://pubmed.ncbi.nlm.nih.gov/34211364/
   pdf: /pdf/2021PimentaDoubleLayerFlexibleProbe.pdf
   journal: <i>Frontiers in Neuroscience - Neural Technology</i>
-  journalShort: Frontiers in Neuroscience - Neural Technology
+  journalShort: Front Neurosci - Neural Tech
   journalLink: https://www.frontiersin.org/articles/10.3389/fnins.2021.663174/full
   description: 'Flexible polymer neural probes are an attractive emerging approach for invasive brain recordings, given that they can minimize the risks of brain damage or glial scaring. However, densely packed electrode sites, which can facilitate neuronal data analysis, are not widely available in flexible probes. Here, we present a new flexible polyimide neural probe, based on standard and low-cost lithography processes, which has 32 closely spaced 10 μm diameter gold electrode sites at two different depths from the probe surface arranged in a matrix, with inter-site distances of only 5 μm. The double-layer design and fabrication approach implemented also provides additional stiffening just sufficient to prevent probe buckling during brain insertion. This approach avoids typical laborious augmentation strategies used to increase flexible probes’ mechanical rigidity while allowing a small brain insertion footprint. Chemical composition analysis and metrology of structural, mechanical, and electrical properties demonstrated the viability of this fabrication approach. Finally, in vivo functional assessment tests in the mouse cortex were performed as well as histological assessment of the insertion footprint, validating the biological applicability of this flexible neural probe for acquiring high quality neuronal recordings with high signal to noise ratio (SNR) and reduced acute trauma.'
 
@@ -63,20 +63,52 @@
   Comparison with existing methods: Besides low fabrication cost, our device uses an omnetics connector compatible with the majority of headstages already available at most electrophysiology laboratories. The device allows custom tetrode configuration arrays and extensions for optogenetics and pharmacology, providing experimental flexibility not available in commercial off-the-shelf microelectrode arrays and silicon probes.
   Conclusions: We developed an affordable, versatile and modular device to facilitate tetrode extracellular recordings interchangeably between in vivo anaesthetized animals and ex vivo brain.'
 
-- title: Lineage-specific and single cell chromatin accessibility charts human hematopoiesis and leukemia evolution
-  image: /img/publications/2016_NatGen_Heme-AML.jpg
-  short: ATAC-seq and RNA-seq in hemetopoiesis and AML
+- title: SHANK proteins - roles at the synapse and in autism spectrum disorder
+  image: /img/publications/2017ShankReviewNatNeurosci.png
+  short: SHANK proteins - roles at the synapse and in autism spectrum disorder
+  year: 2017
+  authors: 'Monteiro P and Feng G'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/28179641/
+  pdf: /pdf/2017MonteiroShankReview.pdf
+  journal: <i>Nature Reviews Neuroscience</i>
+  journalShort: Nat Rev Neurosci.
+  journalLink: https://www.nature.com/articles/nrn.2016.183
+  description: 'Several large-scale genomic studies have supported an association between cases of autism spectrum disorder and mutations in the genes SH3 and multiple ankyrin repeat domains protein 1 (SHANK1), SHANK2 and SHANK3, which encode a family of postsynaptic scaffolding proteins that are present at glutamatergic synapses in the CNS. An evaluation of human genetic data, as well as of in vitro and in vivo animal model data, may allow us to understand how disruption of SHANK scaffolding proteins affects the structure and function of neural circuits and alters behaviour.'
+
+- title: Adult restoration of Shank3 expression rescues selective autistic-like phenotypes
+  image: /img/publications/2016Shank3RescueNature.png
+  short: Adult restoration of Shank3 rescues ASD-like behaviors
   year: 2016
-  authors: '___Corces MR___\*, Buenrostro JD\*, Wu B, Greenside PG, Chan SM, Koenig JL, Snyder MP, Pritchard JK, Kundaje A, Greenleaf WJ,  Majeti R†, Chang HY†'
-  pubmed: https://www.ncbi.nlm.nih.gov/pubmed/27526324
-  pdf: 
-  journal: Nature Genetics
-  journalShort: Nature Genetics
-  journalLink: https://www.nature.com/articles/ng.3646
-  description: 'We define the chromatin accessibility and transcriptional landscapes in 13 human primary blood cell types that
-  span the hematopoietic hierarchy. Exploiting the finding that the enhancer landscape better reflects cell identity than mRNA
-  levels, we enable enhancer cytometry for enumeration of pure cell types from complex populations. We identify regulators
-  governing hematopoietic differentiation and further show the lineage ontogeny of genetic elements linked to diverse human
-  diseases. In acute myeloid leukemia (AML), chromatin accessibility uncovers unique regulatory evolution in cancer cells with
-  a progressively increasing mutation burden. Single AML cells exhibit distinctive mixed regulome profiles corresponding to
-  disparate developmental stages.'
+  authors: 'Mei Y*, Monteiro P*, Zhou Y, Kim J, Gao X, Fu Z, and Feng G'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/26886798/ 
+  pdf: /pdf/2016MeiMonteiroShank3Rescue.pdf
+  journal: <i>Nature</i>
+  journalShort: Nature
+  journalLink: https://www.nature.com/articles/nature16971 
+  description: 'Because autism spectrum disorders are neurodevelopmental disorders and patients typically display symptoms before the age of three, one of the key questions in autism research is whether the pathology is reversible in adults. Here we investigate the developmental requirement of Shank3 in mice, a prominent monogenic autism gene that is estimated to contribute to
+approximately 1% of all autism spectrum disorder cases. SHANK3 is a postsynaptic scaffold protein that regulates synaptic development, function and plasticity by orchestrating the assembly of postsynaptic density macromolecular signalling complex. Disruptions of the Shank3 gene in mouse models have resulted in synaptic defects and autistic-like behaviours including anxiety, social interaction deficits, and repetitive behaviour. We
+generated a novel Shank3 conditional knock-in mouse model, and show that re-expression of the Shank3 gene in adult mice led to improvements in synaptic protein composition, spine density and neural function in the striatum. We also provide behavioural evidence that certain behavioural abnormalities including social interaction deficit and repetitive grooming behaviour could be rescued, while anxiety and motor coordination deficit could not be recovered in adulthood. Together, these results reveal the profound effect of post-developmental activation of Shank3 expression on neural function, and demonstrate a certain degree of continued plasticity in the adult diseased brain.'
+
+- title: Mice with Shank3 mutations associated with ASD and schizophrenia display both shared and distinct defects
+  image: /img/publications/2016Shank3InsG3680Shank3R1117X.png
+  short: Shank3 mutations associated with ASD and schizophrenia
+  year: 2016
+  authors: 'Zhou Y, Kaiser T*, Monteiro P*, Zhang X*, Van der Goes MS, Wang D, Barak B, Zeng M, LiC, Lu C, Wells M, Amaya A, Nguyen S, Lewis M, Sanjana N, Zhou Y, Zhang M, Zhang F, Fu Z, Feng G'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/26687841/ 
+  pdf: /pdf/2016ZhouShank3mutations.pdf
+  journal: <i>Neuron</i>
+  journalShort: Neuron
+  journalLink: https://www.sciencedirect.com/science/article/pii/S0896627315010296?via%3Dihub 
+  description: 'Genetic studies have revealed significant overlaps of risk genes among psychiatric disorders. However, it is not clear how different mutations of the same gene contribute to different disorders. We characterized two lines of mutant mice with Shank3 mutations linked to ASD and schizophrenia. We found both shared and distinct synaptic and behavioral phenotypes. Mice with the ASD-linked InsG3680 mutation manifest striatal synaptic transmission defects before weaning age and impaired juvenile social interaction, coinciding with the early onset of ASD symptoms. On the other hand, adult mice carrying the schizophrenia-linked R1117X mutation show profound synaptic defects in prefrontal cortex and social dominance behavior. Furthermore, we found differential Shank3 mRNA stability and SHANK1/2 upregulation in these two lines. These data demonstrate that different alleles of the same gene may have distinct phenotypes at molecular, synaptic, and circuit levels in mice, which may inform exploration of these relationships in human patients.'
+
+- title: Optogenetic Stimulation of Lateral Orbitofronto-Striatal Pathway Suppresses Compulsive Behaviors
+  image: /img/publications/2013Sapap3OptogeneticReversal.png
+  short: OCD reversal in Sapap3-KO mice
+  year: 2013
+  authors: 'Burguiere E, Monteiro P, Feng G and Graybiel AM'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/23744950/ 
+  pdf: /pdf/2013BurguiereSapap3OptogeneticReversal.pdf
+  journal: <i>Science</i>
+  journalShort: Science
+  journalLink: https://www.science.org/doi/10.1126/science.1232380?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed 
+  description: 'Dysfunctions in frontostriatal brain circuits have been implicated in neuropsychiatric disorders, including those characterized by the presence of repetitive behaviors. We developed an optogenetic approach to block repetitive, compulsive behavior in a mouse model in which deletion of the synaptic scaffolding gene, Sapap3, results in excessive grooming. With a delay-conditioning task, we identified in the mutants a selective deficit in behavioral response inhibition and found this to be associated with defective down-regulation of striatal projection neuron activity. Focused optogenetic stimulation of the lateral orbitofrontal cortex and its terminals in the striatum restored the behavioral response inhibition, restored the defective down-regulation, and compensated for impaired fast-spiking neuron striatal microcircuits. These findings raise promising potential for the design of targeted therapy for disorders involving excessive repetitive behavior.'
