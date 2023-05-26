@@ -1,8 +1,8 @@
-- title: Chronic stress causes striatal disinhibition mediated by SOM-interneurons in male mice
+- title: <i>Chronic stress causes striatal disinhibition mediated by SOM-interneurons in male mice</i>
   image: /img/publications/SOMstressNatCom.png
   short: Chronic stress causes striatal disinhibition
   year: 2022
-  authors: 'Rodrigues D, Jacinto L, Falcão M, Castro AC, Cruz A, Santa C, Manadas B, Marques F, Sousa N, ___Monteiro P*___'
+  authors: 'Rodrigues D, Jacinto L, Falcão M, Castro AC, Cruz A, Santa C, Manadas B, Marques F, Sousa N, Monteiro P'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/36446783/
   pdf: /pdf/2022RodriguesChronicStressSOMStriatalDisinhibition.pdf
   journal: Nature Communications
@@ -14,7 +14,7 @@
   image: /img/publications/DopamineGrapheneJNanobiotech.png
   short: dopamine detection with graphene multitransistor arrays
   year: 2022
-  authors: 'Abrantes M, Rodrigues D, Domingues T, Nemala SS, Monteiro P, Borme J, Alpuim P, ___Jacinto L*___'
+  authors: 'Abrantes M, Rodrigues D, Domingues T, Nemala SS, Monteiro P, Borme J, Alpuim P, Jacinto L'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/36424623/
   pdf: /pdf/2022AbrantesDopamineGrapheneMultitransistorArrays.pdf
   journal: Journal of Nanobiotechnology
