@@ -88,7 +88,6 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
     
   <tr>
     <th>Undergrad</th>
-    <th>Years in Lab</th>
     <th>Degree</th>
   </tr>
 
@@ -96,11 +95,16 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
 
   <tr>
     <td>{{alumni.name}}</td>
-    <td>{{alumni.years}}</td>
     <td>{{alumni.position}}</td>
   </tr>
       {% endfor %}
-    
+    </table>
+
+
+# **Alumni**
+
+<hr>
+<table>
   <tr>
     <th>Alumni</th>
     <th>Years in Lab</th>
