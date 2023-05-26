@@ -82,20 +82,20 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
 
 <hr>
 
-# **Undergrads & Alumni**
+# **Undergrads**
 <hr>
 <table>
     
   <tr>
-    <th>Undergrad</th>
+    <th>Name</th>
     <th>Degree</th>
   </tr>
 
-  {% for alumni in site.data.Alumni %}
+  {% for undergrades in site.data.Undergrads %}
 
   <tr>
-    <td>{{alumni.name}}</td>
-    <td>{{alumni.position}}</td>
+    <td>{{undgrads.name}}</td>
+    <td>{{undergrads.position}}</td>
   </tr>
       {% endfor %}
     </table>
