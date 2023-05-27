@@ -4,7 +4,7 @@
 #   icon: Specify a valid fontawesome icon class
 
 Home: 
-  icon: "fa fa-house"
+  icon: "fa-solid fa-house"
 
 Research:
   icon: "fa fa-flask"
