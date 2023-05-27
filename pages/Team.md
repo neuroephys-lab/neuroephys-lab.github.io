@@ -94,11 +94,13 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
   {% for undergrads in site.data.Undergrads %}
 
   <tr>
-    <td>{{undgrads.name}}</td>
+    <td>{{undergrads.name}}</td>
     <td>{{undergrads.position}}</td>
   </tr>
-      {% endfor %}
-    </table>
+  
+  {% endfor %}
+    
+  </table>
 
 
 # **Alumni**
