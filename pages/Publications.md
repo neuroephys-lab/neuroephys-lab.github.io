@@ -19,13 +19,13 @@ subtitle: Neurophysiology and Neuroengineering Lab Publications
     	{{pub.authors | markdownify}}
         {{pub.description | markdownify}}
         {% if pub.pubmed %}
-          <a href= "{{pub.pubmed}}">[pubmed]</a>
+          <a href= "{{pub.pubmed}}">[pubmed] target="_blank"</a>
         {% endif %}
         {% if pub.pdf %}
-          <a href= "{{pub.pdf}}">[pdf]</a>
+          <a href= "{{pub.pdf}}">[pdf] target="_blank" </a>
         {% endif %}
         {% if pub.journalLink %}
-          <a href= "{{pub.journalLink}}">[{{pub.journalShort}}]</a>
+          <a href= "{{pub.journalLink}}">[{{pub.journalShort}}] target="_blank"</a>
         {% endif %}
     </div>
 </div>
