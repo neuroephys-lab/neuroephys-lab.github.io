@@ -31,16 +31,16 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
         {% endif %}
         <em>{{person.email}}</em> <br>
         {% if person.scholar %}
-          <a href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="fa fa-graduation-cap" aria-hidden="true"></span> Google Scholar </a> <br>
+          <a href= "http://scholar.google.com/citations?user={{person.scholar}}" target="_blank"><span class="fa fa-graduation-cap" aria-hidden="true"></span> Google Scholar </a> <br>
         {% endif %}
         {% if person.orcid %}
-          <a href= "https://orcid.org/{{person.orcid}}"><span class="fa fa-book" aria-hidden="true"></span> ORCID </a> <br>
+          <a href= "https://orcid.org/{{person.orcid}}" target="_blank"><span class="fa fa-book" aria-hidden="true"></span> ORCID </a> <br>
         {% endif %}
         {% if person.twitter %}
-          <a href= "http://twitter.com/{{person.twitter}}"><span class="fab fa-twitter" aria-hidden="true"></span> @{{person.twitter}} </a> <br>
+          <a href= "http://twitter.com/{{person.twitter}}" target="_blank"><span class="fab fa-twitter" aria-hidden="true"></span> @{{person.twitter}} </a> <br>
         {% endif %}
         {% if person.website %}
-          <a href= "{{person.website}}"><span class="fa fa-rss" aria-hidden="true"></span> {{person.website}} </a> <br>
+          <a href= "{{person.website}}" target="_blank"><span class="fa fa-rss" aria-hidden="true"></span> {{person.website}} </a> <br>
         {% endif %}
     </div>
     <div class="col-sm-8" style="text-align: justify">
@@ -68,10 +68,10 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
         {% endif %}
         <em>{{person.email}}</em> <br>
         {% if person.scholar %}
-          <a href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="fa fa-graduation-cap" aria-hidden="true"></span> Google Scholar </a> <br>
+          <a href= "http://scholar.google.com/citations?user={{person.scholar}}" target="_blank"><span class="fa fa-graduation-cap" aria-hidden="true"></span> Google Scholar </a> <br>
         {% endif %}
         {% if person.orcid %}
-          <a href= "https://orcid.org/{{person.orcid}}"><span class="fa fa-book" aria-hidden="true"></span> ORCID </a> <br>
+          <a href= "https://orcid.org/{{person.orcid}}" target="_blank"><span class="fa fa-book" aria-hidden="true"></span> ORCID </a> <br>
         {% endif %}
     </div>
     <div class="col-sm-8" style="text-align: justify">
