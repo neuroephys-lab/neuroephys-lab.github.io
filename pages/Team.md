@@ -91,7 +91,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
     <th>Degree</th>
   </tr>
 
-  {% for undergrades in site.data.Undergrads %}
+  {% for undergrads in site.data.Undergrads %}
 
   <tr>
     <td>{{undgrads.name}}</td>
