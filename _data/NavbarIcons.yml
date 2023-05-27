@@ -3,6 +3,9 @@
 # In addition to that you need to specify the following properties:
 #   icon: Specify a valid fontawesome icon class
 
+Home: 
+  icon: "fa-solid fa-house"
+
 Research:
   icon: "fa fa-flask"
 
