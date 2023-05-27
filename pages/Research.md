@@ -33,7 +33,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
 
 <div id = "Pathologic Resilience" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
-    	<img src="/img/research/PathologicResilience.jpg" alt="Pathologic Resilience in AD">
+    	<img src="/img/research/ImageProjectASD.PNG" alt="Neurobiological mechanisms underlying ASD">
     </div>
     <div class="col-sm-8" style="text-align: justify">
     	<h5>Neurobiological mechanisms underlying autism spectrum disorders (ASD)</h5>
@@ -51,7 +51,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
     	</p>
     </div>
     <div class="col-sm-4">
-    	<img src="/img/research/SelectiveVulnerability.jpg" alt="Selective Vulnerability in AD">
+    	<img src="/img/research/ImageProjectSynapses.png" alt="Synaptic dysfunction of corticostriatal circuits">
     </div>
 </div>
 
