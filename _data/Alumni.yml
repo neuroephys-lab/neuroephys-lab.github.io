@@ -2,7 +2,7 @@
   image: 
   altimage: 
 #  pronouns: 
-  position: PhD Student
+  position: PhD <br> Student
   email: 
 #  scholar:
 #  twitter: ""
@@ -15,23 +15,23 @@
   image: 
   altimage: 
 #  pronouns: 
-  position: PhD Student
+  position: PhD <br> Student
   email: 
 #  scholar:
 #  twitter: ""
   description: 
   years: "2017-2022"
-  nextPosition: "Postdoc, Ludwig-Maximilians-Universität München "
+  nextPosition: "Postdoc, <br> Ludwig-Maximilians-Universität München "
 
 
 - name: Francisca Machado
   image: /img/members/FiorellaGrandi.jpg
   altimage: /img/members/FiorellaGrandi.jpg
 #  pronouns: 
-  position: Master student (Biomedical Engineering) and lab tech
+  position: Master student <br> and lab tech
   email: 
 #  scholar:
 #  twitter: ""
   description: 
   years: "2019-2020"
-  nextPosition: "Technical Consultant, Medtronic"
+  nextPosition: "Technical Consultant, <br> Medtronic"
