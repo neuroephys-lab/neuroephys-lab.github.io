@@ -36,7 +36,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
     	<img src="/img/research/ImageProjectASD.PNG" alt="Neurobiological mechanisms underlying ASD">
     </div>
     <div class="col-sm-8" style="text-align: justify">
-    	<h5>Neurobiological mechanisms underlying autism spectrum disorders (ASD)</h5>
+    	<h4>Neurobiological mechanisms underlying autism spectrum disorders (ASD)</h4>
     	<p>
 			Autism spectrum disorders (ASD) affect nearly 70 million people worldwide. Several large-scale genomic studies have supported an association between cases of autism spectrum disorder and mutations in the human gene SHANK3. Research studies by us and others have been revealing the biological extent to which mutations in Shank3 can impact brain function and development in zebrafish, mice, rats, and even primates, leading to reduced social interaction and repetitive behavioral patterns in all species. We are currently studying cortico-basal ganglia-thalamo circuits in Shank3-mutant mice and how Shank3 mutations impact sensory processing and social behaviors.	
     	</p>
