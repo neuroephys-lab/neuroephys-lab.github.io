@@ -9,7 +9,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
 <div class="container">
   <div class="jumbotron jumbotron-correct">
       <p>
- 		 We study how cortico-basal ganglia-thalamo circuits encode and decode information and how disruption of these circuits can lead to brain disorders such as autism spectrum disorders (ASD) and obsessive-compulsive disorder (OCD).  Simultaneously, we also develop new technologies with translational potential to monitor and record electrical and chemical neurotransmission, and for non-invasive brain stimulation. 
+ 		 We study how cortico-basal ganglia-thalamo circuits encode and decode information and how disruption of these circuits can lead to brain disorders such as autism spectrum disorders (ASD) and obsessive-compulsive disorder (OCD).  Simultaneously, we also develop new technologies with translational potential to monitor and modulate brain activity, and for diagnostics/therapeutics in brain disorders.
       </p>
   </div>
 </div>
@@ -56,7 +56,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
 <div id="Parkinson’s Disease" class="col-sm-12">
 		<h3>NEUROENGINEERING</h3>
 		<p>
-			Understanding complex neural systems at the functional level requires novel advanced tools which can only be created with a profound grasp of neurophysiology. Thus we neurophysiology with engineering approaches such as micro/nano-fabrication, materials engineering, electronics, systems engineering, signal processing and machine learning. 
+			Understanding complex neural systems at the functional level requires novel advanced tools which can only be created with a profound grasp of neurophysiology. Our interdisciplinary projects bring together researchers and students from biological and engineering sciences to solve complex problems requiring the integration of different fields of knowledge. 
 		</p>
 </div>
 
@@ -64,12 +64,25 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
 
 <div id = "Pathologic Resilience" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
-    	<img src="/img/research/PathologicResilience.jpg" alt="Pathologic Resilience in AD">
+    	<img src="/img/research/ImageProjectDataAnalysis.png" alt="Pathologic Resilience in AD">
     </div>
     <div class="col-sm-8" style="text-align: justify">
     	<h4>Electronic Neural Interfaces</h4>
     	<p>
-			Neural interfaces create a direct communication channel between the brain and external electronic devices. They allow studying neural activity with detailed resolution and replacing or augmenting brain function. We are currently developing new technologies to interact with the brain including: electrophysiological neural probes, nanobioelectronic neural interfaces and non-invasive/wireless brain stimulators. 
+			Neural interfaces create a direct communication channel between the brain and external electronic devices. They allow recording and modulation of neural activity and replacing or augmenting brain function. We develop new technologies and devices to interact with the brain including: electrophysiological neural probes, nanobioelectronic neural interfaces, and non-invasive/wireless brain stimulators. We combine our knowledge of neurophysiology and systems neuroscience with engineering approaches such as micro/nano-fabrication, materials engineering, electronics, signal processing, and machine learning to create new tools.
     	</p>
+    </div>
+</div>
+
+<hr>
+<div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-8" style="text-align: justify">
+    	<h4>Machine learning and data analysis tools for brain activity mapping and behavioral phenotyping</h4>
+    	<p>
+    		XXX
+    	</p>
+    </div>
+    <div class="col-sm-4">
+    	<img src="/img/research/ImageProjectSynapses.png" alt="Synaptic dysfunction of corticostriatal circuits">
     </div>
 </div>
