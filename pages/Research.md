@@ -60,7 +60,9 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
 		</p>
 </div>
 
-<hr>
+<div id="break" class="col-sm-12">
+	<hr>
+</div>
 
 <div id = "Pathologic Resilience" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
