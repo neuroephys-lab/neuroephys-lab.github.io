@@ -6,7 +6,7 @@
   pubmed: https://pubmed.ncbi.nlm.nih.gov/36446783/
   pdf: /pdf/2022RodriguesChronicStressSOMStriatalDisinhibition.pdf
   journal: <i>Nature Communications</i>
-  journalShort: Nat Comm
+  journalShort: Nat Commun
   journalLink: https://www.nature.com/articles/s41467-022-35028-4/
   description: 'Chronic stress (CS) is associated with a number of neuropsychiatric disorders, and it may also contribute to or exacerbate motor function. However, the mechanisms by which stress triggers motor symptoms are not fully understood. Here, we report that CS functionally alters dorsomedial striatum (DMS) circuits in male mice, by affecting GABAergic interneuron populations and somatostatin positive (SOM) interneurons in particular. Specifically, we show that CS impairs communication between SOM interneurons and medium spiny neurons, promoting striatal overactivation/disinhibition and increased motor output. Using probabilistic machine learning to analyze animal behavior, we demonstrate that in vivo chemogenetic manipulation of SOM interneurons in DMS modulates motor phenotypes in stressed mice. Altogether, we propose a causal link between dysfunction of striatal SOM interneurons and motor symptoms in models of chronic stress.'
 
@@ -42,7 +42,7 @@
   pubmed: https://pubmed.ncbi.nlm.nih.gov/34211364/
   pdf: /pdf/2021PimentaDoubleLayerFlexibleProbe.pdf
   journal: <i>Frontiers in Neuroscience - Neural Technology</i>
-  journalShort: Front Neurosci - Neural Tech
+  journalShort: Front Neurosci
   journalLink: https://www.frontiersin.org/articles/10.3389/fnins.2021.663174/full
   description: 'Flexible polymer neural probes are an attractive emerging approach for invasive brain recordings, given that they can minimize the risks of brain damage or glial scaring. However, densely packed electrode sites, which can facilitate neuronal data analysis, are not widely available in flexible probes. Here, we present a new flexible polyimide neural probe, based on standard and low-cost lithography processes, which has 32 closely spaced 10 μm diameter gold electrode sites at two different depths from the probe surface arranged in a matrix, with inter-site distances of only 5 μm. The double-layer design and fabrication approach implemented also provides additional stiffening just sufficient to prevent probe buckling during brain insertion. This approach avoids typical laborious augmentation strategies used to increase flexible probes’ mechanical rigidity while allowing a small brain insertion footprint. Chemical composition analysis and metrology of structural, mechanical, and electrical properties demonstrated the viability of this fabrication approach. Finally, in vivo functional assessment tests in the mouse cortex were performed as well as histological assessment of the insertion footprint, validating the biological applicability of this flexible neural probe for acquiring high quality neuronal recordings with high signal to noise ratio (SNR) and reduced acute trauma.'
 
