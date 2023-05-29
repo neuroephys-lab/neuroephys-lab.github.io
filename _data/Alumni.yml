@@ -1,15 +1,3 @@
-- name: Diana Rodrigues
-  image: 
-  altimage: 
-#  pronouns: 
-  position: PhD Student
-  email: 
-#  scholar:
-#  twitter: ""
-  description: 
-  years: "2018-2022"
-  nextPosition: "Postdoc, Ludwig-Maximilians-Universität München "
-
 - name: Margarida Gonçalves
   image: 
   altimage: 
@@ -19,8 +7,22 @@
 #  scholar:
 #  twitter: ""
   description: 
-  years: "2018-2022"
+  years: "2017-2023"
   nextPosition: 
+
+
+- name: Diana Rodrigues
+  image: 
+  altimage: 
+#  pronouns: 
+  position: PhD Student
+  email: 
+#  scholar:
+#  twitter: ""
+  description: 
+  years: "2017-2022"
+  nextPosition: "Postdoc, Ludwig-Maximilians-Universität München "
+
 
 - name: Francisca Machado
   image: /img/members/FiorellaGrandi.jpg

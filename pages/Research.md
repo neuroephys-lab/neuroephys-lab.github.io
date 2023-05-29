@@ -72,7 +72,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
     	<img src="/img/research/PathologicResilience.jpg" alt="Pathologic Resilience in AD">
     </div>
     <div class="col-sm-8" style="text-align: justify">
-    	<h54>Electronic Neural Interfaces</h4>
+    	<h4>Electronic Neural Interfaces</h4>
     	<p>
 			Neural interfaces create a direct communication channel between the brain and external electronic devices. They allow studying neural activity with detailed resolution and replacing or augmenting brain function. We are currently developing new technologies to interact with the brain including: electrophysiological neural probes, nanobioelectronic neural interfaces and non-invasive/wireless brain stimulators. 
     	</p>
