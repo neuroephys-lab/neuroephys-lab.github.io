@@ -64,7 +64,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
 
 <div id = "Pathologic Resilience" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
-    	<img src="/img/research/ImageProjectNeuralInterfaces.png" alt="Pathologic Resilience in AD">
+    	<img src="/img/research/ImageProjectNeuralInterfaces.png" alt="Electronic Neural Interfaces">
     </div>
     <div class="col-sm-8" style="text-align: justify">
     	<h4>Electronic Neural Interfaces</h4>
@@ -83,6 +83,6 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
     	</p>
     </div>
     <div class="col-sm-4">
-    	<img src="/img/research/ImageProjectMachineLearning.png.png" alt="Synaptic dysfunction of corticostriatal circuits">
+    	<img src="/img/research/ImageProjectMachineLearning.png" alt="Machine learning for brain activity">
     </div>
 </div>
