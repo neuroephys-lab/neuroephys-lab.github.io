@@ -4,12 +4,7 @@ title: Research
 subtitle: Neurophysiology and Neuroengineering Lab Research
 ---
 
-<div align="center">
-	<h1>
-		<strong>Research in the Neurophysiology and Neuroengineering Lab</strong>
-	</h1>
-</div>
-<hr>
+
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div class="container">
   <div class="jumbotron jumbotron-correct">
