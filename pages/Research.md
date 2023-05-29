@@ -79,7 +79,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
     <div class="col-sm-8" style="text-align: justify">
     	<h4>Machine learning and data analysis tools for brain activity mapping and behavioral phenotyping</h4>
     	<p>
-    		XXX
+    		Recent advances in electronics miniaturization and device integration allow the recording of brain activity with unprecedented resolution. We develop and use machine learning, signal processing, and computational data analysis tools to decode large scale recordings of brain activity. We apply these tools to answer questions in preclinical neuroscience studies but also to identify electrophysiological biomarkers in patients afflicted with brain disorders. We also combine machine learning tools with computer vision to automatically identify behavior profiles in animal models of brain disorders and to understand how these are correlated with alterations in brain activity.
     	</p>
     </div>
     <div class="col-sm-4">
