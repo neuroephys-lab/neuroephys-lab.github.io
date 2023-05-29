@@ -83,6 +83,6 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
     	</p>
     </div>
     <div class="col-sm-4">
-    	<img src="/img/research/ImageProjectDataAnalysis.png.png" alt="Synaptic dysfunction of corticostriatal circuits">
+    	<img src="/img/research/ImageProjectMachineLearning.png.png" alt="Synaptic dysfunction of corticostriatal circuits">
     </div>
 </div>
