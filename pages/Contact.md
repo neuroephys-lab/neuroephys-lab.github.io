@@ -12,7 +12,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Contact
     	<img src="/img/FMUPbuilding.jpg" alt="FMUP" width="100%" height="100%">
     </div>
     <div class="col-sm-8">
-        <p class="text-justify"><b>Neurophysiolog and Neuroengineering Lab</b><br>
+        <p class="text-justify"><b>Neurophysiology and Neuroengineering Lab</b><br>
         Faculdade de Medicina da Universidade do Porto (FMUP)<br>
         Centro de Investigação Médica (CIM)<br>
         Biologia Experimental - pisos 4/5<br>
