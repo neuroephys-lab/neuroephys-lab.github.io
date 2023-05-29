@@ -45,7 +45,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
 <hr>
 <div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-8" style="text-align: justify">
-    	<h5>Synaptic dysfunction of corticostriatal circuits in neuropsychiatric disorders</h5>
+    	<h4>Synaptic dysfunction of corticostriatal circuits in neuropsychiatric disorders</h4>
     	<p>
     		The human brain contains 86 billion neurons that are connected to each other through particular structures called synapses. We are interested in understanding how subtle changes in synapses can affect communication between neurons and trigger brain disorders such as obsessive-compulsive disorder (OCD), schizophrenia, and stress/anxiety-related disorders.
     	</p>
@@ -72,7 +72,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
     	<img src="/img/research/PathologicResilience.jpg" alt="Pathologic Resilience in AD">
     </div>
     <div class="col-sm-8" style="text-align: justify">
-    	<h5>Electronic Neural Interfaces</h5>
+    	<h54>Electronic Neural Interfaces</h4>
     	<p>
 			Neural interfaces create a direct communication channel between the brain and external electronic devices. They allow studying neural activity with detailed resolution and replacing or augmenting brain function. We are currently developing new technologies to interact with the brain including: electrophysiological neural probes, nanobioelectronic neural interfaces and non-invasive/wireless brain stimulators. 
     	</p>
