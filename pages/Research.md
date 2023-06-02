@@ -7,11 +7,9 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div class="container">
-<div class="containcolor">
       <p>
  		 <q><i>We study how cortico-basal ganglia-thalamo circuits encode and decode information and how disruption of these circuits can lead to brain disorders such as autism spectrum disorders (ASD) and obsessive-compulsive disorder (OCD).  Simultaneously, we also develop new technologies with translational potential to monitor and modulate brain activity, and for diagnostics/therapeutics in brain disorders.</i></q>
       </p>
-</div>
 </div>
 
 <hr>
