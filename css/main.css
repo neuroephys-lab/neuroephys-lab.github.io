@@ -79,7 +79,7 @@ hr.small {
   background-color: {{ site.hover-col }};
 }
 ::selection {
-  color: rgb(122, 122, 122);
+  color: rgb(63, 86, 255);
   text-shadow: none;
   background-color: {{ site.hover-col }};
 }
