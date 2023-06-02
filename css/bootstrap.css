@@ -4881,7 +4881,7 @@ a.badge:focus {
 
 .landing2 {
   max-width: 80%;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   color: inherit;
   background-color: #eee;
 }
@@ -4889,6 +4889,7 @@ a.badge:focus {
 .landing2 p {
   font-size: 20px;
   font-weight: 200;
+  padding: 30px;
 }
 
 @media screen and (min-width: 768px) {
