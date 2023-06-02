@@ -4880,20 +4880,16 @@ a.badge:focus {
 
 
 .landing2 {
-  max-width: 100%;
+  max-width: 80%;
   margin-bottom: 30px;
   color: inherit;
   background-color: #eee;
 }
 
 .landing2 p {
-  padding: 10px 15px;
-  margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 200;
 }
-
-
 
 @media screen and (min-width: 768px) {
   .jumbotron {
