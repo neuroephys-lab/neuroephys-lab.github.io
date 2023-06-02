@@ -4,6 +4,8 @@ title: Team
 subtitle: Neurophysiology and Neuroengineering Lab Members
 ---
 
+# **Team**
+
 <div class="clear"></div>
 
 <div class="container">
