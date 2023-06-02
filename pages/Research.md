@@ -3,7 +3,7 @@ layout: gridlay
 title: Research
 subtitle: Neurophysiology and Neuroengineering Lab Research
 ---
-
+# **Research**
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div class="container">
