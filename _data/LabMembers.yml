@@ -54,17 +54,6 @@
   description: "Patrícia holds a Master degree in Biomedical Engineering from the School of Engineering at University of Minho. She joined the lab in 2020 as a master student to develop a closed-loop system for real-time compulsive behavior detection and optogenetic stimulation in obsessive-compulsive disorder. Patricia is currently developing a wireless headstage for optical stimulation in closed loop systems, and is interested in translating her knowledge of OCD into humans research through data analysis of brain activity signatures in OCD patients."
 
 
-- name: Márcia Azevedo
-  image: /img/members/MAzevedo.png
-  altimage: /img/members/MAzevedo.png
-#  pronouns: 
-  position: Master student
-  email: marciaazevedo (at) ua.pt
-#  scholar: 
-#  orcid: 
-  description: "Márcia has a background in Biology from University of Aveiro, School of Sciences. During her bachelor, she was interested in exploring the molecular pathways underlying contextual fear and traumatic memory in rodents. Márcia joined the lab in 2023 as a master student. She is interested in studying sensory processing pathways in a mouse model of autism spectrum disorder."
-
-
 - name: Tiago Pereira
   image: /img/members/NewMemberM.png
   altimage: /img/members/NewMemberM.png
