@@ -1597,6 +1597,14 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+
+.containtext {
+  padding-right: 30;
+  font-size: 40px;
+  color:#2b542c;
+}
+
+
 .row {
   margin-right: -15px;
   margin-left: -15px;
