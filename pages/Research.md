@@ -85,6 +85,6 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
     	</p>
     </div>
     <div class="col-sm-4">
-    	<img src="/img/research/ImageProjectMachineLearning.png" alt="Machine learning for brain activity">
+    	<img src="/img/research/ImageProjectMachineLearning2.png" alt="Machine learning for brain activity">
     </div>
 </div>
