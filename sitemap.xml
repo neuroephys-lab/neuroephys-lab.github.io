@@ -1,0 +1,73 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+      <loc>https://neuro-ephys.org/</loc>
+
+      <lastmod>2023-06-07</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://www.neuro-ephys.org/pages/Research/</loc>
+
+      <lastmod>2023-06-07</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://www.neuro-ephys.org/pages/Team/</loc>
+
+      <lastmod>2023-06-07</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://www.neuro-ephys.org/pages/Publications/</loc>
+
+      <lastmod>2023-06-07</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://www.neuro-ephys.org/pages/News/</loc>
+
+      <lastmod>2023-06-07</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://www.neuro-ephys.org/pages/Contact/</loc>
+
+      <lastmod>2023-06-07</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
