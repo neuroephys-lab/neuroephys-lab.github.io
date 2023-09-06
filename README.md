@@ -10,7 +10,7 @@ Because experimental answers are sometimes held back by current existing technol
 
 # Credits
 
-Our lab website is [Jekyll][]-based, and includes coding with Markdown, Liquid, HTML and Bootstrap CSS. We adapted the main code from [Corces Lab][] website, which was initially based on the [beautiful Jekyll template][] and [Vijay Ramani's lab webpage][].
+Our lab website is [Jekyll][]-based, and includes coding with Markdown, Liquid, HTML, and Bootstrap CSS. We adapted the main code from [Corces Lab][] website, which was initially based on the [beautiful Jekyll template][] and [Vijay Ramani's lab webpage][].
 
 Feel free to fork this repository and change it to build your own lab's website.
 

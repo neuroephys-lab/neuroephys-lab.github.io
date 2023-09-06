@@ -36,7 +36,6 @@
   years: "2019-2020"
   nextPosition: "Technical Consultant, Medtronic"
 
-
 - name: 
   image: 
   altimage: 
@@ -49,7 +48,7 @@
   years: 
   nextPosition: 
 
-  - name: Diogo Cerveira
+- name: Diogo Cerveira
   image: /img/members/FiorellaGrandi.jpg
   altimage: /img/members/FiorellaGrandi.jpg
 #  pronouns: 
