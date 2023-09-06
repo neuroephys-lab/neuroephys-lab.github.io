@@ -1,4 +1,5 @@
 
+
 - name: Alexandra Cruz
   image: /img/members/ACruz.png
   altimage: /img/members/ACruz.png
@@ -9,6 +10,16 @@
 #  orcid: 
   description: "Alexandra has a background in Biochemistry from the University of Coimbra, Faculty of Sciences and Technology, and a Master in Biomedical Research from the Faculty of Medicine of the University of Coimbra. During her MSc, Alexandra studied the impact of prenatal stress on the offspring’s behavior and microglia morphology. In 2022, she joined our team as a lab tech but her scientific passion led her to pursue a PhD with us. As a PhD student, she is currently exploring the involvement of the brain immune system in OCD."
 
+- name: Ana Carolina Castro
+  image: /img/members/ACastro.png
+  altimage: /img/members/ACastro.png
+#  pronouns: 
+  position: PhD student
+  email: accastro (at) med.up.pt
+#  scholar: 
+#  orcid: 
+  description: "Carolina has a background in Biochemistry from University of Minho, School of Sciences and a Master in Health Sciences from the School of Medicine, also at University of Minho. During her bachelor, she was interested in the relationship between serotoninergic signaling and protein homeostasis of the central nervous system. Carolina joined the lab in 2020 as a master student. She is interested in studying the neurobiological mechanisms underlying auditory sensitivity in a mouse model of autism spectrum disorder."
+  
 
 - name: Mafalda Abrantes
   image: /img/members/MAbrantes.png
@@ -21,22 +32,11 @@
   description: "Mafalda has a background in Engineering Physics and joined the lab in 2020 for her master project where she explored graphene biosensors for neurotransmitters’ detection in the brain. Her interest in 2D materials and brain physiology led her to pursue a PhD in graphene nanobioelectronics where she is currently developing new graphene devices for neural interfacing. (in collaboration with the 2D Materials and Devices group at INL)"
 
 
-- name: Ana Carolina Castro
-  image: /img/members/ACastro.png
-  altimage: /img/members/ACastro.png
-#  pronouns: 
-  position: Research Fellow
-  email: accastro (at) med.up.pt
-#  scholar: 
-#  orcid: 
-  description: "Carolina has a background in Biochemistry from University of Minho, School of Sciences and a Master in Health Sciences from the School of Medicine, also at University of Minho. During her bachelor, she was interested in the relationship between serotoninergic signaling and protein homeostasis of the central nervous system. Carolina joined the lab in 2020 as a master student. She is interested in studying the neurobiological mechanisms underlying auditory sensitivity in a mouse model of autism spectrum disorder."
-  
-
 - name: Margarida Falcão
   image: /img/members/MFalcao.png
   altimage: /img/members/MFalcao.png
 #  pronouns: 
-  position: Research Fellow
+  position: PhD student
   email: mccarvalho (at) med.up.pt
 #  scholar: 
 #  orcid: 
