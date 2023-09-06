@@ -35,3 +35,54 @@
   description: 
   years: "2019-2020"
   nextPosition: "Technical Consultant, Medtronic"
+
+
+- name: 
+  image: 
+  altimage: 
+#  pronouns: 
+  position: 
+  email: 
+#  scholar:
+#  twitter: ""
+  description: 
+  years: 
+  nextPosition: 
+
+  - name: Diogo Cerveira
+  image: /img/members/FiorellaGrandi.jpg
+  altimage: /img/members/FiorellaGrandi.jpg
+#  pronouns: 
+  position: Undergrad (BSc in Bioengineering, FEUP)
+  email: 
+#  scholar:
+#  twitter: ""
+  description: 
+  years: "2023"
+  nextPosition: 
+
+- name: Diogo Mendes
+  image: /img/members/FiorellaGrandi.jpg
+  altimage: /img/members/FiorellaGrandi.jpg
+#  pronouns: 
+  position: Undergrad (BSc in Bioengineering, FEUP)
+  email: 
+#  scholar:
+#  twitter: ""
+  description: 
+  years: "2023"
+  nextPosition: 
+
+
+- name: Francisco Neves
+  image: /img/members/FiorellaGrandi.jpg
+  altimage: /img/members/FiorellaGrandi.jpg
+#  pronouns: 
+  position: Undergrad (BSc in Bioengineering, FEUP)
+  email: 
+#  scholar:
+#  twitter: ""
+  description: 
+  years: "2023"
+  nextPosition: 
+
