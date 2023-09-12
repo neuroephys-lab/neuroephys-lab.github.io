@@ -1,3 +1,14 @@
+- name: Liliana Luz
+  image: /img/members/LLuz.png
+  altimage: /img/members/LLuz.png
+#  pronouns: 
+  position: Lab Manager
+  email: liliana_luz (at) edu.med.up.pt
+#  scholar: 
+#  orcid: "0000-0001-8109-3891"
+  description: "Liliana Luz is a Lab Manager at the Faculty of Medicine of the University of Porto (FMUP), Portugal, since September 2023. Prior to her current role, Dr. Luz worked as Postdoctoral Fellow at Institute for Research and Innovation in Health (i3S), from 2017-2023, with a primary focus on studying the functional organization of spinal and supraspinal neuronal networks. 
+Dr. Luz holds a BSc/MSc degree in Biology from the University of Aveiro and a PhD in Neuroscience from the Faculty of Medicine, University of Porto. In 2013, she worked as a Postdoctoral Researcher at the Centre for Integrative Physiology at the University of Edinburgh, where she studied the development of the somatosensory cortex, specifically in the context of the Fragile X syndrome. Between 2013 and 2017, she held a position of Assistant Professor at the Faculty of Medicine, University of Porto.
+She has an extensive experience in electrophysiology, as well as knowledge in post-hoc anatomical identification of the neurons, immunohistochemistry, and neuronal tracing."
 
 
 - name: Alexandra Cruz
@@ -62,7 +73,7 @@
   email: marciaazevedo (at) ua.pt
 #  scholar: 
 #  orcid: 
-  description: "Márcia has a background in Biology from University of Aveiro, School of Sciences. During her bachelor, she was interested in exploring the molecular pathways underlying contextual fear and traumatic memory in rodents. Márcia joined the lab in 2023 as a master student. She is interested in studying sensory processing pathways in a mouse model of autism spectrum disorder."
+  description: "Márcia has a background in Biology from University of Aveiro. During her bachelor, she was interested in exploring the molecular pathways underlying contextual fear and traumatic memory in rodents. Márcia joined the lab in 2023 as a master student. She is interested in studying sensory processing pathways in a mouse model of autism spectrum disorder."
 
 
 - name: Tiago Pereira
