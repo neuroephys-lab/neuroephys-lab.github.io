@@ -1,3 +1,27 @@
+- title: Chronic stress promotes basal ganglia disinhibition by increasing the excitatory drive of direct-pathway neurons
+  image: /img/publications/2023RodriguesDirectPathwayCUS.PNG
+  short: Chronic stress promotes basal ganglia disinhibition 
+  year: 2023
+  authors: 'Rodrigues D, Monteiro P'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/37781564/
+  pdf: /pdf/2023RodriguesDirectPathwayCUS.pdf
+  journal: <i>Neurobiology of Stress</i>
+  journalShort: Neurobiology of Stress 
+  journalLink: https://www.sciencedirect.com/science/article/pii/S2352289523000590
+  description: 'Chronic stress (CS) is a well-recognized triggering factor in obsessive-compulsive disorder (OCD) and Tourette's syndrome (TS), two neuropsychiatric disorders characterized by the presence of stereotypic motor symptoms. Planning and execution of motor actions are controlled by the dorsal striatum, a brain region that promotes or suppresses motor movement by activating striatal neurons from the direct- or indirect-pathway, respectively. Here, we report that CS in mice selectively potentiates the direct-pathway, while sparing the indirect-pathway. Specifically, we show that CS both increases excitation and reduces inhibition over direct-pathway neurons in the dorsomedial striatum (DMS). Furthermore, inhibitory interneurons located in the DMS also display reduced excitatory drive after chronic stress, thus amplifying striatal disinhibition.'
+
+- title: The Shank3-InsG3680(+/+) mouse model of autism spectrum disorder displays auditory avoidance in a novel behavioral test
+  image: /img/publications/2023GoncalvesSoundArenaShank3.png
+  short: The Shank3-InsG3680(+/+) mouse model of ASD displays auditory avoidance
+  year: 2023
+  authors: 'Goncalves AM, Sousa N, Jacinto L, Monteiro P'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/37693284/
+  pdf: /pdf/2023GoncalvesSoundArenaShank3.pdf
+  journal: <i>Frontiers in Behavioral Neuroscience</i>
+  journalShort: Front. Behav. Neurosci
+  journalLink: https://www.frontiersin.org/articles/10.3389/fnbeh.2023.1205507/full
+  description: 'Autism spectrum disorder (ASD) is characterized by deficits in communication and social interaction, restricted interests, repetitive behaviors, and sensory alterations, with auditory hypersensitivity being one of the most commonly reported sensory–perceptual abnormalities. Previous work has shown that mutant mice carrying a human ASD mutation in the Shank3 gene (InsG3680) exhibit repetitive behaviors and social interaction deficits, indicating important construct and face validity for this genotype as an animal model of ASD. To further address whether these mice also present auditory sensory–perceptual alterations, we developed a novel behavioral test in which mice can choose between different soundscapes. Our results reveal that, in comparison to wild-type mice, Shank3 mutants display a strong behavioral preference toward silent regions of the arena. These data suggest that Shank3- mutant mice might express an auditory hypersensitivity phenotype, further adding to their face validity as an animal model of ASD.'
+
 - title: Chronic stress causes striatal disinhibition mediated by SOM-interneurons in male mice
   image: /img/publications/SOMstressNatCom.png
   short: Chronic stress causes striatal disinhibition
