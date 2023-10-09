@@ -23,17 +23,6 @@
   journalLink: https://www.frontiersin.org/articles/10.3389/fnbeh.2023.1205507/full
   description: 'Autism spectrum disorder (ASD) is characterized by deficits in communication and social interaction, restricted interests, repetitive behaviors, and sensory alterations, with auditory hypersensitivity being one of the most commonly reported sensory–perceptual abnormalities. Previous work has shown that mutant mice carrying a human ASD mutation in the Shank3 gene (InsG3680) exhibit repetitive behaviors and social interaction deficits, indicating important construct and face validity for this genotype as an animal model of ASD. To further address whether these mice also present auditory sensory–perceptual alterations, we developed a novel behavioral test in which mice can choose between different soundscapes. Our results reveal that, in comparison to wild-type mice, Shank3 mutants display a strong behavioral preference toward silent regions of the arena. These data suggest that Shank3- mutant mice might express an auditory hypersensitivity phenotype, further adding to their face validity as an animal model of ASD.'
 
-- title: Chronic stress causes striatal disinhibition mediated by SOM-interneurons in male mice
-  image: /img/publications/SOMstressNatCom.png
-  short: Chronic stress causes striatal disinhibition
-  year: 2022
-  authors: 'Rodrigues D, Jacinto L, Falcão M, Castro AC, Cruz A, Santa C, Manadas B, Marques F, Sousa N, Monteiro P'
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/36446783/
-  pdf: /pdf/2022RodriguesChronicStressSOMStriatalDisinhibition.pdf
-  journal: <i>Nature Communications</i>
-  journalShort: Nat Commun
-  journalLink: https://www.nature.com/articles/s41467-022-35028-4/
-  description: 'Chronic stress (CS) is associated with a number of neuropsychiatric disorders, and it may also contribute to or exacerbate motor function. However, the mechanisms by which stress triggers motor symptoms are not fully understood. Here, we report that CS functionally alters dorsomedial striatum (DMS) circuits in male mice, by affecting GABAergic interneuron populations and somatostatin positive (SOM) interneurons in particular. Specifically, we show that CS impairs communication between SOM interneurons and medium spiny neurons, promoting striatal overactivation/disinhibition and increased motor output. Using probabilistic machine learning to analyze animal behavior, we demonstrate that in vivo chemogenetic manipulation of SOM interneurons in DMS modulates motor phenotypes in stressed mice. Altogether, we propose a causal link between dysfunction of striatal SOM interneurons and motor symptoms in models of chronic stress.'
 
 - title: Ultrasensitive dopamine detection with graphene aptasensor multitransistor arrays
   image: /img/publications/DopamineGrapheneJNanobiotech.png
