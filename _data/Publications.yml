@@ -1,3 +1,15 @@
+- title: Chronic stress promotes basal ganglia disinhibition by increasing the excitatory drive of direct-pathway neurons
+  image: /img/publications/SOMstressNatCom.png
+  short: Chronic stress promotes basal ganglia disinhibition
+  year: 2023
+  authors: 'Rodrigues D, Monteiro P'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/37781564/
+  pdf: /pdf/2023RodriguesDirectPathwayCUS.PDF
+  journal: <i>Neurobiology of Stress</i>
+  journalShort: Neurobiology of stress
+  journalLink: https://www.sciencedirect.com/science/article/pii/S2352289523000590
+  description: 'Chronic stress (CS) is a well-recognized triggering factor in obsessive-compulsive disorder (OCD) and Tourette syndrome (TS), two neuropsychiatric disorders characterized by the presence of stereotypic motor symptoms. Planning and execution of motor actions are controlled by the dorsal striatum, a brain region that promotes or suppresses motor movement by activating striatal neurons from the direct- or indirect-pathway, respectively. Here, we report that CS in mice selectively potentiates the direct-pathway, while sparing the indirect-pathway. Specifically, we show that CS both increases excitation and reduces inhibition over direct-pathway neurons in the dorsomedial striatum (DMS). Furthermore, inhibitory interneurons located in the DMS also display reduced excitatory drive after chronic stress, thus amplifying striatal disinhibition.'
+  
 - title: Chronic stress causes striatal disinhibition mediated by SOM-interneurons in male mice
   image: /img/publications/SOMstressNatCom.png
   short: Chronic stress causes striatal disinhibition
