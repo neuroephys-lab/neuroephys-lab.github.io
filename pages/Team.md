@@ -84,27 +84,6 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
 
 <hr>
 
-# **Undergraduate Students**
-<hr>
-<table>
-    
-  <tr>
-    <th>Name</th>
-    <th>Degree</th>
-  </tr>
-
-  {% for undergrads in site.data.Undergrads %}
-
-  <tr>
-    <td>{{undergrads.name}}</td>
-    <td>{{undergrads.position}}</td>
-  </tr>
-  
-  {% endfor %}
-    
-  </table>
-
-
 # **Alumni**
 
 <hr>
@@ -127,3 +106,27 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
 
   {% endfor %}
 </table>
+
+<hr>
+
+# **Undergraduate Students**
+<hr>
+<table>
+    
+  <tr>
+    <th>Name</th>
+    <th>Degree/Program</th>
+    <th>Year</th>
+  </tr>
+
+  {% for undergrads in site.data.Undergrads %}
+
+  <tr>
+    <td>{{undergrads.name}}</td>
+    <td>{{undergrads.position}}</td>
+    <td>{{undergrads.years}}</td>
+  </tr>
+  
+  {% endfor %}
+    
+  </table>
