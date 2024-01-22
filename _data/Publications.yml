@@ -1,3 +1,16 @@
+- title: Chronic treatment with D2-antagonist haloperidol leads to inhibitory/excitatory imbalance in striatal D1-neurons
+  image: /img/publications/2023_Santa and Rodrigues.jpg
+  short: D2-antagonist haloperidol leads to imbalance in striatal D1-neurons
+  year: 2023
+  authors: 'Santa C, Rodrigues D, Coelho JF, Anjo SI, Mendes VM, Bessa-Neto D, Dunn MJ, Cotter D, Baltazar G, Monteiro P, Manadas B'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/37803004/
+  pdf: /pdf/2023_Santa and Rodrigues et al_TranslPsychiatry.pdf
+  journal: <i>Translational Psychiatry</i>
+  journalShort: Transl Psychiatry
+  journalLink: https://www.nature.com/articles/s41398-023-02609-w
+  description: 'Striatal dysfunction has been implicated in the pathophysiology of schizophrenia, a disorder characterized by positive symptoms such as hallucinations and delusions. Haloperidol is a typical antipsychotic medication used in the treatment of schizophrenia that is known to antagonize dopamine D2 receptors, which are abundantly expressed in the striatum. However, haloperidol’s delayed therapeutic effect also suggests a mechanism of action that may go beyond the acute blocking of D2 receptors.
+By performing proteomics and whole-cell recordings in striatum, we suggest the slow remodeling of D1-neurons as a possible mechanism mediating the delayed therapeutic effect of haloperidol over striatum circuits. Understanding how haloperidol exactly contributes to treating schizophrenia symptoms may help to improve therapeutic outcomes and elucidate the molecular underpinnings of this disorder.'
+
 - title: The Shank3-InsG3680(+/+) mouse model of autism spectrum disorder displays auditory avoidance in a novel behavioral test
   image: /img/publications/2023GoncalvesSoundArenaShank3.png
   short: The Shank3 mouse model of ASD displays auditory avoidance 
