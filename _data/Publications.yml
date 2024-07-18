@@ -1,4 +1,16 @@
 
+- title: Tactile sensory processing deficits in genetic mouse models of autism spectrum disorder
+  image: img/publications/2024FalcaoTactile sensory processing deficits.png
+  short: Tactile sensory processing deficits in genetic mouse models of autism spectrum disorder
+  year: 2024
+  authors: 'Falcão M, Monteiro P, Jacinto L'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/38837765/
+  pdf: pdf/2024FalcaoTactile sensory processing deficits.pdf
+  journal: <i>Journal of Neurochemistry</i>
+  journalShort: J Neurochem
+  journalLink: https://onlinelibrary.wiley.com/doi/10.1111/jnc.16135
+  description: 'This review critically addresses recent findings regarding tactile processing deficits found in mouse models of ASD, with a focus on behavioral, anatomical, and functional alterations. Particular attention was given to cellular and circuit-level functional alterations, both in the peripheral and central nervous systems, with the objective of highlighting possible convergence mechanisms across models. By elucidating the impact of mutations in ASD candidate genes on somatosensory circuits and correlating them with behavioral phenotypes, this review significantly advances our understanding of tactile deficits in ASD. Such insights not only broaden our comprehension but also pave the way for future therapeutic interventions.'
+
 - title: From synaptic dysfunction to atypical emotional processing in autism
   image: /img/publications/2024ReisSynapticDysfunctionAtypicalEmotionalProcessing.jpg
   short: From synaptic dysfunction to atypical emotional processing in autism
