@@ -27,8 +27,8 @@
   image: /img/publications/2023_Santa and Rodrigues.jpg
   short: D2-antagonist haloperidol leads to imbalance in striatal D1-neurons
   year: 2023
-  authors: 'Santa C*, Rodrigues D*, Coelho JF, Anjo SI, Mendes VM, Bessa-Neto D, Dunn MJ, Cotter D, Baltazar G, Monteiro P*, Manadas B*
-  *shared first and senior authorship.'
+  authors: 'Santa C\*, Rodrigues D\*, Coelho JF, Anjo SI, Mendes VM, Bessa-Neto D, Dunn MJ, Cotter D, Baltazar G, Monteiro P\*, Manadas B\*
+  \*shared first and senior authorship.'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/37803004/
   pdf: /pdf/2023_Santa and Rodrigues et al_TranslPsychiatry.pdf
   journal: <i>Translational Psychiatry</i>
@@ -108,6 +108,18 @@ By performing proteomics and whole-cell recordings in striatum, we suggest the s
   journalShort: Front Neurosci
   journalLink: https://www.frontiersin.org/articles/10.3389/fnins.2021.663174/full
   description: 'Flexible polymer neural probes are an attractive emerging approach for invasive brain recordings, given that they can minimize the risks of brain damage or glial scaring. However, densely packed electrode sites, which can facilitate neuronal data analysis, are not widely available in flexible probes. Here, we present a new flexible polyimide neural probe, based on standard and low-cost lithography processes, which has 32 closely spaced 10 μm diameter gold electrode sites at two different depths from the probe surface arranged in a matrix, with inter-site distances of only 5 μm. The double-layer design and fabrication approach implemented also provides additional stiffening just sufficient to prevent probe buckling during brain insertion. In vivo functional tests and histological assessment of the insertion footprint, validate the biological applicability of this flexible neural probe for acquiring high quality neuronal recordings with high signal to noise ratio (SNR) and reduced acute trauma in rodents.'
+
+- title:  Hybrid multisite silicon neural probe with integrated flexible connector for interchangeable packaging 
+  image: /img/publications/2021_Novais_hybrid_probe.png
+  short: Hybrid multisite neural probe
+  year: 2021
+  authors: 'Novais A, Calaza C, Fernandes F, Fonseca H, Monteiro P, Gaspar J, Jacinto L'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/33917654/
+  pdf: /pdf/2021NovaisHybridMultisiteNeuralProbe.pdf
+  journal: <i>Sensors</i>
+  journalShort: Sensors
+  journalLink: https://www.mdpi.com/1424-8220/21/8/2605?type=check_update&version=2
+  description: 'Multisite neural probes are a fundamental tool to study brain function. Hybrid silicon/polymer neural probes combine rigid silicon and flexible polymer parts into one single device and allow, for example, the precise integration of complex probe geometries, such as multishank designs, with flexible biocompatible cabling. Despite these advantages and benefiting from highly reproducible fabrication methods on both silicon and polymer substrates, they have not been widely available. This paper presents the development, fabrication, characterization, and in vivo electrophysiological assessment of a hybrid multisite multishank silicon probe with a monolithically integrated polyimide flexible interconnect cable. The fabrication process was optimized at wafer level, and several neural probes with 64 gold electrode sites equally distributed along 8 shanks with an integrated 8 µm thick highly flexible polyimide interconnect cable were produced. The monolithic integration of the polyimide cable in the same fabrication process removed the necessity of the postfabrication bonding of the cable to the probe. This is the highest electrode site density and thinnest flexible cable ever reported for a hybrid silicon/polymer probe.'
 
 - title: A versatile and modular tetrode-based device for single-unit recordings in rodent ex vivo and in vivo acute preparations
   image: /img/publications/TetrodeDeviceJNeuroscMeth.png
