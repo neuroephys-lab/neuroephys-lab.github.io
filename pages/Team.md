@@ -109,7 +109,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
 
 <hr>
 
-# **Undergraduate Students**
+# **Undergraduate / Visiting Students**
 <hr>
 <table>
     

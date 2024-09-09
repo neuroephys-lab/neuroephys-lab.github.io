@@ -10,6 +10,7 @@
 Dr. Luz holds a BSc/MSc degree in Biology from the University of Aveiro and a PhD in Neuroscience from the Faculty of Medicine, University of Porto. In 2013, she worked as a Postdoctoral Researcher at the Centre for Integrative Physiology at the University of Edinburgh, where she studied the development of the somatosensory cortex, specifically in the context of the Fragile X syndrome. Between 2013 and 2017, she held a position of Assistant Professor at the Faculty of Medicine, University of Porto.
 She has an extensive experience in electrophysiology, as well as knowledge in post-hoc anatomical identification of the neurons, immunohistochemistry, and neuronal tracing."
 
+
 - name: Sara Reis
   image: /img/members/SReis.png
   altimage: /img/members/SReis.png
@@ -20,6 +21,7 @@ She has an extensive experience in electrophysiology, as well as knowledge in po
 #  orcid: 
   description: "Sara Reis is a postdoctoral researcher at the Faculty of Medicine of the University of Porto (FMUP), Portugal, since November 2023. She holds a BSc degree in Human Biology from University of Évora, a MSc in Cellular and Molecular Biology from University of Coimbra and a PhD in Neuroscience from the University of Wurzburg. During her PhD, Sara studied the cardiac interoceptive role of periaqueductal gray neurons during defensive states. She is interested in studying the neuronal circuits underlying cardiac interoception in a mouse model of autism spectrum disorder."
 
+
 - name: Alexandra Cruz
   image: /img/members/ACruz.png
   altimage: /img/members/ACruz.png
@@ -29,6 +31,7 @@ She has an extensive experience in electrophysiology, as well as knowledge in po
 #  scholar: 
 #  orcid: 
   description: "Alexandra has a background in Biochemistry from the University of Coimbra, Faculty of Sciences and Technology, and a Master in Biomedical Research from the Faculty of Medicine of the University of Coimbra. During her MSc, Alexandra studied the impact of prenatal stress on the offspring’s behavior and microglia morphology. In 2022, she joined our team as a lab tech but her scientific passion led her to pursue a PhD with us. As a PhD student, she is currently exploring the involvement of the brain immune system in OCD."
+
 
 - name: Ana Carolina Castro
   image: /img/members/ACastro.png
@@ -73,6 +76,7 @@ She has an extensive experience in electrophysiology, as well as knowledge in po
 #  orcid: 
   description: "Patrícia holds a Master degree in Biomedical Engineering from the School of Engineering at University of Minho. She joined the lab in 2021 as a master student to develop a closed-loop system for real-time compulsive behavior detection and optogenetic stimulation in obsessive-compulsive disorder. Patricia is currently developing a wireless headstage for optical stimulation in closed loop systems, and is interested in translating her knowledge of OCD into humans research through data analysis of brain activity signatures in OCD patients."
 
+
 - name: Beatriz Silva
   image: /img/members/BSilva.png
   altimage: /img/members/BSilva.png
@@ -82,6 +86,18 @@ She has an extensive experience in electrophysiology, as well as knowledge in po
 #  scholar: 
 #  orcid: 
   description: "Beatriz joined the lab in 2023 for her Master in Engineering Physics dissertation project focusing on graphene electrodes technology and electronics interface development for brain neuroelectrical recordings. (in collaboration with the 2D Materials and Devices group at INL)"
+
+
+- name: Laríssa Andrade
+  image: /img/members/NewMemberF.png
+  altimage: /img/members/NewMemberF.png
+#  pronouns: 
+  position: Master student
+  email: up202308696@edu.fe.up.pt
+#  scholar: 
+#  orcid: 
+  description: " "
+
 
 - name: Márcia Azevedo
   image: /img/members/MAzevedo.png
