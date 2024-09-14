@@ -85,6 +85,7 @@
 #  orcid: 
   description: "Beatriz joined the lab in 2023 for her Master in Engineering Physics dissertation project focusing on graphene electrodes technology and electronics interface development for brain neuroelectrical recordings. (in collaboration with the 2D Materials and Devices group at INL)"
 
+
 - name: Catarina Azevedo
   image: /img/members/NewMemberF.png
   altimage: /img/members/NewMemberF.png
@@ -95,6 +96,7 @@
 #  orcid: 
   description: "Catarina has a background in Biomedical Engineering and joined the lab for her master's dissertation in Neurobiology. She is studying sleep microarchitecture in a mouse model of ASD, through automated EEG-based sleep scoring "
 
+
 - name: Laríssa Andrade
   image: /img/members/NewMemberF.png
   altimage: /img/members/NewMemberF.png
@@ -103,7 +105,7 @@
   email: up202308696@edu.fe.up.pt
 #  scholar: 
 #  orcid: 
-  description: "Laríssa has a BSc in Biomedical Engineering and joined the lab for her master's dissertation in Biomedical Engineering. She is investigating electrophysiological biomarkers of DBS therapeutic effects in intracortical recordings of obssessive-compulsive disorder patients, in a project in colaboration with São João Hospital in Porto (CHUSJ)""
+  description: "Laríssa has a BSc in Biomedical Engineering and joined the lab for her master's dissertation in Biomedical Engineering. She is investigating electrophysiological biomarkers of DBS therapeutic effects in intracortical recordings of obssessive-compulsive disorder patients, in a project in colaboration with São João Hospital in Porto (CHUSJ)"
 
 
 - name: Márcia Azevedo
