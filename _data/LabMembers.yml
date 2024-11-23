@@ -74,6 +74,16 @@
 #  orcid: 
   description: "Patrícia holds a Master degree in Biomedical Engineering from the School of Engineering at University of Minho. She joined the lab in 2021 as a master student to develop a closed-loop system for real-time compulsive behavior detection and optogenetic stimulation in obsessive-compulsive disorder. Patricia is currently developing a wireless headstage for optical stimulation in closed loop systems, and is interested in translating her knowledge of OCD into humans research through data analysis of brain activity signatures in OCD patients."
 
+- name: Beatriz Ferreira
+  image: /img/members/BFerreira.png
+  altimage: /img/members/BFerreira.png
+#  pronouns: 
+  position: Master student
+  email: pg53694 (at) alunos.uminho.pt
+#  scholar: 
+#  orcid: 
+  description: "Beatriz joined the lab in 2024 for her Master in Engineering Physics dissertation project focusing on functionalization approaches for multiplexed measurements of neurotransmitters with graphene bioelectronic sensors. (in collaboration with the 2D Materials and Devices group at INL)"
+
 
 - name: Beatriz Silva
   image: /img/members/BSilva.png
@@ -118,6 +128,15 @@
 #  orcid: 
   description: "Márcia has a background in Biology from University of Aveiro. During her bachelor, she was interested in exploring the molecular pathways underlying contextual fear and traumatic memory in rodents. Márcia joined the lab in 2023 as a master student. She is interested in studying sensory processing pathways in a mouse model of autism spectrum disorder."
 
+- name: Tiago Dias
+  image: /img/members/NewMemberM.png
+  altimage: /img/members/NewMemberM.png
+#  pronouns: 
+  position: Master student
+  email: tiago.dias (at) inl.int
+#  scholar: 
+#  orcid: 
+  description: "Tiago joined the lab in 2024 for her Master in Engineering Physics dissertation project focusing on fabrication and performance assessment of graphene nanobiosensors on flexible polymeric substrates for neuronal biomarkers sensing. (in collaboration with the 2D Materials and Devices group at INL)"
 
 - name: Tiago Pereira
   image: /img/members/NewMemberM.png
