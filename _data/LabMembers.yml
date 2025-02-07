@@ -128,6 +128,18 @@
 #  orcid: 
   description: "Márcia has a background in Biology from University of Aveiro. During her bachelor, she was interested in exploring the molecular pathways underlying contextual fear and traumatic memory in rodents. Márcia joined the lab in 2023 as a master student. She is interested in studying sensory processing pathways in a mouse model of autism spectrum disorder."
 
+
+- name: Miguel Borges
+  image: /img/members/NewMemberM.png
+  altimage: /img/members/NewMemberM.png
+#  pronouns: 
+  position: Master student
+  email: up202004481 (at) edu.fe.up.pt
+#  scholar: 
+#  orcid: 
+  description: "Miguel is doing his master's dissertation project in Biomedical Engineering at the lab, focusing on FPGA programming and CMOS chip control for autonomous sensor operation in a novel nanotechnology-enabled neurotransmitter biomaker detection system."
+
+
 - name: Tiago Dias
   image: /img/members/NewMemberM.png
   altimage: /img/members/NewMemberM.png
@@ -137,6 +149,7 @@
 #  scholar: 
 #  orcid: 
   description: "Tiago joined the lab for his Master in Engineering Physics dissertation project focusing on fabrication and performance assessment of graphene nanobiosensors on flexible polymeric substrates for neuronal biomarkers sensing. (in collaboration with the 2D Materials and Devices group at INL)"
+
 
 - name: Tiago Pereira
   image: /img/members/NewMemberM.png
