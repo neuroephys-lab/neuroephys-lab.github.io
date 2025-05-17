@@ -1,7 +1,7 @@
 - title: Wireless devices for optical brain stimulation - a review of current developments for optogenetic applications in freely-moving mice
   image: /img/publications/2024Wirelessoptogenetics.png
   short: Wireless devices for optical brain stimulation review
-  year: 2024
+  year: 2025
   authors: 'Silva P, Jacinto L'
   pubmed: 
   pdf: /pdf/2024SilvaWirelessOptogenetics.pdf
@@ -9,7 +9,6 @@
   journalShort: Cell Mol Bioeng
   journalLink: https://link.springer.com/article/10.1007/s12195-024-00832-z
   description: 'Recent advances in optoelectronic systems, materials science, and microtechnology have enabled the design and realization of miniaturized wirelessly-controlled optical stimulators for true untethered experiments in rodent models. In this work we critically review recent systems engineering and device design approaches to deliver light to the brain with wireless operation for optogenetic experiments. We describe strategies used for wireless control and communication, wireless power transfer, and light delivery to the brain with a focus on device integration for in vivo operation in freely behaving mice.'
-
 
 - title: Chronic stress alters synaptic inhibition/Excitation balance of pyramidal neurons but not PV interneurons in the infralimbic and prelimbic cortices of C57BL/6J mice
   image: /img/publications/2024DRodriguesChronicStressAltersBalancePyramidalNeurons.png
