@@ -1,3 +1,15 @@
+- title: Small form factor implantable neural probe with efficient flip chip µLED for in vivo optogenetics
+  image: /img/publications/2025AbrantesNeuralprobewithuLED.png
+  short: Neural Probe with Flip-Chip µLED for Optogenetics
+  year: 2025
+  authors: 'Abrantes M\*, Pereira T\*, Silva P, Falcão M, Borme J, Alpuim P, Jacinto L, *shared first authorship.'
+  pubmed: 
+  pdf: /pdf/2025AbrantesNeuralprobewithuLED.pdf
+  journal: <i>Biomedical Microdevices</i>
+  journalShort: Biomed Microdevices
+  journalLink: https://link.springer.com/article/10.1007/s10544-025-00754-1
+  description: 'Optogenetics is a widely used tool to dissect neural circuits with optical stimulation, but it requires that light is delivered to photosensitive neurons inside the brain. Implantable neural probes with microscale LEDs (µLEDs) are an emerging approach to delivering light to the brain with superior light output control. We developed an implantable small form factor neural probe that integrates highly efficient commercial flip chip µLEDs using only standard lithography processes in silicon and a custom automated LED mounting approach with custom 3D-printed tools on a pick-and-place machine.'
+
 - title: Wireless devices for optical brain stimulation - a review of current developments for optogenetic applications in freely-moving mice
   image: /img/publications/2024Wirelessoptogenetics.png
   short: Wireless devices for optical brain stimulation review
