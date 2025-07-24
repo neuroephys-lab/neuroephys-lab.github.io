@@ -64,15 +64,16 @@
   description: "Margarida has a background in Applied Biology and a Master in Health Sciences, both from University of Minho. As an undergraduate student, she was interested in the applications of electrical epidural stimulation for spinal cord injury recovery. Margarida joined the lab in 2020 as a master student and her current project involves in vivo brain recordings, thalamocortical communication, and sensory processing in a mouse model of autism."
 
 
-- name: Patrícia Silva
-  image: /img/members/PSilva.png
-  altimage: /img/members/PSilva.png
+- name: Andreia Ferreira
+  image: /img/members/NewMemberF.png
+  altimage: /img/members/NewMemberF.png
 #  pronouns: 
-  position: Research Fellow
-  email: apsilva (at) med.up.pt
+  position: Master student
+  email: up202402997 (at) edu.fe.up.pt
 #  scholar: 
 #  orcid: 
-  description: "Patrícia holds a Master degree in Biomedical Engineering from the School of Engineering at University of Minho. She joined the lab in 2021 as a master student to develop a closed-loop system for real-time compulsive behavior detection and optogenetic stimulation in obsessive-compulsive disorder. Patricia is currently developing a wireless headstage for optical stimulation in closed loop systems, and is interested in translating her knowledge of OCD into humans research through data analysis of brain activity signatures in OCD patients."
+  description: "Andreia has a BSc in Biomedical Engineering and is doing her master's dissertation in Biomedical Engineering at the lab. Her project, in collaboration with São João Hospital in Porto (CHUSJ), focuses on predicting clinical outcome in obsessive-compulsive disorder (OCD) patients treated with deep brain stimulation (DBS) based on DBS electrodes' placement and intracranial electrophysiological recordings."
+  
 
 - name: Beatriz Ferreira
   image: /img/members/BFerreira.png
@@ -83,17 +84,6 @@
 #  scholar: 
 #  orcid: 
   description: "Beatriz joined the lab for her Master in Engineering Physics dissertation project focusing on functionalization approaches for multiplexed measurements of neurotransmitters with graphene bioelectronic sensors. (in collaboration with the 2D Materials and Devices group at INL)"
-
-
-- name: Beatriz Silva
-  image: /img/members/BSilva.png
-  altimage: /img/members/BSilva.png
-#  pronouns: 
-  position: Master student
-  email: beatriz.a.silva (at) inl.int
-#  scholar: 
-#  orcid: 
-  description: "Beatriz joined the lab in 2023 for her Master in Engineering Physics dissertation project focusing on graphene electrodes technology and electronics interface development for brain neuroelectrical recordings. (in collaboration with the 2D Materials and Devices group at INL)"
 
 
 - name: Catarina Azevedo
@@ -116,17 +106,6 @@
 #  scholar: 
 #  orcid: 
   description: "Laríssa has a BSc in Biomedical Engineering and joined the lab for her master's dissertation in Biomedical Engineering. She is investigating electrophysiological biomarkers of DBS therapeutic effects in intracortical recordings of obssessive-compulsive disorder patients, in a project in colaboration with São João Hospital in Porto (CHUSJ)."
-
-
-- name: Márcia Azevedo
-  image: /img/members/MAzevedo.png
-  altimage: /img/members/MAzevedo.png
-#  pronouns: 
-  position: Master student
-  email: marciaazevedo (at) ua.pt
-#  scholar: 
-#  orcid: 
-  description: "Márcia has a background in Biology from University of Aveiro. During her bachelor, she was interested in exploring the molecular pathways underlying contextual fear and traumatic memory in rodents. Márcia joined the lab in 2023 as a master student. She is interested in studying sensory processing pathways in a mouse model of autism spectrum disorder."
 
 
 - name: Miguel Borges
@@ -159,5 +138,5 @@
   email: tiago.pereira (at) inl.int
 #  scholar: 
 #  orcid: 
-  description: "Tiago joined the lab in 2022 for his Master degree project in Engineering Physics focusing on the development of integration processes for graphene bioelectronic transistors and uLEDs in polymeric substrates for flexible neural interfaces (in collaboration with the 2D Materials and Devices group at INL). Now, as a research engineer at INL he continues to colaborate with the lab on the development of new fabrication methods for sensors neurotransmitter biomarkers."
+  description: "Tiago joined the lab in 2022 for his Master degree project in Engineering Physics focusing on the development of integration processes for graphene bioelectronic transistors and uLEDs in polymeric substrates for flexible neural interfaces (in collaboration with the 2D Materials and Devices group at INL). Now, as a research engineer at INL he continues to colaborate with the lab on the development of new fabrication methods for flexible neural interfaces for neurochemical detection."
 
