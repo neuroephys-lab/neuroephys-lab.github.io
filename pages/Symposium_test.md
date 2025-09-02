@@ -67,7 +67,7 @@ subtitle: From Somatosensation to Motor Control
 
 <div id = "Pathologic Resilience" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
-    	<img src="/img/Symposium/Seung_Hee.jpg.png" alt="Seung-Hee Lee">
+    	<img src="/img/Symposium/Seung_Hee.jpg" alt="Seung-Hee Lee">
     </div>
     <div class="col-sm-8" style="text-align: justify">
     	<h4>Seung-Hee Lee, IBS/KAIST institute</h4>
