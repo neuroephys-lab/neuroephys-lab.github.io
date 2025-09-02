@@ -2,7 +2,7 @@
 layout: gridlay
 
 ---
-# **Research**
+# **Symposium**
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div class="container">
