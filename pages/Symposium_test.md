@@ -107,6 +107,13 @@ layout: gridlay
 
 
 <div id="Alzheimer's Disease" class="col-sm-12">
+		<h3>LOCATION</h3>
+		<p>
+		xxxx
+		</p>
+</div>
+
+<div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>ORGANIZATION</h3>
 		<p>
 		Neurophysiology and Neuroengineering Lab @ FMUP
