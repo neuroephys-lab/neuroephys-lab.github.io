@@ -124,5 +124,5 @@ layout: gridlay
 <div align="center">
 </div>
 <div class="banner">
-  <img src="img/Funding_logos4.png" alt="Neurophysiology and Neuroengineering Lab Funding"><br>
+  <img src="img/Funding_logos4.png" alt="Support"><br>
 </div>
