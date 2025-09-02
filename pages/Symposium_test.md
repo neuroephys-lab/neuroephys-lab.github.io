@@ -90,6 +90,22 @@ layout: gridlay
     </div>
 </div>
 
+
+<div id="Alzheimer's Disease" class="col-sm-12">
+		<h3>PROGRAM</h3>
+		<p>
+		10:00 - 10:30 – Welcome and reception 
+10:30 – 11:00 – Presentation by Prof. Patricia Monteiro, FMUP, University of Porto, Portugal (25min) + Q&A (5min). 
+11:00 – 12:00 – Presentation by Prof. Seung-Hee Lee, IBS/KAIST institute, South Korea (40min) + Q&A (20min). 
+12-14:00 – Lunch break
+14:00 – 15:00 – Presentation by Professor Silvia Arber, Basel University, Switzerland (40min) + Q&A (20min). 
+15:00 – 16:00 – Presentation by Professor Douglas Webber, Carnegie Mellon, USA (40min) + Q&A (20min). 
+16:00 - 16:30 - Concluding remarks and Port Wine reception
+
+		</p>
+</div>
+
+
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>ORGANIZATION</h3>
 		<p>
