@@ -93,7 +93,7 @@ subtitle: From Somatosensation to Motor Control
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>ORGANIZATION</h3>
 		<p>
-		
+		Neurophysiology and Neuroengineering Lab @ FMUP
 		</p>
 </div>
 
@@ -101,6 +101,12 @@ subtitle: From Somatosensation to Motor Control
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>SUPPORT</h3>
 		<p>
-		
+		This symposium was supported by:
 		</p>
+</div>
+
+<div align="center">
+</div>
+<div class="banner">
+  <img src="img/Funding_logos4.png" alt="Neurophysiology and Neuroengineering Lab Funding"><br>
 </div>
