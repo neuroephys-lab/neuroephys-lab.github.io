@@ -1,7 +1,6 @@
 ---
 layout: gridlay
-title: Symposium
-subtitle: From Somatosensation to Motor Control
+
 ---
 # **Research**
 
@@ -21,6 +20,8 @@ subtitle: From Somatosensation to Motor Control
 			text about symposium
 		</p>
 </div>
+
+<hr>
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>SPEAKERS</h3>
