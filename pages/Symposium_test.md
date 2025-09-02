@@ -21,7 +21,9 @@ layout: gridlay
 		</p>
 </div>
 
-<hr>
+<div id="break" class="col-sm-12">
+	<hr>
+</div>
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>SPEAKERS</h3>
@@ -30,9 +32,6 @@ layout: gridlay
 		</p>
 </div>
 
-<div id="break" class="col-sm-12">
-	<hr>
-</div>
 
 <div id = "Pathologic Resilience" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
