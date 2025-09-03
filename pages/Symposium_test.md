@@ -9,7 +9,7 @@ layout: gridlay
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h4>Mini-Symposium</h4>
-		<h7>From Sensory Processing to Behavioral Control</h7>
+		<p7>From Sensory Processing to Behavioral Control</p7>
 		<p>
 		
 		</p>
@@ -109,7 +109,7 @@ layout: gridlay
 		10:00 - 10:30 – Welcome and reception <br>
 10:30 – 11:00 – Presentation by Prof. Patricia Monteiro, FMUP, University of Porto, Portugal (25min) + Q&A (5min). <br>
 11:00 – 12:00 – Presentation by Prof. Seung-Hee Lee, IBS/KAIST institute, South Korea (40min) + Q&A (20min). <br>
-12-14:00 – Lunch break <br>
+<p>12-14:00 – Lunch break </p>
 14:00 – 15:00 – Presentation by Professor Silvia Arber, Basel University, Switzerland (40min) + Q&A (20min). <br> 
 15:00 – 16:00 – Presentation by Professor Douglas Webber, Carnegie Mellon, USA (40min) + Q&A (20min). <br>
 16:00 - 16:30 - Concluding remarks and Port Wine reception. 
