@@ -159,4 +159,4 @@ FMUP on Google Maps:
 		</p>
 </div>
 
-<img src="/img/Symposium/support.jpg" alt="Support"><br>
+<img src="/img/Symposium/support2.jpg" alt="Support"><br>
