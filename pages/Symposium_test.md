@@ -8,7 +8,7 @@ layout: gridlay
 <div class="container">
  <div class="jumbotron jumbotron-correct">
       <p>
- 		 From Sensory Processing to Behavioral Control
+ 		 <h1>From Sensory Processing to Behavioral Control</h1>
       </p>
   </div>	  
 </div>
@@ -112,7 +112,7 @@ layout: gridlay
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>LOCATION</h3>
-		Room CIM-4 (ground floor)<br>
+		<p>Room CIM-4 (ground floor)</p>
 		Faculty of Medicine of the University of Porto (FMUP)<br>
 Rua Dr. Plácido Costa<br>
 4200-319 Porto<br>
@@ -142,3 +142,4 @@ Rua Dr. Plácido Costa<br>
 		</p>
 </div>
 
+<img src="img/Funding_logos4.png" alt="Support"><br>
