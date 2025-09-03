@@ -33,3 +33,10 @@ subtitle: Neurophysiology and Neuroengineering Lab Contact
     </div>
 </div>
 
+<hr>
+
+<a href= "https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6" target="_blank">https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6</a>
+
+</div>
+<img src="/img/Symposium/FMUP_google_maps.png" alt="FMUP - Location">
+
