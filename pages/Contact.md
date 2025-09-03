@@ -16,6 +16,8 @@ subtitle: Neurophysiology and Neuroengineering Lab Contact
     </div>
 </div>
 
+<hr>
+
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
