@@ -63,7 +63,7 @@ layout: gridlay
     	</p>
     </div>
     <div class="col-sm-4">
-    	<img src="/img/Symposium/douglas_weber.png" alt="Doug Weber"> 
+    	<img src="/img/Symposium/doug_weber_3.png" alt="Doug Weber"> 
     </div>
 </div>
 
@@ -74,7 +74,7 @@ layout: gridlay
 
 <div id = "Pathologic Resilience" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
-    	<img src="/img/Symposium/Seung_Hee.jpg" alt="Seung-Hee Lee">
+    	<img src="/img/Symposium/Seung_Hee2.jpg" alt="Seung-Hee Lee">
     </div>
     <div class="col-sm-8" style="text-align: justify">
     	<h4>Seung-Hee Lee, IBS/KAIST institute</h4>
@@ -95,7 +95,7 @@ layout: gridlay
     	</p>
     </div>
     <div class="col-sm-4">
-    	<img src="/img/Symposium/PMonteiro_photo2.jpg" alt="Patricia Monteiro">
+    	<img src="/img/Symposium/PMonteiro_photo3.jpg" alt="Patricia Monteiro">
     </div>
 </div>
 
