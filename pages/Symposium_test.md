@@ -9,17 +9,19 @@ layout: gridlay
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h4>Mini-Symposium</h4>
+		<h1>From Sensory Processing to Behavioral Control</h1>
 		<p>
 		
 		</p>
 </div>
-<div class="container">
+
+<!-- <div class="container">
  <div class="jumbotron jumbotron-correct">
       <p>
  		 <h1>From Sensory Processing to Behavioral Control</h1>
       </p>
   </div>	  
-</div>
+</div> -->
 
 <hr>
 
