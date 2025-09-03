@@ -112,6 +112,7 @@ layout: gridlay
 <p>12-14:00 – Lunch break </p>
 14:00 – 15:00 – Presentation by Professor Silvia Arber, Basel University, Switzerland (40min) + Q&A (20min). <br> 
 15:00 – 16:00 – Presentation by Professor Douglas Webber, Carnegie Mellon, USA (40min) + Q&A (20min). <br>
+<p> </p>>
 <p>16:00 - 16:30 - Concluding remarks and Port Wine reception. </p>
 
 		</p>
@@ -120,16 +121,15 @@ layout: gridlay
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>REGISTRATION</h3>
 		<p>Please follow the link below to register</p>
-		<p>    </p>
+		<p>  <a href= "Registration" target="_blank">https://docs.google.com/forms/d/e/1FAIpQLSeimZQRY2ugf7VIbGOfdPhXyEYEMDj1BKPeShxNhJ8lDNmNGA/viewform?usp=dialog </p>
 		<p>Certificate of attendance will be available upon request</p>
-		<p>Any questions about registration? Please send an email to: liliana_luz (at) med.up.pt</p>
+		<p>Any questions about registration? Please send an email to: liliana_luz (at) med.up.pt.</p>
 
 </div>
 
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>LOCATION</h3>
-		<p>Room CIM-4 (ground floor)</p>
 		Faculty of Medicine of the University of Porto (FMUP)<br>
 Rua Dr. Plácido Costa<br>
 4200-319 Porto<br>
