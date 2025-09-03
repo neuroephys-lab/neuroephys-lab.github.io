@@ -9,7 +9,7 @@ layout: gridlay
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h4>Mini-Symposium</h4>
-		<h1>From Sensory Processing to Behavioral Control</h1>
+		<h7>From Sensory Processing to Behavioral Control</h7>
 		<p>
 		
 		</p>
