@@ -6,6 +6,16 @@ subtitle: Neurophysiology and Neuroengineering Lab Contact
 
 # **Contact Us**
 <hr>
+
+<div class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-8">
+        <p class="text-justify"><strong>Join the Lab</strong> 
+        <br>
+        We are always looking for talented scientists and enthusiastic students to join our Lab. If you want to know more about ongoing opportunities and projects, send us your CV and a short motivation letter. <br>
+        </p>
+    </div>
+</div>
+
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
@@ -24,19 +34,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Contact
 </div>
 <hr>
 
-<div class="row" style="padding-top: 60px; margin-top: -60px;">
-    <div class="col-sm-8">
-        <p class="text-justify"><strong>Join the Lab</strong> 
-        <br>
-        We are always looking for talented scientists and enthusiastic students to join our Lab. If you want to know more about ongoing opportunities and projects, send us your CV and a short motivation letter. <br>
-        </p>
-    </div>
-</div>
-
-<hr>
-
 <a href= "https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6" target="_blank">https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6</a>
 
-</div>
 <img src="/img/Symposium/FMUP_google_maps.png" alt="FMUP - Location">
 
