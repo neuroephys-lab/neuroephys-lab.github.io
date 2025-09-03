@@ -57,13 +57,13 @@ layout: gridlay
 <div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-8" style="text-align: justify">
     	<h4>Douglas Weber, Carnegie Mellon, USA</h4>
-		<h5>Talk title</h5>
+		<h5>Neurotechnology for detecting and amplifying motor function after stroke and spinal cord injury</h5>
     	<p>
-    		xxxxx.
+    		The convergence of advancements in fundamental neuroscience and neural interface technologies have enabled clinically relevant technologies that measure and regulate neural signaling in the brain, spinal cord, and peripheral nerves. These technologies provide new capabilities for studying basic mechanisms of information processing and control in the nervous system, while also creating new opportunities for restoring function lost to injury or disease. Neural sensors can measure the activity of motor neurons to enable direct neural control over prosthetic limbs and assistive technologies. Conversely, these neural interface technologies can stimulate activity in sensory and motor neurons to reanimate paralyzed muscles. Although many of these applications rely currently on devices that must be implanted into the body for precise targeting, ultra-miniaturized devices can be injected through the skin or vascular system to access deep structures without open surgery. This talk will focus on efforts to develop wearable and injectable neural interfaces for restoring or improving motor function in people with paralysis due to stroke, spinal cord injury, ALS, and other neurological disorders.
     	</p>
     </div>
     <div class="col-sm-4">
-    	<img src="/img/Symposium/douglas_weber.png" alt="Doug Weber"> </img>
+    	<img src="/img/Symposium/douglas_weber.png" alt="Doug Weber"> 
     </div>
 </div>
 
