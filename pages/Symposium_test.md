@@ -3,7 +3,7 @@ layout: gridlay
 
 ---
 
-<body style="background-color:#FFF9D6;">
+<body style="background-color:#FFFFF0;">
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 
