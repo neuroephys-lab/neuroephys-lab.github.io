@@ -9,7 +9,7 @@ layout: gridlay
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h4>Mini-Symposium</h4>
-		<p7>From Sensory Processing to Behavioral Control</p7>
+		<h1>From Sensory Processing to Behavioral Control</h1>
 		<p>
 		
 		</p>
@@ -95,7 +95,7 @@ layout: gridlay
     	</p>
     </div>
     <div class="col-sm-4">
-    	<img src="/img/Symposium/patricia_monteiro.jpg" alt="Patricia Monteiro">
+    	<img src="/img/Symposium/patricia_monteiro2.jpg" alt="Patricia Monteiro">
     </div>
 </div>
 
