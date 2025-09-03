@@ -112,24 +112,25 @@ layout: gridlay
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>LOCATION</h3>
-		<p>
-		Faculty of Medicine of the University of Porto (FMUP)
-Alameda Prof. Hernâni Monteiro, 
-4200-319 Porto
+		<p>Room CIM-4 (ground floor)</p>
+		<p>Faculty of Medicine of the University of Porto (FMUP)</p>
+<p>Rua Dr. Plácido Costa</p>
+<p>4200-319 Porto</p>
 
 
-FMUP on Google Maps:
-https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6
+<p>FMUP on Google Maps:</p>
+<p> <a href= "https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6" target="_blank"></a></p>
 
-		</p>
+
 </div>
+<img src="/img/Symposium/FMUP_google_maps.png.jpg" alt="FMUP - Location">
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>ORGANIZATION</h3>
 		<p>
 		Neurophysiology and Neuroengineering Lab @ FMUP
 		</p>
-<img src="/img/Symposium/FMUP_google_maps.png.jpg" alt="FMUP - Location">
+
 
 </div>
 
