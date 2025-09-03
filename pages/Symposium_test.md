@@ -8,7 +8,7 @@ layout: gridlay
 <div class="container">
  <div class="jumbotron jumbotron-correct">
       <p>
- 		 From Somatosensation to Motor Control
+ 		 From Sensory Processing to Behavioral Control
       </p>
   </div>	  
 </div>
@@ -17,7 +17,7 @@ layout: gridlay
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<p>
-			text about symposium
+			This mini-symposium will gather world-leading neuroscientists to discuss how sensory cues are transformed into adaptive behavioral responses through defined brain circuits. With talks by Silvia Arber (University of Basel), Douglas Webber (Carnegie Mellon University), Seung-Hee Lee (IBS/KAIST), and Patricia Monteiro (University of Porto), the event will explore recent advances in understanding the neural mechanisms that link sensory input to motor and social behaviors, including in models of autism. This event addresses the fundamental question of how the brain interprets sensory information to guide behavior—an area critical to both basic and translational research. 
 		</p>
 </div>
 
@@ -39,8 +39,9 @@ layout: gridlay
     </div>
     <div class="col-sm-8" style="text-align: justify">
     	<h4>Silvia Arber, Basel University, Switzerland</h4>
+		<h5>Generating movements with brainstem circuits</h5>
     	<p>
-			xxxx.	
+			Movement is the behavioral output of the nervous system. This talk will focus on recent work elucidating the organization and function of neuronal circuits central to the regulation of distinct forms of body movements, including locomotion and skilled forelimb movements. It will show that dedicated circuit modules in different regions of the brainstem and their interactions within the motor system play key roles in the generation of diverse actions.	
     	</p>
     </div>
 </div>
@@ -48,6 +49,7 @@ layout: gridlay
 <div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-8" style="text-align: justify">
     	<h4>Douglas Weber, Carnegie Mellon, USA</h4>
+		<h5>Talk title</h5>
     	<p>
     		xxxxx.
     	</p>
@@ -68,8 +70,9 @@ layout: gridlay
     </div>
     <div class="col-sm-8" style="text-align: justify">
     	<h4>Seung-Hee Lee, IBS/KAIST institute</h4>
+		<h5>Sensory and multisensory deficits in mouse models of autism</h5>
     	<p>
-			xxxx
+			Dysfunction in sensory processing and multisensory integration is a common characteristic of autism spectrum disorder (ASD). Many individuals with ASD exhibit atypical sensory perception, including hypersensitivity, hyposensitivity, and difficulties with integrating information across multiple sensory modalities. While these perceptual abnormalities have been widely recognized, the underlying neural circuit mechanisms remain poorly understood. Here, we present recent findings on abnormal sensory and multisensory perceptual behaviors in two ASD mouse models carrying mutations in Shank3 and Grin2b, well-known ASD risk genes. We found that Shank3 deletion caused deficits in audiovisual integration in the posterior parietal cortex (PPC), while the Grin2b mutation induced delayed perceptual learning with reduced feature selectivity in the visual cortex. Collectively, our findings demonstrate that Shank3- and Grin2b-mutant mice exhibit distinct abnormalities in sensory processing and perceptual behaviors, highlighting their potential as models for investigating ASD-related sensory deficits. 
     	</p>
     </div>
 </div>
@@ -78,6 +81,7 @@ layout: gridlay
 <div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-8" style="text-align: justify">
     	<h4>Patricia Monteiro, FMUP</h4>
+		<h5>Talk title</h5>
     	<p>
     		xxxxx.
     	</p>
@@ -109,7 +113,14 @@ layout: gridlay
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>LOCATION</h3>
 		<p>
-		xxxx
+		Faculty of Medicine of the University of Porto (FMUP)
+Alameda Prof. Hernâni Monteiro, 
+4200-319 Porto
+
+
+FMUP on Google Maps:
+https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6
+
 		</p>
 </div>
 
@@ -118,6 +129,8 @@ layout: gridlay
 		<p>
 		Neurophysiology and Neuroengineering Lab @ FMUP
 		</p>
+<img src="/img/Symposium/FMUP_google_maps.png.jpg" alt="FMUP - Location">
+
 </div>
 
 
