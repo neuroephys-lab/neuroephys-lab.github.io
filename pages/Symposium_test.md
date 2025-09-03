@@ -2,7 +2,8 @@
 layout: gridlay
 
 ---
-# **Symposium**
+
+<body style="background-color:yellow;">
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div class="container">
