@@ -3,7 +3,7 @@ layout: gridlay
 
 ---
 
-<body style="background-color:FFF9D6;">
+<body style="background-color:#FFF9D6;">
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 
@@ -89,9 +89,9 @@ layout: gridlay
 <div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-8" style="text-align: justify">
     	<h4>Patricia Monteiro, FMUP</h4>
-		<h5>Talk title</h5>
+		<h5>Linking auditory sensory processing with social behavior deficits</h5>
     	<p>
-    		xxxxx.
+    		Social difficulties are a hallmark of autism spectrum disorder (ASD), but growing evidence suggests that atypical sensory processing may play a foundational role in shaping social behavior. This talk will focus on auditory sensory dysfunction in a well-established mouse model of ASD. Using a combination of behavioral, electrophysiological, and circuit-level approaches, we are uncovering how altered auditory input is encoded in the brain and how it may influence the animal's responses to social and environmental cues.
     	</p>
     </div>
     <div class="col-sm-4">
