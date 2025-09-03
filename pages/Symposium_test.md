@@ -55,7 +55,7 @@ layout: gridlay
     	</p>
     </div>
     <div class="col-sm-4">
-    	<img src="/img/Symposium/douglas_weber.png" alt="Doug Weber">
+    	<img src="/img/Symposium/douglas_weber.png" alt="Doug Weber"> </img>
     </div>
 </div>
 
