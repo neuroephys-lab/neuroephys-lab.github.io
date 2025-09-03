@@ -119,8 +119,10 @@ layout: gridlay
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>REGISTRATION</h3>
-		<p>Please follow the link below to register:</p>
-		<p>Any questions about registration? Please send an email to: </p>
+		<p>Please follow the link below to register</p>
+		<p>    </p>
+		<p>Certificate of attendance will be available upon request</p>
+		<p>Any questions about registration? Please send an email to: liliana_luz (at) med.up.pt</p>
 
 </div>
 
@@ -153,7 +155,7 @@ Rua Dr. Plácido Costa<br>
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>SUPPORT</h3>
 		<p>
-		This symposium was supported by:
+		This symposium was supported by
 		</p>
 </div>
 
