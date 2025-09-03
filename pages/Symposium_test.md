@@ -95,7 +95,7 @@ layout: gridlay
     	</p>
     </div>
     <div class="col-sm-4">
-    	<img src="/img/Symposium/patricia_monteiro2.jpg" alt="Patricia Monteiro">
+    	<img src="/img/Symposium/PMonteiro_photo2.jpg" alt="Patricia Monteiro">
     </div>
 </div>
 
