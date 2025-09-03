@@ -112,18 +112,18 @@ layout: gridlay
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>LOCATION</h3>
-		<p>Room CIM-4 (ground floor)</p>
-		<p>Faculty of Medicine of the University of Porto (FMUP)</p>
-<p>Rua Dr. Plácido Costa</p>
-<p>4200-319 Porto</p>
+		Room CIM-4 (ground floor)<br>
+		Faculty of Medicine of the University of Porto (FMUP)<br>
+Rua Dr. Plácido Costa<br>
+4200-319 Porto<br>
 
 
 <p>FMUP on Google Maps:</p>
-<p> <a href= "https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6" target="_blank"></a></p>
+<p> <a href= "https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6" target="_blank">https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6</a></p>
 
 
 </div>
-<img src="/img/Symposium/FMUP_google_maps.png.jpg" alt="FMUP - Location">
+<img src="/img/Symposium/FMUP_google_maps.png" alt="FMUP - Location">
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>ORGANIZATION</h3>
