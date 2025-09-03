@@ -136,9 +136,8 @@ Rua Dr. Plácido Costa<br>
 
 
 <p></p>
-<p>FMUP on Google Maps:</p>
-<br> <a href= "https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6" target="_blank">https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6</a>
-
+FMUP on Google Maps:
+<a href= "https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6" target="_blank">https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6</a>
 
 </div>
 <img src="/img/Symposium/FMUP_google_maps.png" alt="FMUP - Location">
