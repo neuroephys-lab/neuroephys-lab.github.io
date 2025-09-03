@@ -120,7 +120,7 @@ layout: gridlay
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>REGISTRATION</h3>
-		<p>Please follow the link below to register</p>
+		<p>The event is free, but requires advanced registraton. Please follow the link below to register</p>
 		<p>  <a href= "https://docs.google.com/forms/d/e/1FAIpQLSeimZQRY2ugf7VIbGOfdPhXyEYEMDj1BKPeShxNhJ8lDNmNGA/viewform?usp=dialog" target="_blank">Registration </a></p>
 		<p>Certificate of attendance will be available upon request</p>
 		<p>Any questions about registration? Please send an email to: liliana_luz (at) med.up.pt.</p>
