@@ -3,9 +3,16 @@ layout: gridlay
 
 ---
 
-<body style="background-color:yellow;">
+<body style="background-color:FFF9D6;">
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+
+<div id="Alzheimer's Disease" class="col-sm-12">
+		<h4>Mini-Symposium</h4>
+		<p>
+		
+		</p>
+</div>
 <div class="container">
  <div class="jumbotron jumbotron-correct">
       <p>
@@ -143,4 +150,4 @@ Rua Dr. Plácido Costa<br>
 		</p>
 </div>
 
-<img src="img/Funding_logos4.png" alt="Support"><br>
+<img src="/img/Funding_logos4.png" alt="Support"><br>
