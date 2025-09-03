@@ -135,8 +135,9 @@ Rua Dr. Plácido Costa<br>
 4200-319 Porto<br>
 
 
+<p></p>
 <p>FMUP on Google Maps:</p>
-<p> <a href= "https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6" target="_blank">https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6</a></p>
+<br> <a href= "https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6" target="_blank">https://maps.app.goo.gl/ToYuJYHJdBiQNVrt6</a>
 
 
 </div>
