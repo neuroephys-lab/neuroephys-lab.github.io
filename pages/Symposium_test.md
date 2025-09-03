@@ -112,7 +112,7 @@ layout: gridlay
 <p>12-14:00 – Lunch break </p>
 14:00 – 15:00 – Presentation by Professor Silvia Arber, Basel University, Switzerland (40min) + Q&A (20min). <br> 
 15:00 – 16:00 – Presentation by Professor Douglas Webber, Carnegie Mellon, USA (40min) + Q&A (20min). <br>
-16:00 - 16:30 - Concluding remarks and Port Wine reception. 
+<p>16:00 - 16:30 - Concluding remarks and Port Wine reception. </p>
 
 		</p>
 </div>
@@ -157,4 +157,4 @@ Rua Dr. Plácido Costa<br>
 		</p>
 </div>
 
-<img src="/img/Funding_logos4.png" alt="Support"><br>
+<img src="/img/Symposium/support.jpg" alt="Support"><br>
