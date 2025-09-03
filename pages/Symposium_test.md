@@ -155,7 +155,7 @@ Rua Dr. Plácido Costa<br>
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>SUPPORT</h3>
 		<p>
-		This symposium was supported by
+		This symposium is supported by
 		</p>
 </div>
 
