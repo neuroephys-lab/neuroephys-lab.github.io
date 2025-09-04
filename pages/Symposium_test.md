@@ -107,11 +107,11 @@ layout: gridlay
 		<h3>PROGRAM</h3>
 		<p>
 		10:00 - 10:30 – Welcome and reception <br>
-10:30 – 11:00 – Presentation by Prof. Patricia Monteiro, FMUP, University of Porto, Portugal (25min) + Q&A (5min). <br>
-11:00 – 12:00 – Presentation by Prof. Seung-Hee Lee, IBS/KAIST institute, South Korea (40min) + Q&A (20min). <br>
+10:30 – 11:00 – Presentation by Prof. Patricia Monteiro, FMUP, University of Porto, Portugal  <br>
+11:00 – 12:00 – Presentation by Prof. Seung-Hee Lee, IBS/KAIST institute, South Korea <br>
 <p>12-14:00 – Lunch break </p>
-14:00 – 15:00 – Presentation by Professor Silvia Arber, Basel University, Switzerland (40min) + Q&A (20min). <br> 
-15:00 – 16:00 – Presentation by Professor Douglas Webber, Carnegie Mellon, USA (40min) + Q&A (20min). <br>
+14:00 – 15:00 – Presentation by Prof. Silvia Arber, Basel University, Switzerland <br> 
+15:00 – 16:00 – Presentation by Prof. Douglas Webber, Carnegie Mellon, USA <br>
 <p> </p>
 <p>16:00 - 16:30 - Concluding remarks and Port Wine reception. </p>
 
@@ -122,7 +122,7 @@ layout: gridlay
 		<h3>REGISTRATION</h3>
 		<p>The event is free, but requires advanced registraton. Please follow the link below to register</p>
 		<p>  <a href= "https://docs.google.com/forms/d/e/1FAIpQLSeimZQRY2ugf7VIbGOfdPhXyEYEMDj1BKPeShxNhJ8lDNmNGA/viewform?usp=dialog" target="_blank">Registration </a></p>
-		<p>Certificate of attendance will be available upon request</p>
+		<p>Certificate of attendance will be available upon request.</p>
 		<p>Any questions about registration? Please send an email to: liliana_luz (at) med.up.pt.</p>
 
 </div>
