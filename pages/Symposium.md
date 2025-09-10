@@ -27,7 +27,7 @@ layout: gridlay
 
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<p>
-			This mini-symposium will gather world-leading neuroscientists to discuss how sensory cues are transformed into adaptive behavioral responses through defined brain circuits. With talks by Silvia Arber (University of Basel), Douglas Webber (Carnegie Mellon University), Seung-Hee Lee (IBS/KAIST), and Patricia Monteiro (University of Porto), the event will explore recent advances in understanding the neural mechanisms that link sensory input to motor and social behaviors. This event addresses the fundamental question of how the brain interprets sensory information to guide behavior—an area critical to both basic and translational research. 
+			This mini-symposium will gather world-leading neuroscientists to discuss how sensory cues are transformed into adaptive behavioral responses through defined brain circuits. With talks by Silvia Arber (University of Basel), Douglas Weber (Carnegie Mellon University), Seung-Hee Lee (IBS/KAIST), and Patricia Monteiro (University of Porto), the event will explore recent advances in understanding the neural mechanisms that link sensory input to motor and social behaviors. This event addresses the fundamental question of how the brain interprets sensory information to guide behavior—an area critical to both basic and translational research. 
 		</p>
 </div>
 
@@ -111,7 +111,7 @@ layout: gridlay
 11:00 – 12:00 – Presentation by Prof. Seung-Hee Lee, IBS/KAIST institute, South Korea <br>
 <p>12-14:00 – Lunch break </p>
 14:00 – 15:00 – Presentation by Prof. Silvia Arber, Basel University, Switzerland <br> 
-15:00 – 16:00 – Presentation by Prof. Douglas Webber, Carnegie Mellon, USA <br>
+15:00 – 16:00 – Presentation by Prof. Douglas Weber, Carnegie Mellon, USA <br>
 <p> </p>
 <p>16:00 - 16:30 - Concluding remarks and Port Wine reception. </p>
 
