@@ -104,10 +104,11 @@ layout: gridlay
 </div>
 
 <div id="Alzheimer's Disease" class="col-sm-12">
-		<h3>PROGRAM</h3>
-		<p>
+		<h3>PROGRAM</h3> 
+		<p></p>
 
-23 September 2025 <p>
+<p>23 September 2025 </p>
+
 10:00 - 10:30 – Welcome and reception <br>
 10:30 – 11:00 – Presentation by Prof. Patricia Monteiro, FMUP, University of Porto, Portugal  <br>
 11:00 – 12:00 – Presentation by Prof. Seung-Hee Lee, IBS/KAIST institute, South Korea <br>
@@ -116,8 +117,7 @@ layout: gridlay
 15:00 – 16:00 – Presentation by Prof. Douglas Weber, Carnegie Mellon, USA <br>
 <p> </p>
 <p>16:00 - 16:30 - Concluding remarks and Port Wine reception. </p>
-
-</p>
+</p></p>
 </div>
 
 <div id="Alzheimer's Disease" class="col-sm-12">
