@@ -106,7 +106,9 @@ layout: gridlay
 <div id="Alzheimer's Disease" class="col-sm-12">
 		<h3>PROGRAM</h3>
 		<p>
-		10:00 - 10:30 – Welcome and reception <br>
+
+23 September 2025 <br>
+10:00 - 10:30 – Welcome and reception <br>
 10:30 – 11:00 – Presentation by Prof. Patricia Monteiro, FMUP, University of Porto, Portugal  <br>
 11:00 – 12:00 – Presentation by Prof. Seung-Hee Lee, IBS/KAIST institute, South Korea <br>
 <p>12-14:00 – Lunch break </p>
