@@ -117,7 +117,7 @@ layout: gridlay
 15:00 – 16:00 – Presentation by Prof. Douglas Weber, Carnegie Mellon, USA <br>
 <p> </p>
 <p>16:00 - 16:30 - Concluding remarks and Port Wine reception. </p>
-</p></p>
+
 </div>
 
 <div id="Alzheimer's Disease" class="col-sm-12">
