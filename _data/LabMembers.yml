@@ -64,6 +64,28 @@
   description: "Margarida has a background in Applied Biology and a Master in Health Sciences, both from University of Minho. As an undergraduate student, she was interested in the applications of electrical epidural stimulation for spinal cord injury recovery. Margarida joined the lab in 2020 as a master student and her current project involves in vivo brain recordings, thalamocortical communication, and sensory processing in a mouse model of autism."
 
 
+- name: Laríssa Andrade
+  image: /img/members/LAndrade.png
+  altimage: /img/members/LAndrade.png
+#  pronouns: 
+  position: Research Fellow
+  email: up202308696 (at) edu.fe.up.pt
+#  scholar: 
+#  orcid: 
+  description: "Laríssa has a BSc in Biomedical Engineering and joined the lab for her master's dissertation in Biomedical Engineering. She is investigating electrophysiological biomarkers of DBS therapeutic effects in intracortical recordings of obssessive-compulsive disorder patients, in a project in colaboration with São João Hospital in Porto (CHUSJ)."
+
+
+- name: Miguel Borges
+  image: /img/members/NewMemberM.png
+  altimage: /img/members/NewMemberM.png
+#  pronouns: 
+  position: Research Fellow
+  email: up202004481 (at) edu.fe.up.pt
+#  scholar: 
+#  orcid: 
+  description: "Miguel joined the lab for master's dissertation project in Bioengineering at the lab, focusing on FPGA programming and CMOS chip control for autonomous sensor operation in a novel nanotechnology-enabled neurotransmitter biomarker detection system. (in collaboration with the 2D Materials and Devices and the Systems Engineering groups at INL)"
+
+
 - name: Andreia Ferreira
   image: /img/members/NewMemberF.png
   altimage: /img/members/NewMemberF.png
@@ -73,7 +95,7 @@
 #  scholar: 
 #  orcid: 
   description: "Andreia has a BSc in Biomedical Engineering and is doing her master's dissertation in Biomedical Engineering at the lab. Her project, in collaboration with São João Hospital in Porto (CHUSJ), focuses on predicting clinical outcome in obsessive-compulsive disorder (OCD) patients treated with deep brain stimulation (DBS) based on DBS electrodes' placement and intracranial electrophysiological recordings."
-  
+
 
 - name: Beatriz Ferreira
   image: /img/members/BFerreira.png
@@ -86,37 +108,15 @@
   description: "Beatriz joined the lab for her Master in Engineering Physics dissertation project focusing on functionalization approaches for multiplexed measurements of neurotransmitters with graphene bioelectronic sensors. (in collaboration with the 2D Materials and Devices group at INL)"
 
 
-- name: Catarina Azevedo
-  image: /img/members/CAzevedo.png
-  altimage: /img/members/CAzevedo.png
-#  pronouns: 
-  position: Master student
-  email: up202308333 (at) edu.med.up.pt
-#  scholar: 
-#  orcid: 
-  description: "Catarina has a background in Biomedical Engineering and joined the lab for her master's dissertation in Neurobiology. She is studying sleep microarchitecture in a mouse model of ASD, through automated EEG-based sleep scoring."
-
-
-- name: Laríssa Andrade
-  image: /img/members/LAndrade.png
-  altimage: /img/members/LAndrade.png
-#  pronouns: 
-  position: Master student
-  email: up202308696 (at) edu.fe.up.pt
-#  scholar: 
-#  orcid: 
-  description: "Laríssa has a BSc in Biomedical Engineering and joined the lab for her master's dissertation in Biomedical Engineering. She is investigating electrophysiological biomarkers of DBS therapeutic effects in intracortical recordings of obssessive-compulsive disorder patients, in a project in colaboration with São João Hospital in Porto (CHUSJ)."
-
-
-- name: Miguel Borges
+- name: Luis Benge
   image: /img/members/NewMemberM.png
   altimage: /img/members/NewMemberM.png
 #  pronouns: 
   position: Master student
-  email: up202004481 (at) edu.fe.up.pt
+  email: 
 #  scholar: 
 #  orcid: 
-  description: "Miguel is doing his master's dissertation project in Biomedical Engineering at the lab, focusing on FPGA programming and CMOS chip control for autonomous sensor operation in a novel nanotechnology-enabled neurotransmitter biomarker detection system. (in collaboration with the 2D Materials and Devices and the Systems Engineering groups at INL)"
+  description:
 
 
 - name: Tiago Dias
@@ -139,4 +139,3 @@
 #  scholar: 
 #  orcid: 
   description: "Tiago joined the lab in 2022 for his Master degree project in Engineering Physics focusing on the development of integration processes for graphene bioelectronic transistors and uLEDs in polymeric substrates for flexible neural interfaces (in collaboration with the 2D Materials and Devices group at INL). Now, as a research engineer at INL he continues to colaborate with the lab on the development of new fabrication methods for flexible neural interfaces for neurochemical detection."
-
