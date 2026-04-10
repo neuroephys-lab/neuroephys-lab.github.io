@@ -76,8 +76,8 @@
 
 
 - name: Miguel Borges
-  image: /img/members/NewMemberM.png
-  altimage: /img/members/NewMemberM.png
+  image: /img\members\MBorges.png
+  altimage: /img\members\MBorges.png
 #  pronouns: 
   position: Research Fellow
   email: up202004481 (at) edu.fe.up.pt
