@@ -1,3 +1,17 @@
+
+- name: Beatriz Ferreira
+  image: 
+  altimage: 
+#  pronouns: 
+  position: Master Student
+  email: 
+#  scholar:
+#  twitter: ""
+  description: 
+  years: "2024-2026"
+  nextPosition: 
+
+
 - name: Catarina Azevedo
   image: 
   altimage: 
@@ -23,6 +37,19 @@
   nextPosition: "Medical & Scientific Officer, OwlPharma - Consulting Lda"
 
 
+- name: Beatriz Silva
+  image: 
+  altimage: 
+#  pronouns: 
+  position: Master Student
+  email: 
+#  scholar:
+#  twitter: ""
+  description: 
+  years: "2022-2025"
+  nextPosition: "Engineer, Synopsis Inc"
+  
+
 - name: Patrícia Silva
   image: 
   altimage: 
@@ -34,19 +61,6 @@
   description: 
   years: "2021-2024"
   nextPosition: "PhD student, University of Bern"
-
-
-- name: Beatriz Silva
-  image: 
-  altimage: 
-#  pronouns: 
-  position: Master Student
-  email: 
-#  scholar:
-#  twitter: ""
-  description: 
-  years: "2022-2024"
-  nextPosition: "Engineer, Synopsis Inc"
 
 
 - name: Margarida Gonçalves

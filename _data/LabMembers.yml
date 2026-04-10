@@ -86,6 +86,17 @@
   description: "Miguel joined the lab in 2025 for his master's dissertation project in Bioengineering at the lab. He is currently focused on FPGA programming and CMOS chip control for autonomous sensor operation in a novel nanotechnology-enabled neurotransmitter biomarker detection system. (in collaboration with the 2D Materials and Devices and the Systems Engineering groups at INL)"
 
 
+- name: Tiago Dias
+  image: /img/members/TDias.png
+  altimage: /img/members/TDias.png
+#  pronouns: 
+  position: Research Fellow
+  email: tiago.dias (at) inl.int
+#  scholar: 
+#  orcid: 
+  description: "Tiago joined the lab for his Master in Engineering Physics dissertation project focusing on fabrication and performance assessment of graphene nanobiosensors on flexible polymeric substrates for neuronal biomarkers sensing (in collaboration with the 2D Materials and Devices group at INL). He is now a research fellow working on an industry contract project focusing on graphene biosensors."
+
+
 - name: Andreia Ferreira
   image: /img/members/AFerreira.png
   altimage: /img/members/AFerreira.png
@@ -97,17 +108,6 @@
   description: "Andreia has a BSc in Biomedical Engineering and is doing her master's dissertation in Biomedical Engineering at the lab. Her project, in collaboration with São João Hospital in Porto (CHUSJ), focuses on predicting clinical outcome in obsessive-compulsive disorder (OCD) patients treated with deep brain stimulation (DBS) based on DBS electrodes' placement and intracranial electrophysiological recordings."
 
 
-- name: Beatriz Ferreira
-  image: /img/members/BFerreira.png
-  altimage: /img/members/BFerreira.png
-#  pronouns: 
-  position: Master student
-  email: pg53694 (at) alunos.uminho.pt
-#  scholar: 
-#  orcid: 
-  description: "Beatriz joined the lab for her Master in Engineering Physics dissertation project focusing on functionalization approaches for multiplexed measurements of neurotransmitters with graphene bioelectronic sensors. (in collaboration with the 2D Materials and Devices group at INL)"
-
-
 - name: Luis Benge
   image: /img/members/NewMemberM.png
   altimage: /img/members/NewMemberM.png
@@ -117,17 +117,6 @@
 #  scholar: 
 #  orcid: 
   description:
-
-
-- name: Tiago Dias
-  image: /img/members/TDias.png
-  altimage: /img/members/TDias.png
-#  pronouns: 
-  position: Master student
-  email: tiago.dias (at) inl.int
-#  scholar: 
-#  orcid: 
-  description: "Tiago joined the lab for his Master in Engineering Physics dissertation project focusing on fabrication and performance assessment of graphene nanobiosensors on flexible polymeric substrates for neuronal biomarkers sensing. (in collaboration with the 2D Materials and Devices group at INL)"
 
 
 - name: Tiago Pereira
