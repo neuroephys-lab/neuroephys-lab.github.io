@@ -98,6 +98,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
     	<h4>Biosensors for brain disorder biomarkers</h4>
     	<p>
 			Micro- and nanotechnology-based biosensors for biomarkers screening operate in the same size scale that neurons and neural biomarker molecules, and can take advantage of fast and power-efficient integrated technologies. We develop bioelectronic biosensors for the quantification and monitoring of biomarkers that are relevant for brain activity and brain disorders. We combine micro- and nano-fabrication, electronics (including nanoelectronics), biomedical instrumentation, signal processing, graphic interface design, and machine learning to craft next-generation biosensors for studying the brain but also for diagnosis, stratification, and clinical management of neurological, neurodevelopmental, and neuropsychiatric disorders. We test and validate our biosensors in both pre-clinical animal models and patient samples. 
+		</p>
     </div>
 </div>
 
