@@ -35,7 +35,7 @@ navbar-icons:
   Team: "fa fa-users"
   Publications: "fa fa-file-alt"
   Tools: "fa fa-file-code"
-  News: "fa fa-utility fa-semibold fa-arrow-down"
+  News: "fa fa-file-code"
   Contact: "fa fa-map-marker-alt"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
