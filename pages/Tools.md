@@ -3,8 +3,8 @@ layout: gridlay
 title: Neurophysiology and Neuroengineering Tools
 ---
 
-# **Resources**
-{% for item in site.data.Resources %}
+# **Tools**
+{% for item in site.data.Tools %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{item.title}}" class="row" style="padding-top: 60px; margin-top: -60px;">
