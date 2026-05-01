@@ -24,6 +24,7 @@ navbar-links:
   Research: "pages/Research"
   Team: "pages/Team"
   Publications: "pages/Publications"
+  Tools: "pages/Tools"
   News: "pages/News"
   Contact: "pages/Contact"
 
