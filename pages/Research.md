@@ -79,6 +79,31 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
 <hr>
 <div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-8" style="text-align: justify">
+    	<h4>Deep Brain Stimulation</h4>
+    	<p>
+    		Deep Brain Stimulation is an established therapy for motor disorders such as Parkinson’s Disease and an emerging therapeutic option for neuropsychiatric disorders such as refactory obsessive-compulsive disorder. We combine electrophysiology, signal and image processing, conectomics, and machine learning to identify which targets inside the brain yield optimal clinical outputs, to develop tools that provide probabilistic brain mapping inside the surgical room, and to identify electrophysiological biomarkers that can guide closed-loop stimulation aproaches for adaptive deep brain stimulation in patients with neurological and neuropsychiatric conditions.
+    	</p>
+    </div>
+    <div class="col-sm-4">
+    	<img src="/img/research/DBS_site.png" alt="Deep Brain Stimulation">
+    </div>
+</div>
+
+<hr>
+<div id = "Pathologic Resilience" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-4">
+    	<img src="/img/research/Biosensors_site.jpg" alt="Biosensors">
+    </div>
+    <div class="col-sm-8" style="text-align: justify">
+    	<h4>Biosensors for brain disorder biomarkers</h4>
+    	<p>
+			Micro- and nanotechnology-based biosensors for biomarkers screening operate in the same size scale that neurons and neural biomarker molecules, and can take advantage of fast and power-efficient integrated technologies. We develop bioelectronic biosensors for the quantification and monitoring of biomarkers that are relevant for brain activity and brain disorders. We combine micro- and nano-fabrication, electronics (including nanoelectronics), biomedical instrumentation, signal processing, graphic interface design, and machine learning to craft next-generation biosensors for studying the brain but also for diagnosis, stratification, and clinical management of neurological, neurodevelopmental, and neuropsychiatric disorders. We test and validate our biosensors in both pre-clinical animal models and patient samples. 
+    </div>
+</div>
+
+<hr>
+<div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-8" style="text-align: justify">
     	<h4>Machine learning and data analysis tools for brain activity decoding and behavioral phenotyping</h4>
     	<p>
     		Recent advances in electronics miniaturization and device integration allow the recording of brain activity with unprecedented resolution. We develop and use machine learning, signal processing, and computational data analysis tools to decode large scale recordings of brain activity. We apply these tools to answer questions in preclinical neuroscience studies but also to identify electrophysiological biomarkers in patients afflicted with brain disorders. We also combine machine learning tools with computer vision to automatically identify behavior profiles in animal models of brain disorders and to understand how these are correlated with alterations in brain activity.
