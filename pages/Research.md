@@ -85,7 +85,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
     	</p>
     </div>
     <div class="col-sm-4">
-    	<img src="/img/research/DBS_site.png" alt="Deep Brain Stimulation">
+    	<img src="/img/research/DBS_site.jpg" alt="Deep Brain Stimulation">
     </div>
 </div>
 
