@@ -1,6 +1,6 @@
 ---
 layout: gridlay
-title: Neurophysiology and Neuroengineering Tools
+title: Tools
 ---
 
 # **Tools**
