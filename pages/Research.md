@@ -92,7 +92,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Research
 <hr>
 <div id = "Pathologic Resilience" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
-    	<img src="/img/research/Biosensors_site.jpg" alt="Biosensors">
+    	<img src="/img/research/Biosensors_site2.jpg" alt="Biosensors">
     </div>
     <div class="col-sm-8" style="text-align: justify">
     	<h4>Biosensors for brain disorder biomarkers</h4>
