@@ -115,7 +115,7 @@ subtitle: Neurophysiology and Neuroengineering Lab Members
     
   <tr>
     <th>Name</th>
-    <th>Degree/Program/University</th>
+    <th>Degree/University</th>
     <th>Year</th>
   </tr>
 
