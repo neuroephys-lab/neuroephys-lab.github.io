@@ -63,6 +63,16 @@
 #  orcid: 
   description: "Margarida has a background in Applied Biology and a Master in Health Sciences, both from University of Minho. As an undergraduate student, she was interested in the applications of electrical epidural stimulation for spinal cord injury recovery. Margarida joined the lab in 2020 as a master student and her current project involves in vivo brain recordings, thalamocortical communication, and sensory processing in a mouse model of autism."
 
+- name: Andreia Ferreira
+  image: /img/members/AFerreira.png
+  altimage: /img/members/AFerreira.png
+#  pronouns: 
+  position: Research Fellow
+  email: up202402997 (at) edu.fe.up.pt
+#  scholar: 
+#  orcid: 
+  description: "Andreia has a BSc in Biomedical Engineering and did her master's dissertation in Biomedical Engineering at the lab. Her project, in collaboration with São João Hospital in Porto (CHUSJ), focused on predicting clinical outcome in obsessive-compulsive disorder (OCD) patients treated with deep brain stimulation (DBS) based on DBS electrodes' placement and intracranial electrophysiological recordings. Now, as a research fellow, she continutes to explore computational approaches to study connectomics for DBS in neurological and neuropsychiatric disorders."
+
 
 - name: Laríssa Andrade
   image: /img/members/LAndrade.png
@@ -97,15 +107,6 @@
   description: "Tiago joined the lab for his Master in Engineering Physics dissertation project focusing on fabrication and performance assessment of graphene nanobiosensors on flexible polymeric substrates for neuronal biomarkers sensing (in collaboration with the 2D Materials and Devices group at INL). He is now a research fellow working on an industry contract project focusing on graphene biosensors."
 
 
-- name: Andreia Ferreira
-  image: /img/members/AFerreira.png
-  altimage: /img/members/AFerreira.png
-#  pronouns: 
-  position: Master student
-  email: up202402997 (at) edu.fe.up.pt
-#  scholar: 
-#  orcid: 
-  description: "Andreia has a BSc in Biomedical Engineering and is doing her master's dissertation in Biomedical Engineering at the lab. Her project, in collaboration with São João Hospital in Porto (CHUSJ), focuses on predicting clinical outcome in obsessive-compulsive disorder (OCD) patients treated with deep brain stimulation (DBS) based on DBS electrodes' placement and intracranial electrophysiological recordings."
 
 
 - name: Luis Benge
