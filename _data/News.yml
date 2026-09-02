@@ -1,3 +1,33 @@
+- title: Summer Gathering
+  image: /img\resources\2026_SummerLabGathering.png
+  imageLink: 
+  description: 'August 2026 - The NeuroEphys team gathered for our annual Summer Gathering, celebrating another year of scientific achievements while strengthening friendships and fostering team spirit outside the laboratory.'
+
+- title: UBEX picnic
+  image: /img\resources\2026_UBex_picnic.jpg
+  imageLink: 
+  description: 'July 2026 - The 2026 UBEX picnic was marked by a memorable outdoor adventure, as team members took part in a Peddy Paper at the Gaia Biological Park, strengthening connections while exploring nature and working together to solve challenges.'
+
+- title: FENS 2026
+  image: /img\resources\2026_FENS.png
+  imageLink: 
+  description: 'July 2026 - At the FENS Forum 2026 in Barcelona, Margarida and Carolina showcased their research, exchanged ideas with fellow scientists, and explored the latest advances in neuroscience.'
+
+- title: Andreia Ferreira - Master Defense
+  image: /img\resources\2026_AndreiaDefense.jpg
+  imageLink: 
+  description: 'July 2026 - Andreia Ferreira successfully defended her Master’s thesis at FEUP, achieving an important milestone in her academic and research journey. Congratulations on this remarkable accomplishment!'
+
+- title: International Neuromodulation Society World Congress
+  image: /img\resources\2026_INS_Larissa.png
+  imageLink: 
+  description: 'May 2026 - At the 2026 International Neuromodulation Society (INS) World Congress, Larissa Rodrigues presented her work and engaged with leading researchers and clinicians working to advance neuromodulation technologies and therapies. Photo credit: INS'
+
+- title: Young Research Meeting (IJUP)
+  image: /img\resources\2026_IJUP_Andreia.jpg
+  imageLink: 
+  description: 'May 2026 - Andreia Ferreira presented her research at the 2026 Young Research Meeting (IJUP), one of the University of Porto’s flagship events dedicated to showcasing the work of young researchers.'
+
 - title: Apprentice for a day
   image: /img\resources\2026_Apprenticeforday.png
   imageLink: 
@@ -19,12 +49,12 @@
   description: 'February 2026  - Sara, Carolina, and Luis represented RISE-Health and FMUP at  MostraUP, a 3day event open to the general public where University of Porto showcases its courses and research institutes, where they led interactive, hands-on activities related to the work we do at our lab, and engaged with prospective students, families, and visitors to promote research and science.'
 
 - title: Winter Lab Gathering
-  image: /img/resources/2025_WinterLabGathering2.png
+  image: /img/resources/2025_WinterLabGathering.png
   imageLink: 
   description: 'December 2025 - Our winter lab gathering was a different kind of adventure! Working in teams, we unleashed our creativity in the kitchen by cooking Italian-inspired dishes. We then enjoyed tasting everyone’s amazing creations together.'
 
 - title: Biomedicine Department Meeting
-  image: /img/resources/2025_DBMmeeting.png
+  image: /img/resources/2025_DBM_meeting.png
   imageLink: 
   description: 'December 2025 - Carolina and Mafalda brilliantly presented their PhD research at the 4th Biomedicine Department Meeting at FMUP, captivating students and researchers with their work.'
 
@@ -84,7 +114,7 @@
   description: 'May 2025 - Patrícia was invited to speak at the 2025 FAOBMB conference held in South Korea. The talk focused on our lab’s recent advances in understanding the role of SHANK3 mutations in autism spectrum disorder. We are proud to contribute to the international conversation on translational neuroscience and genetic approaches to neurodevelopmental disorders.'
 
 - title: IJUP 2025 - UPorto Young Resarchers Meeting 
-  image: /img/resources/2025_IJUP2.png
+  image: /img/resources/2025_IJUP.png
   imageLink: 
   description: 'May 2025 - Catarina and Larissa presented their Master’s research at the IJUP meeting, an annual event bringing together all BSc and Msc students doing research at University of Porto.'
 
@@ -119,7 +149,7 @@
   description: 'November 2024 - Patrícia gave a talk on “Sensory Processing in Autism Spectrum Disorder” at The Portuguese Society for Neuroscience (SPN) monthly seminars.'
 
 - title: UBIPharma
-  image: /img/resources/2024_UBIPharma2.jpg
+  image: /img/resources/2024_UBIPharma.jpg
   imageLink: 
   description: 'November 2024 - Luis gave a talk on "New Technologies for brain disorders" and participated in a roundtable on Therapeutic Innovation at UBIPharma X Meeting at University of Beira Interior, in beautiful Covilhã, Portugal.'
 
@@ -179,7 +209,7 @@
   description: 'September 2023 – Luis had the pleasure to take part in the jury that evaluated presentations at the 18th YES Meeting. The future of biomedical science is bright.'
 
 - title: 2023 ISN-ESN Meeting
-  image: /img/resources/2023_ISN2.png
+  image: /img/resources/2023_ISN.PNG
   imageLink: 
   description: 'August 2023 – Patricia gave a talk at the 2023 ISN-ESN Meeting. This time, the meeting was held at beautiful Porto, Portugal. #WeAreNeurochemistry'
 
@@ -189,17 +219,17 @@
   description: 'JULY 2023 – The entire lab headed to Parque da Cidade for our annual summer gathering. Picnic + coffee by the beach + outdoor games = FUN!'
 
 - title: Talk at Academia de Ciências de Lisboa
-  image: /img/resources/2023_ACL2.png
+  image: /img/resources/2023_ACL.PNG
   imageLink: 
   description: 'JUNE 2023 – Patricia gave a talk at Academia de Ciências de Lisboa entitled “Novel technologies for brain manipulation”. Streaming available @academialx YouTube.'
 
 - title: St. John's festivities - UBEX
-  image: /img/resources/2023_SJoaoUBEX2.png
+  image: /img/resources/2023_SJoaoUBEX.PNG
   imageLink: 
   description: 'JUNE 2023 – Enjoying St. Johns festivities organized by students from our Experimental Biology Unit (UBEX). Cheers!'
 
 - title: IJUP 2023 - UPorto Young Resarchers Meeting 
-  image: /img/resources/2023_IJUP2.jpg
+  image: /img/resources/2023_IJUP.jpg
   imageLink: 
   description: 'MAY 2023 – Patricia and Luis had the pleasure to evaluate posters from the future scientists at University of Porto at IJUP 2023. This meeting brought together more than one thousand BSc and MSc students from University of Porto to present their research. More [here](https://noticias.up.pt/ijup-2023-foi-uma-grande-oportunidade-para-os-futuros-cientistas/){:target="_blank"} (in portuguese). (photo: UPorto)'
 
