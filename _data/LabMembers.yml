@@ -19,6 +19,16 @@
 #  orcid: 
   description: "Sara Reis is a postdoctoral researcher at the Faculty of Medicine of the University of Porto (FMUP), Portugal, since November 2023. She holds a BSc degree in Human Biology from University of Évora, a MSc in Cellular and Molecular Biology from University of Coimbra and a PhD in Neuroscience from the University of Wurzburg. During her PhD, Sara studied the cardiac interoceptive role of periaqueductal gray neurons during defensive states. She is interested in studying the neuronal circuits underlying cardiac interoception in a mouse model of autism spectrum disorder."
 
+- name: Alexandra Costa
+  image: /img/members/NewMemberF.png
+  altimage: /img/members/NewMemberF.png
+#  pronouns: 
+  position: PhD student
+  email: up202210899 (at) edu.med.up.pt
+#  scholar: 
+#  orcid: 
+  description: "Alexandra has a background in Biochemistry from the University of Coimbra, Faculty of Sciences and Technology, and a Master in Biomedical Research from the Faculty of Medicine of the University of Coimbra. During her MSc, Alexandra studied the impact of prenatal stress on the offspring’s behavior and microglia morphology. In 2022, she joined our team as a lab tech but her scientific passion led her to pursue a PhD with us. As a PhD student, she is currently exploring the involvement of the brain immune system in OCD."
+
 
 - name: Alexandra Cruz
   image: /img/members/ACruz.png
@@ -40,7 +50,27 @@
 #  scholar: 
 #  orcid: 
   description: "Carolina has a background in Biochemistry from University of Minho, School of Sciences and a Master in Health Sciences from the School of Medicine, also at University of Minho. During her bachelor, she was interested in the relationship between serotoninergic signaling and protein homeostasis of the central nervous system. Carolina joined the lab in 2020 as a master student. She is interested in studying the neurobiological mechanisms underlying auditory sensitivity in a mouse model of autism spectrum disorder."
-  
+
+- name: Jorge Matas Teruel
+  image: /img\members\NewMemberM.png
+  altimage: /img\members\NewMemberM.png
+#  pronouns: 
+  position: PhD student
+  email: 
+#  scholar: 
+#  orcid: 
+  description: 
+
+- name: Laríssa Andrade
+  image: /img/members/LAndrade.png
+  altimage: /img/members/LAndrade.png
+#  pronouns: 
+  position: PhD Student
+  email: up202308696 (at) edu.fe.up.pt
+#  scholar: 
+#  orcid: 
+  description: "Laríssa has a BSc in Biomedical Engineering and joined the lab in 2024 for her master's dissertation in Biomedical Engineering. She is currently investigating electrophysiological biomarkers of DBS therapeutic effects in intracortical recordings of obssessive-compulsive disorder patients, in a project in colaboration with São João Hospital in Porto (CHUSJ)."
+
 
 - name: Mafalda Abrantes
   image: /img/members/MAbrantes.png
@@ -63,6 +93,30 @@
 #  orcid: 
   description: "Margarida has a background in Applied Biology and a Master in Health Sciences, both from University of Minho. As an undergraduate student, she was interested in the applications of electrical epidural stimulation for spinal cord injury recovery. Margarida joined the lab in 2020 as a master student and her current project involves in vivo brain recordings, thalamocortical communication, and sensory processing in a mouse model of autism."
 
+
+
+- name: Miguel Borges
+  image: /img\members\MBorges.jpg
+  altimage: /img\members\MBorges.jpg
+#  pronouns: 
+  position: PhD student
+  email: up202004481 (at) edu.fe.up.pt
+#  scholar: 
+#  orcid: 
+  description: "Miguel joined the lab in 2025 for his master's dissertation project in Bioengineering at the lab. He is currently focused on FPGA programming and CMOS chip control for autonomous sensor operation in a novel nanotechnology-enabled neurotransmitter biomarker detection system. (in collaboration with the 2D Materials and Devices and the Systems Engineering groups at INL)"
+
+
+- name: Silvio Mujica
+  image: /img\members\NewMemberM.png
+  altimage: /img\members\NewMemberM.png
+#  pronouns: 
+  position: PhD student
+  email: 
+#  scholar: 
+#  orcid: 
+  description: 
+
+
 - name: Andreia Ferreira
   image: /img/members/AFerreira.png
   altimage: /img/members/AFerreira.png
@@ -73,27 +127,6 @@
 #  orcid: 
   description: "Andreia has a BSc in Biomedical Engineering and did her master's dissertation in Biomedical Engineering at the lab. Her project, in collaboration with São João Hospital in Porto (CHUSJ), focused on predicting clinical outcome in obsessive-compulsive disorder (OCD) patients treated with deep brain stimulation (DBS) based on DBS electrodes' placement and intracranial electrophysiological recordings. Now, as a research fellow, she continutes to explore computational approaches to study connectomics for DBS in neurological and neuropsychiatric disorders."
 
-
-- name: Laríssa Andrade
-  image: /img/members/LAndrade.png
-  altimage: /img/members/LAndrade.png
-#  pronouns: 
-  position: Research Fellow
-  email: up202308696 (at) edu.fe.up.pt
-#  scholar: 
-#  orcid: 
-  description: "Laríssa has a BSc in Biomedical Engineering and joined the lab in 2024 for her master's dissertation in Biomedical Engineering. She is currently investigating electrophysiological biomarkers of DBS therapeutic effects in intracortical recordings of obssessive-compulsive disorder patients, in a project in colaboration with São João Hospital in Porto (CHUSJ)."
-
-
-- name: Miguel Borges
-  image: /img\members\MBorges.jpg
-  altimage: /img\members\MBorges.jpg
-#  pronouns: 
-  position: Research Fellow
-  email: up202004481 (at) edu.fe.up.pt
-#  scholar: 
-#  orcid: 
-  description: "Miguel joined the lab in 2025 for his master's dissertation project in Bioengineering at the lab. He is currently focused on FPGA programming and CMOS chip control for autonomous sensor operation in a novel nanotechnology-enabled neurotransmitter biomarker detection system. (in collaboration with the 2D Materials and Devices and the Systems Engineering groups at INL)"
 
 
 - name: Tiago Dias
@@ -107,17 +140,36 @@
   description: "Tiago joined the lab for his Master in Engineering Physics dissertation project focusing on fabrication and performance assessment of graphene nanobiosensors on flexible polymeric substrates for neuronal biomarkers sensing (in collaboration with the 2D Materials and Devices group at INL). He is now a research fellow working on an industry contract project focusing on graphene biosensors."
 
 
+- name: Cláudia Gadelho
+  image: /img/members/NewMemberF.png
+  altimage: /img/members/NewMemberF.png
+#  pronouns: 
+  position: PhD student
+  email: 
+#  scholar: 
+#  orcid: 
+  description: 
 
 
-- name: Luis Benge
-  image: /img/members/NewMemberM.png
-  altimage: /img/members/NewMemberM.png
+- name: Francisca Mihalache
+  image: /img/members/NewMemberF.png
+  altimage: /img/members/NewMemberF.png
 #  pronouns: 
   position: Master student
   email: 
 #  scholar: 
 #  orcid: 
-  description: "Luís has a BSc in Biochemistry from the Faculty of Sciences of the University of Porto and the School of Medicine and Biomedical Sciences and has joined the lab in 2025 for his Master's thesis in Neurobiology at the Faculty of Medicine of the University of Porto. His project focuses on the potential role dopaminergic neurons play in striatal circuits related to hyperacusis and avoidance behaviours and how it's affected in a mouse model of autism."
+  description: 
+
+- name: Salomé Moura
+  image: /img/members/NewMemberF.png
+  altimage: /img/members/NewMemberF.png
+#  pronouns: 
+  position: Mastr student
+  email: 
+#  scholar: 
+#  orcid: 
+  description: 
 
 
 - name: Tiago Pereira
