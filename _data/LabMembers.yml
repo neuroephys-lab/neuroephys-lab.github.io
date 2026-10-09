@@ -69,7 +69,7 @@
   email: up202308696 (at) edu.fe.up.pt
 #  scholar: 
 #  orcid: 
-  description: "Laríssa holds a BSc in Biomedical Engineering from the Porto School of Engineering (ISEP) and an MSc in Biomedical Engineering from the Faculty of Engineering of the University of Porto (FEUP). She joined the lab in 2024 for her master's dissertation, where she studied electrophysiological biomarkers of deep brain stimulation (DBS) therapeutic effects in patients with obsessive-compulsive disorder, in collaboration with São João University Hospital Centre (CHUSJ), Porto. She is currently a PhD student, focusing on real-time sweet spot mapping of DBS targets for Parkinson's disease. Her research interests include electrophysiology, neuroengineering, and digital health."
+  description: "Laríssa holds a BSc in Biomedical Engineering from the Porto School of Engineering (ISEP) and an MSc in Biomedical Engineering from the Faculty of Engineering of the University of Porto (FEUP). She joined the lab in 2024 for her master's dissertation, where she studied electrophysiological biomarkers of deep brain stimulation (DBS) therapeutic effects in patients with obsessive-compulsive disorder, in collaboration with São João University Hospital Centre (CHUSJ), Porto. She is currently a PhD student, focusing on real-time sweet spot mapping of DBS targets for Parkinson's disease (in collaboration with the Neural Information and Neuromodulation Lab, University of Utah). Her research interests include electrophysiology, neuroengineering, and digital health."
 
 
 - name: Mafalda Abrantes
@@ -94,7 +94,6 @@
   description: "Margarida has a background in Applied Biology and a Master in Health Sciences, both from University of Minho. As an undergraduate student, she was interested in the applications of electrical epidural stimulation for spinal cord injury recovery. Margarida joined the lab in 2020 as a master student and her current project involves in vivo brain recordings, thalamocortical communication, and sensory processing in a mouse model of autism."
 
 
-
 - name: Miguel Borges
   image: /img\members\MBorges.jpg
   altimage: /img\members\MBorges.jpg
@@ -103,7 +102,7 @@
   email: up202004481 (at) edu.fe.up.pt
 #  scholar: 
 #  orcid: 
-  description: "Miguel joined the lab in 2025 for his master's dissertation project in Bioengineering at the lab. He is currently focused on FPGA programming and CMOS chip control for autonomous sensor operation in a novel nanotechnology-enabled neurotransmitter biomarker detection system. (in collaboration with the 2D Materials and Devices and the Systems Engineering groups at INL)"
+  description: "Miguel joined the lab in 2025 for his master's dissertation project in Bioengineering at the lab fosing on FPGA programming and CMOS chip control for autonomous sensor operation in a novel nanotechnology-enabled neurotransmitter biomarker detection system (in collaboration with the 2D Materials and Devices and the Systems Engineering groups at INL). Currently, as a PhD student, his project is focused on the integration of high-density electromiography and graphene biosensors for the maping of motor and non-motor symptoms in Parkinson's Disease patients undergoing deep brain stimulation (in collaboration with the NeuroMechatronics Lab at Carnegie Mellon University)."
 
 
 - name: Silvio Mujica
@@ -117,6 +116,17 @@
   description: 
 
 
+- name: Tiago Dias
+  image: /img/members/TDias.png
+  altimage: /img/members/TDias.png
+#  pronouns: 
+  position: PhD student
+  email: tiago.dias (at) inl.int
+#  scholar: 
+#  orcid: 
+  description: "Tiago joined the lab for his Master in Engineering Physics dissertation project focusing on fabrication and performance assessment of graphene nanobiosensors on flexible polymeric substrates for neuronal biomarkers sensing . Following his master he worked in the lab as research fellow on an industry contract project focusing on graphene biosensors. Now, as a Phd student he is investigating novel device design approaches for implantable neural probes integrating graphene biosensors (in collaboration with the 2D Materials and Devices group at INL)"
+
+
 - name: Andreia Ferreira
   image: /img/members/AFerreira.png
   altimage: /img/members/AFerreira.png
@@ -126,18 +136,6 @@
 #  scholar: 
 #  orcid: 
   description: "Andreia has a BSc in Biomedical Engineering and did her master's dissertation in Biomedical Engineering at the lab. Her project, in collaboration with São João Hospital in Porto (CHUSJ), focused on predicting clinical outcome in obsessive-compulsive disorder (OCD) patients treated with deep brain stimulation (DBS) based on DBS electrodes' placement and intracranial electrophysiological recordings. Now, as a research fellow, she continutes to explore computational approaches to study connectomics for DBS in neurological and neuropsychiatric disorders."
-
-
-
-- name: Tiago Dias
-  image: /img/members/TDias.png
-  altimage: /img/members/TDias.png
-#  pronouns: 
-  position: Research Fellow
-  email: tiago.dias (at) inl.int
-#  scholar: 
-#  orcid: 
-  description: "Tiago joined the lab for his Master in Engineering Physics dissertation project focusing on fabrication and performance assessment of graphene nanobiosensors on flexible polymeric substrates for neuronal biomarkers sensing (in collaboration with the 2D Materials and Devices group at INL). He is now a research fellow working on an industry contract project focusing on graphene biosensors."
 
 
 - name: Cláudia Gadelho
@@ -160,6 +158,7 @@
 #  scholar: 
 #  orcid: 
   description: "Francisca holds a BSc in Artificial Intelligence and Data Science and is currently completing an MSc in Artificial Intelligence at the University of Porto. Her research applies machine learning approaches to intraoperative recordings acquired during deep brain stimulation procedures, in collaboration with São João University Hospital Centre (CHUSJ), Porto"
+
 
 - name: Salomé Moura
   image: /img\members\SMoura.png
