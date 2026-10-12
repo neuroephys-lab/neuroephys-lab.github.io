@@ -102,18 +102,17 @@
   email: up202004481 (at) edu.fe.up.pt
 #  scholar: 
 #  orcid: 
-  description: "Miguel joined the lab in 2025 for his master's dissertation project in Bioengineering at the lab fosing on FPGA programming and CMOS chip control for autonomous sensor operation in a novel nanotechnology-enabled neurotransmitter biomarker detection system (in collaboration with the 2D Materials and Devices and the Systems Engineering groups at INL). Currently, as a PhD student, his project is focused on the integration of high-density electromiography and graphene biosensors for the maping of motor and non-motor symptoms in Parkinson's Disease patients undergoing deep brain stimulation (in collaboration with the NeuroMechatronics Lab at Carnegie Mellon University)."
-
+  description: 'Miguel holds a BSc and a MSc in Bioengineering from the Faculty of Engineering of the University of Porto (FEUP), with a specialization in Biomedical Engineering. He joined the lab in 2024 for his master’s dissertation, where he contributed to the development of a platform for the real-time acquisition of neurotransmitter biomarkers, in collaboration with the 2D Materials and Devices and the Systems Engineering groups at INL. He is currently a PhD student, focusing on the development of a system for optimizing deep brain stimulation (DBS) parameters in patients with ParkinsonÕs disease.'
 
 - name: Silvio Mujica
-  image: /img\members\NewMemberM.png
-  altimage: /img\members\NewMemberM.png
+  image: /img\members\SMujica.jpg
+  altimage: /img\members\SMujica.jpg
 #  pronouns: 
   position: PhD student
-  email: 
+  email: up202508767 (at) edu.med.up.pt
 #  scholar: 
 #  orcid: 
-  description: 
+  description: 'Silvio holds a BSc in Psychology and an MSc in Neuroscience from the University of Salamanca. During his master’s studies, he investigated auditory processing in the inferior colliculus using electrophysiological and computational approaches. He is currently a PhD student in Neuroscience at the University of Porto, where his research focuses on sensory adaptation and predictive processing in the auditory cortex in genetic mouse models of autism spectrum disorder, with a particular interest in cortical inhibitory circuits and dendritic integration.'
 
 
 - name: Tiago Dias
