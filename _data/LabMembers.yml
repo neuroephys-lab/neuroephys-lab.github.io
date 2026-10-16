@@ -69,7 +69,7 @@
   email: up202308696 (at) edu.fe.up.pt
 #  scholar: 
 #  orcid: 
-  description: "Laríssa holds a BSc in Biomedical Engineering from the Porto School of Engineering (ISEP) and an MSc in Biomedical Engineering from the Faculty of Engineering of the University of Porto (FEUP). She joined the lab in 2024 for her master's dissertation, where she studied electrophysiological biomarkers of deep brain stimulation (DBS) therapeutic effects in patients with obsessive-compulsive disorder, in collaboration with São João University Hospital Centre (CHUSJ), Porto. She is currently a PhD student, focusing on real-time sweet spot mapping of DBS targets for Parkinson's disease (in collaboration with the Neural Information and Neuromodulation Lab, University of Utah). Her research interests include electrophysiology, neuroengineering, and digital health."
+  description: "Laríssa holds a BSc in Biomedical Engineering from the Porto School of Engineering (ISEP) and an MSc in Biomedical Engineering from the Faculty of Engineering of the University of Porto (FEUP). She joined the lab in 2024 for her master's dissertation, where she studied electrophysiological biomarkers of deep brain stimulation (DBS) therapeutic effects in patients with obsessive-compulsive disorder, in collaboration with São João University Hospital Centre (CHUSJ), Porto. She is currently a PhD student, focusing on real-time sweet spot mapping of DBS targets for Parkinson's disease (in collaboration with the Neural Information and Neuromodulation Lab, University of Utah, and the Neurosurgery Department at ULS São João). Her research interests include electrophysiology, neuroengineering, and digital health."
 
 
 - name: Mafalda Abrantes
@@ -102,7 +102,7 @@
   email: up202004481 (at) edu.fe.up.pt
 #  scholar: 
 #  orcid: 
-  description: 'Miguel holds a BSc and a MSc in Bioengineering from the Faculty of Engineering of the University of Porto (FEUP), with a specialization in Biomedical Engineering. He joined the lab in 2024 for his master’s dissertation, where he contributed to the development of a platform for the real-time acquisition of neurotransmitter biomarkers, in collaboration with the 2D Materials and Devices and the Systems Engineering groups at INL. He is currently a PhD student, focusing on the development of a system for optimizing deep brain stimulation (DBS) parameters in patients with Parkinson’s disease.'
+  description: 'Miguel holds a BSc and a MSc in Bioengineering from the Faculty of Engineering of the University of Porto (FEUP), with a specialization in Biomedical Engineering. He joined the lab in 2024 for his master’s dissertation, where he contributed to the development of a platform for the real-time acquisition of neurotransmitter biomarkers, in collaboration with the 2D Materials and Devices and the Systems Engineering groups at INL. He is currently a PhD student, focusing on the development of a hybrid system to map motor and non-motor features in patients with Parkinson´s Disease to optimize deep brain stimulation (DBS) programming (in collaboration with the NeuroMechatronics Lab, Carnegie Mellon, USA and the Neurology Department at ULS São João).'
 
 - name: Silvio Mujica
   image: /img\members\SMujica.jpg
@@ -170,12 +170,3 @@
   description: "Salomé holds a BSc in Biology from the University of Porto and is currently pursuing an MSc in Neurobiology at the Faculty of Medicine of the University of Porto. Her master's research focuses on neurotransmitter profiling in treatment-resistant depression using analytical techniques, including graphene-based biosensors."
 
 
-- name: Tiago Pereira
-  image: /img/members/TPereira.png
-  altimage: /img/members/TPereira.png
-#  pronouns: 
-  position: Affiliated researcher
-  email: tiago.pereira (at) inl.int
-#  scholar: 
-#  orcid: 
-  description: "Tiago joined the lab in 2022 for his Master degree project in Engineering Physics focusing on the development of integration processes for graphene bioelectronic transistors and uLEDs in polymeric substrates for flexible neural interfaces (in collaboration with the 2D Materials and Devices group at INL). Now, as a research engineer at INL he continues to colaborate with the lab on the development of new fabrication methods for flexible neural interfaces for neurochemical detection."
