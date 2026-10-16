@@ -153,10 +153,21 @@
   altimage: /img\members\FMihalache.jpg
 #  pronouns: 
   position: Master student
-  email: 
+  email:  up202206022 (at) edu.fc.up.pt 
 #  scholar: 
 #  orcid: 
   description: "Francisca holds a BSc in Artificial Intelligence and Data Science and is currently completing an MSc in Artificial Intelligence at the University of Porto. Her research applies machine learning approaches to intraoperative recordings acquired during deep brain stimulation procedures, in collaboration with São João University Hospital Centre (CHUSJ), Porto"
+
+
+- name: Guilherme Antunes
+  image: /img\members\NewMemberM.png
+  altimage: /img\members\NewMemberM.png
+#  pronouns: 
+  position: Master student
+  email: 
+#  scholar: 
+#  orcid: 
+  description: 
 
 
 - name: Salomé Moura
